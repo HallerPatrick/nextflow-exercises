@@ -2,25 +2,12 @@ import json
 
 from collections import Counter
 
-
-def remove_sentence_symbols(text: str):
-    return (
-        text.replace(".", " ")
-        .replace(",", " ")
-        .replace(":", " ")
-        .replace(";", " ")
-        .replace("!", "")
-        .replace("?", "")
-        .replace(")", "")
-        .replace("(", "")
-    )
+from common import tokenize
 
 
-def tokenize(text_path: str):
-
-    with open(text_path, "r", encoding='utf-8') as f:
-        text = remove_sentence_symbols(f.read())
-        tokens = text.replace("\n", "").split(" ")
+def make_frequency(file_path):
+    
+    tokens = tokenize(file_path)
 
     c = Counter(tokens)
 
@@ -29,3 +16,4 @@ def tokenize(text_path: str):
     
     # Count of all unique words 
     print(list(c.values()).count(1))
+
