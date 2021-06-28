@@ -11,7 +11,7 @@ def make_frequency(file_path):
 
     c = Counter(tokens)
 
-    with open("frequencies.json", "w", encoding="utf-8") as f:
+    with open("freqs.json", "w", encoding="utf-8") as f:
         json.dump(c, f, indent=4)
     
     # Count of all unique words 

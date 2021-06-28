@@ -7,7 +7,7 @@ python_script = Channel.fromPath("./lib/exercise4.py")
 parts_sql = Channel.fromPath("./parts.sql")
 db = Channel.fromPath("./sample.db")
 
-process kmer {
+process table_scan {
     
     echo true
 

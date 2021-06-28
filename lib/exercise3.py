@@ -1,3 +1,5 @@
+import json
+
 from collections import deque
 
 from itertools import chain, repeat
@@ -35,9 +37,10 @@ def windowed(seq, n, fillvalue=None, step=1):
 def find_kmers(file_path):
 
     tokens = tokenize(file_path)
+    
+    kmers = {"8mers": [list(windowed(token, 8)) for token in tokens]}
 
-    for token in tokens:
-        if len(token) >= 8:
-            print(list(windowed(token, 8)))
+    with open("kmers.json", "w") as f:
+        json.dump(kmers, f)
 
 

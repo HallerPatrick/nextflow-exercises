@@ -19,7 +19,7 @@ process tokenize {
     path 'exercise2.py' from python_script
 
     output:
-    file 'frequencies.json' into out_file
+    file 'freqs.json' into out_file
 
     '''
     #!/usr/bin/env python3
@@ -30,6 +30,10 @@ process tokenize {
 
     '''
 
+    '''
+    #!/bin/bash
 
+    python3 exercise2.py
+    '''
 }
 
