@@ -1,0 +1,850 @@
+Kosmos.
+Entwurf einer physischen Weltbeschreibung von Alexander von Humboldt . Fünfter Band.
+Stuttgart . Cotta'scher Verlag . 1862 .
+Buchdruckerei der J. G. Cotta'schen Buchhandlung in Stuttgart und Augsburg.
+Kosmos.
+Fortsetzung der speciellen Ergebnisse der Beobachtung in dem Gebiete tellurischer Erscheinungen.
+Einleitung.
+Der fünfte und letzte Band des Kosmos, für welchen ich diese Einleitung bestimme, beschließt die Darstellung der tellurischen Erscheinungen in ihrer reinsten Objectivität.
+Er bildet sammt dem 4ten Bande, als dessen Fortsetzung er zu betrachten ist, nach dem ursprünglichen Plan meines Werkes gewissermaßen ein abgerundetes Ganzes: das, was man gewöhnlich die physische Erdbeschreibung zu nennen pflegt.
+Es war lange mein Wunsch diesen 5ten Band als eine zweite Abtheilung des 4ten und mit der ersten Abtheilung zugleich erscheinen zu lassen, als Gegenstück des alleinigen dritten, uranologischen Bandes; aber die durch die Erfüllung dieses Wunsches verursachte noch unerfreulichere Verzögerung der Publication mußte als ein Hinderniß auftreten.
+Wenn in dem astronomischen Bande die sich gegenseitig störenden und wieder ausgleichenden Bewegungen der Weltkörper und (den Contact der in unserem Planetensysteme kreisenden Meteor-Asteroiden abgerechnet) für unsere Wahrnehmung nur die Thätigkeit gleichartiger Materien zu schildern ist; so offenbart dagegen der irdische Theil des Kosmos, neben den dynamischen Wirkungen bewegender Kräfte, den mächtigen und wundersam zusammengesetzten Einfluß specifischer Stoff-Verschiedenheit (Kosmos Bd. III. S. 4 und 594).
+In dem hier berührten Unterschiede von Complication und relativer Fülle des zu behandelnden Materials liegt zum Theil die Ursach (ich wage nicht zu sagen die Rechtfertigung) des so überaus großen Zwischenraums in der Zeit des Erscheinens der einzelnen Bände.
+Der Hauptgrund wachsender Zögerung liegt aber in der Abnahme der Lebenskräfte eines fast neunzigjährigen Greises, wenn bei gleichbleibender nächtlicher Arbeitsamkeit weniger und mit minder heiterer Zuversicht gefördert werden kann.
+So sind seit der Zeit, welche ich in der Vorrede zum ersten Bande des Kosmos „den späten Abend eines vielbewegten Lebens“ nannte, bereits mehr als zwölf Jahre verflossen.
+Als Descartes an seinem Kosmos, le Traité du Monde, arbeitete, welcher die „ganze Welt der Erscheinungen (die himmlische Sphäre, wie alles, was er von der belebten und unbelebten Natur wußte)“ umfassen sollte, brach er häufig in den Briefen an seinen Freund, den Pater Mersenne, die Baillet 1691 bekannt gemacht hat, in bittere Klagen aus über das langsame Fortschreiten seiner Arbeit und die große Schwierigkeit so viele Gegenstände an einander zu reihen (Oeuvres de Descartes, publiées par Victor Cousin 1824, T. I. p. 101; Kosmos Bd. III. S. 20).
+Wie viel bitterer würden die Klagen des so vielseitig, selbst anatomisch, unterrichteten Philosophen gewesen sein, wenn er die Mitte des 19ten Jahrhunderts, den fast entmuthigenden Anblick der erweiterten Sphären reich erfüllter Himmels- und Erdräume hätte erleben können!
+Noch vor zehn Jahren lebte ich, wie mein Kosmos am Ende des zweiten Bandes (S. 398) es bezeugt, in der täuschenden Hoffnung die Haupt-Ergebnisse specieller Beobachtung, welche jetzt drei Bände füllen werden, in einen einzigen letzten Band vereinigen zu können.
+Es gelingt leichter, wenn man einige Anmuth der Form bewahren will, ein allgemeines Weltgemälde innerhalb vorerkannter Grenzen zu entwerfen als, in verschiedenartige Gruppen vertheilt, die einzelnen Elemente zu beleuchten, auf welche man vorzugsweise zu einer bestimmten Zeitepoche unsrer wissenschaftlichen Erkenntniß die Resultate gegründet glaubt.
+Bei der Vollendung einer wenigstens mit ausdauerndem Fleiße durchgeführten Arbeit ist es dem Verfasser wohl erlaubt noch einmal die Frage zu berühren: ob sein Buch vom Kosmos dem ursprünglich vorgeschriebenen Plane, ich möchte sagen der Beschränktheit treu geblieben ist, welche ihm nach seiner individuellen Ansicht, nach seiner Kenntniß von dem bisherigen Zustande des errungenen Wissens rathsam schien.
+Ich habe in dem Buche erstrebt: eine denkende Betrachtung der durch die Empirie gegebenen Erscheinungen, die Zusammenstellung des Entwicklungsfähigen zu einem Naturganzen.
+Die Verallgemeinerung der Ansichten von den Uebergängen der realen, ununterbrochen thätigen Naturprocesse in einander (eines der herrlichsten Ergebnisse unseres Zeitalters!) führt zur Erforschung von Gesetzen, da, wo sie zu erkennen oder wenigstens zu erahnden sind.
+Klarheit und Lebendigkeit der Sprache in der objectiven Darstellung der Erscheinungen wie in dem Reflex der äußeren Natur auf das geistige Leben im Kosmos, auf die Gedanken- und die Gefühlswelt gehören zu den nothwendigen Bedingnissen einer solchen, ich darf wohl sagen noch nie ausgeführten Composition (Kosmos Bd. II. S. 3-8, 50-52; Bd. III. S. 6-8).
+Die Aufzählung meiner Bestrebungen giebt ihrem Wesen nach unvermeidlich Veranlassung, an die Beziehungen zu mahnen, in welchen das von mir Versuchte zu den Wagnissen einer metaphysischen Naturwissenschaft, zu dem steht, was tiefe Denker Naturphilosophie im Gegensatz der Philosophie des Geistes nennen.
+Ich habe schon früher freimüthig und in Widerspruch mit mehreren von mir hochgeachteten vaterländischen Freunden erklärt, daß, trotz meiner großen Neigung zu Verallgemeinerungen, mir die Aufstellung einer rationellen Wissenschaft der Natur (eine dergestalt ausgebildete Naturphilosophie, daß sie ihrem Versprechen gemäß ein vernunftmäßiges Begreifen der Erscheinungen des Weltalls sei) ein bisher unerreichbares Unternehmen scheine.
+Wie vieles von der sinnlichen Wahrnehmung erkanntes bleibt noch einer mathematischen Gedankenentwickelung fremd!
+Die scheinbar allen Gesetzen entzogene Reihung in der Größe, der Dichtigkeit, Achsenstellung und Bahn-Excentricität der Planeten und Satelliten; die Gestaltung der Continente in Küstenform und Boden-Erhöhung sind wahrscheinlich Resultate sehr spät eingetretener kosmischer Begebenheiten, wie das in unseren Tagen (Dec. 1845) erfolgte Ereigniß der permanenten Theilung des Biela'schen Cometen (Kosmos Bd. III. S. 24 und 568-570).
+Dazu kennen wir bei weitem nicht alle Stoffe und alle Kräfte (Thätigkeiten) der Natur; und die Unbegrenztheit der Beobachtungssphäre, welche durch neu-erfundene Mittel (Werkzeuge) der Beobachtung täglich erweitert wird, ja die Unvollendbarkeit des Erkennens für jeden einzelnen Zeitpunkt der Speculation machen gewissermaßen die Aufgabe einer theoretischen Naturphilosophie zu einer unbestimmten.
+Naturbeschreibung führt jetzt nur in einzelnen Gruppen der Erscheinungen zu einer Natur-Erklärung.
+Das emsigste Bestreben der Forschung (ich wiederhole es hier) muß auf die Bedingungen gerichtet sein, unter denen die realen Processe in dem großen und verwickelten Gemeinwesen, welches wir Natur und Welt nennen, erfolgen; auf die Gesetze, die man in einzelnen Gruppen mit Gewißheit erkennt.
+Von den Gesetzen gelingt es aber nicht immer zu den Ursachen selbst aufzusteigen.
+Das Erforschen eines partiellen Causalzusammenhanges und die allmälige Zunahme der Verallgemeinerungen in unserer physischen Erkenntniß sind für jetzt die höchsten Zwecke der kosmischen Arbeiten.
+Schon in der hellenischen Ideenwelt boten dem Scharfsinn des mächtigen Heraklits von Ephesus, des Empedoclesund des Klazomeniers specifische Stoff-Verschiedenheit und Stoffwechsel (Uebergang der Elemente in einander) unbezwingbare Probleme dar: wie zu unserer Zeit die Stoff-Verschiedenheit der zahlreichen sogenannten einfachen Körper der Chemiker und die Allotropien der Kohle (mit Diamant und Graphit), des Phosphors und des Schwefels.
+Wenn ich die Unbestimmtheit und Schwierigkeit der Aufgabe einer theoretischen Naturphilosophie lebhaft geschildert habe, so bin ich doch weit entfernt, von dem Versuche des einstmaligen Gelingens in diesem edeln und wichtigen Theile der Gedankenwelt abzurathen.
+Die metaphysischen Anfangsgründe der Naturwissenschaft des unsterblichen Philosophen von Königsberg gehören allerdings zu den merkwürdigsten Erzeugnissen dieses großen Geistes.
+Er schien seinen Plan selbst beschränken zu wollen, als er in einem Vorworte äußerte, „daß metaphysische Naturwissenschaft nicht weiter lange, als wo Mathematik mit metaphysischen Sätzen verbunden werden könne“.
+Ein mir lange befreundeter, den Kantischen Ansichten leidenschaftlich zugethaner Denker, Jacob Friedrich Fries, glaubt am Schluß seiner Geschichte der Philosophie erklären zu müssen: „daß von den bewundernswürdigen Fortschritten, welche die Naturlehre bis zum Jahr 1840 gemacht, alles der Beobachtung und der Kunst der Geometrie, der Kunst mathematischer Analysis angehöre; die Naturphilosophie habe bei diesen Entdeckungen gar nichts gefördert.“
+Möge ein Zeugniß bisheriger Unfruchtbarkeit nicht alle Hoffnung für die Zukunft vernichten!
+denn es geziemt nicht dem freien Geiste unserer Zeit, jeden zugleich auf Induction und Analogien gegründeten philosophischen Versuch, tiefer in die Verkettung der Naturerscheinungen einzudringen, als bodenlose Hypothese zu verwerfen: und unter den edeln Anlagen, mit welchen die Natur den Menschen ausgestattet hat, bald die nach dem Causalzusammenhang grübelnde Vernunft; bald die regsame, zu allem Entdecken und Schaffen nothwendige und anregende Einbildungskraft zu verdammen.
+Ich meines Theils glaube geleistet zu haben, was ich nach der Natur meiner Neigungen und nach dem Maaß meiner Kräfte zu unternehmen mir vorsetzen konnte.
+Ich wünschte ein Werk zu liefern nach dem großen Vorbilde der Exposition du Système du Monde von Laplace, in dessen anregender Nähe ich in Arcueil und im Bureau des Longitudes auf der Pariser Sternwarte, mit Gay-Lussac und Arago, über zwanzig Jahre das Glück hatte zu verleben.
+Wenn wir schon in der Mechanik des Himmels, trotz der Einfachheit der wirkenden Kräfte, in vielen Zuständen des Seins der Weltkörper nicht auch ihr Geworden-Sein erkennen; wenn selbst in den numerischen Verhältnissen der Planeten-Abstände unter einander, ihrer Massen- und Größenfolge, in der Neigung ihrer Achsen, wie in der Form der Sternhaufen und Nebelflecke sich fast alles bisher der mathematischen Gedankenentwicklung entzieht (vielleicht weil, wie ich bereits erinnert, diese Verhältnisse Folgen sehr verschiedenartiger, partieller Himmels-Begebenheiten sind): so konnte in der terrestrischen Zone, wo die Stoff-Verschiedenheit thätig auftritt und die Probleme verwickelt, wohl nicht die Hoffnung entstehen, daß die Weltbeschreibung zugleich eine Welterklärung sein würde.
+Selbst Platons geistige verallgemeinernde Macht würde da nicht hinreichen: wo in jedem Zeitpunkt dem Versuch einer Lösung, bei jeder erhöhten Stufe des Wissens, noch die Ueberzeugung mangelt, die Bedingungen alle zu kennen, unter denen die Erscheinungen sich zeigen; die Stoffe alle, deren thätige Kräfte sich so geheimnißvoll äußern.
+Ich habe nicht unterlassen wollen den wichtigsten aller Vorwürfe, welche gegen die wissenschaftliche und litterarische Composition meines Kosmos gerichtet worden sind, frei selbst zu berühren.
+Eine solche erneuerte Rechtfertigung war mir geboten durch meine Verpflichtung gegen das Publikum, welches nun schon seit mehr als einem halben Jahrhundert meinen Arbeiten eine anregende Aufmerksamkeit geschenkt hat.
+Mein Zweck war, in einzelnen großen Gruppen der realen Naturprocesse Gesetze und unverkennbare Beweise eines Causalzusammenhangs aufzusuchen.
+Die Zahl und die Wichtigkeit dieser einzelnen Gruppen hat sich seit einem halben Jahrhundert mit wachsender Schnelligkeit auf das glücklichste vermehrt.
+Beispiele aus weit von einander getrennten Gebieten sind hier mit wenigen Zügen zu bezeichnen.
+Seit der ersten Einsicht, welche Huygens und Newton, Grimaldi und Robert Hooke von dem Causalzusammenhange der Doppelbrechung und Interferenz erlangt hatten, waren, ohne namhafte Erweiterung der theoretischen Optik, hundert und dreißig Jahre vergangen: bis Thomas Young, Malus, Arago und Fresnel die glänzendsten Emdeckungen über die wahre Natur der Interferenz bei Kreuzung von Lichtstrahlen und Verschiedenheit der von ihnen durchlaufenen Wege sowohl bei gewöhnlichem als bei polarisirtem Licht; über die Polarisation durch Reflexion, Refraction und Doppelbrechung; so wie über chromatische und kreisförmige Polarisation bekannt machten.
+(Oeuvres de Fr.
+Arago T. VII. p. 307, 344–369, 375–392.)
+Diese Entdeckungen und die schönen durch Arago veranlaßten Arbeiten von Fizeau und Foucault (1849 und 1850) haben den Ungrund der Vorstellung von der Materialität des Lichtes erwiesen; und durch die Annahme sich fortpflanzender Aetherschwingungen sind die verwickeltsten optischen Erscheinungen den mathematischen Gedankenverbindungen (der höheren Analyse) in fruchtbarem, auch die Meteorologie und einige Theile der physischen Sternkunde aufklärenden Zusammenhange zugänglich geworden.
+(Arago in den Comptes rendus de l'Acad. des Sc. T. VII. 1838 p. 956, Kosmos Bd. III. S. 130.)
+In der Physik wie in der theoretischen Chemie sind gruppenweise wichtige Verallgemeinerungen dargeboten worden durch Auffindung des Gesetzes, welches die specifische Wärme der einfachen und zusammengesetzten Körper mit ihrem Atom-Gewichte in dem Sinne der bequemen und weit verbreiteten Bildersprache der Atomistik verknüpft; durch die Einsicht in die krystallographischen Verhältnisse des Isomorphismus und die stöchiometrische Lehre von den chemischen Aequivalenten, der zufolge sich die wägbaren Stoffe nach bestimmten Verhältnißzahlen vereinigen.
+Die von Prout aufgeworfene Frage, ob die Atom-Gewichte aller Clementarstoffe (Chlor und vielleicht Kupfer ausgenommen) theilbar durch das Atom-Gewicht eines einzigen (des Hydrogens?) sind, ist mit großem Scharfsinn erneuert worden.
+Die katalytische Kraft, nach der gewisse Körper in Berührung mit anderen eine geheimnißvolle chemische Wirksamkeit ausüben, ohne daß die veranlassenden Körper irgend eine Veränderung erleiden; ist eine erkannte, aber in Dunkel gehüllte, noch unerklärte Kraft, welche nach Berzelius sich auch in den verwickelten Processen des organischen Lebens mannigfach äußert.
+In dem neu eroberten Gebiete des Electro-Magnetismus sind vorzugsweise zu nennen, als den Horizont erweiternd und wichtigeres noch als das schon Geleistete verheißend: die wahre Einsicht in die Vorgänge der Induction; der so specifisch verschiedene Einfluß heterogener Stoffe auf die Richtung der Magnetnadel, der sie genähert werden: paramagnetisch wirkend, wie Eisen, Kobalt, Nickel und Sauerstoff, letzterer gasförmig und sogar im sehr verdünnten Zustande: während daß Stickgas selbst nach Plücker weder paramagnetisch noch diamagnetisch, sondern indifferent ist; die schöne Entdeckung, nach welcher die Krystalle durch die Pole eines Magnets in gewissen Richtungen abgestoßen oder angezogen werden; endlich die erlangte Gewißheit, daß nicht bloß die Periodicität der Sonnenflecken (Größe und Frequenz der trichterförmigen Oeffnungen in der Photosphäre, welche der Aequatorial- und Polar-Gegend fehlen), sondern auch die Nähe der Sonne durch die ihrer Masse inwohnende magnetische Kraft (Kosmos Bd. IV. S. 684) auf den Erd-Magnetismus wirke.
+Die Intensität ist größer und die Nadel nähert sich am meisten der verticalen Richtung wenn im Winter die nördliche Hemisphäre der Erde der Sonne am nächsten steht.
+Diese erst in den letzten Jahren aufgefundene Thatsache eines unzweifelhaften Zusammenhanges des Magnetismus unseres Planeten mit der mächtigen Magnetkraft des fernen Centralkörpers unseres Systems giebt einer wichtigen Gruppe irdischer Erscheinungen im weitesten Wortsinne einen kosmischen Charakter.
+Wenn wir so eben einen electro-chemischen Proceß berührt haben, der wie ein perpetuirliches Gewitter in dem Sonnenkörper, Licht und Wärme erregend, vorzugehen scheint; so müssen wir auch der neuen wichtigen Ansicht gedenken, welche eine allverbreitete Thätigkeit der Materie, die Wärme, betrifft:
+möge dieselbe von außen mitgetheilt; oder durch Stoß, Reibung, Volum-Veränderung und chemische Einwirkungen hervorgerufen werden.
+Ich meine die vielartig und mit großem Aufwand von Scharfsinn entwickelte mechanische Wärme-Theorie, das so lebendig gewordene Bestreben alle Wirkungen der Wärme und der Electricität auf den Begriff der Bewegung zurückzuführen.
+Jede Erwärmung eines Körpers entspricht der Erzeugung einer mechanischen Kraft, einer gewissen meßbaren Arbeit.
+Jede Wärme-Menge hat ihr Arbeits-Aequivalent: so daß es im allgemeinen wenigem Zweifel zu unterliegen schiene, daß Wärme sich in Arbeit, d. h. in eine mechanische Wirkung, umwandeln; und umgekehrt, daß mechanische Arbeit als Wärme auftreten kann; aber im einzelnen bleibt bisher das Zurückführen aller Temperatur-Erscheinungen (der Wärme-Mittheilung, der latenten und der specifischen Wärme) vielen etwas willkührlichen Annahmen ausgesetzt: selbst wenn wir auch, ohne das Carnot'sche Princip von der Erhaltung der lebendigen Kraft zu umgehen, um das in Frage stehende Problem einer mathematischen Gedankenverbindung unterwerfen zu können, uns mit allen Mythen der Atomistik versöhnen; und für wahr halten, daß alle Körper neben der ponderablen Materie noch schwingenden, alles durchdringenden, alles erfüllenden Aether von äußerst geringer Dichtigkeit enthalten.
+Wir bezeichnen hier bloß die Klippen; denn es ist nicht alles zu verneinen, was man noch nicht zu erklären vermag.
+Wenn wir in diesem Werke vom Kosmos, trotz der Aussichten, die sich in jedem Jahrhundert in vielen Regionen des Naturwissens fortschreitend eröffnet haben, oft von der Nicht-Erfüllung naher Hoffnungen, von dem Nicht-Gelingen einer generellen Zurückführung der physikalischen Erkenntniß auf eng verkettete Principien der theoretischen Naturphilosophie reden; so befürchten wir darum keinesweges, daß durch unsere Schuld die Lebendigkeit des Forschens nach Gesetzen, das Streben nach Causalität, welches ein tiefes und unwiderstehliches Bedürfniß des menschlichen Geistes ist, sich mindern werde.
+Es ist geglückt, durch Combination des Beobachteten in der Auflagerung und Durchbrechung der Gebirgsschichten der festen Erdrinde, in der Reihenfolge untergegangener Organismen, welche diese Schichten erkennbar einschließen, chronometrische Denkmäler von dem Alter der Entstehung und Hebung aufzufinden.
+Die dynamischen Wirkungen der Erdbeben, die Thermalquellen, mit so mannigfaltigen Stoffen geschwängert, die Schlamm-Ausbrüche der Salsen und die Vulkane selbst verschiedener Zeitepochen, durch Erdspalten oder durch eigene Gerüste wirkend: haben in ihrem inneren Zusammenhange als eine Reaction des Inneren unsres Planeten gegen seine Oberfläche geschildert werden können.
+Wir gerathen dadurch in Versuchung zu glauben, es seien uns aus alten Geschichtsbüchern über die Bildung des Erdkörpers einige Seiten lesbar geworden; und fahren, so lange dem freien Gedanken seine Berechtigung wird, um so froheren Muthes fort in dem Bestreben die Veränderungen der Materie, so weit sie von der denkenden, geistigen Natur der menschlichen Seele ganz zu trennen sind, aus natürlichen Ursachen, d. h. aus der Thätigkeit der Materie selbst, zu erklären.
+Da ich es gewagt habe dem Titel meines Werkes das Wort Kosmos, im Sinn der pythagoreischen Schule für Weltordnung genommen, vorzusetzen, so habe ich auch in dem 1ten Bande (S. 61 und 76-78) alles zusammengetragen, was in den Kreisen des hellenischen Sprachzusammenhanges sich an die Etymologie zu verschiedenen Zeiten knüpfte.
+Derselbe Gegenstand ist (am Schluß des Jahres 1856) von Dr. Leo Meyer, Privat-Docenten in Göttingen, mit Scharfsinn und in erwünschter Allgemeinheit behandelt worden.
+„Lautlich“, sagt der Verfasser der Abhandlung über die Wortbedeutung von Kosmos in den ältesten (homerischen) Denkmalen der griechischen Sprache, „lautlich würde die Zusammenstellung mit 'sudh, rein sein, purisicari, sich allerdings rechtfertigen lassen, und dadurch würde sich als Grundbedeutung für das Wort ergeben „Reinheit, Glanz“; und das unmittelbar daraus hergeleitete κοσμέω würde zuerst „reinigen, glänzend machen“; darnach „schmücken“, später erst auch „ordnen“ bedeuten.
+Diesen Bedeutungs-Uebergängen aber widerspricht die Geschichte des Worts durchaus, es leitet dieselbe auf eine völlig verschiedene Grundbedeutung hin.
+Diese Grundbedeutung ist theilen, eintheilen; und eine einzige Stelle (Ilias XII, 86), wo es von den Troern heißt, daß sie fünffach eingetheilt, in fünf Abtheilungen standen, könnte fast schon genügen die Unmöglichkeit des Begriffs „glänzend machen“ für κόσμος darzulegen.
+Unter allen zahlreichen homerischen Stellen, die man aufzählen kann, findet sich nicht eine einzige, in der die Bedeutung „Glanz“ möglich wäre; und nur an zweien hat Kosmos scheinbar die Bedeutung „Schmuck“ oder nähert sich derselben.
+Als gemeinsame Grundform für κόσμος und für κεκάσθαι läßt sich mit ziemlicher Sicherheit καδ ansetzen, mit der Bedeutung „theilen“, ursprünglich wohl „spalten“: mit dem alt-indischen chid (tschid), dem griechischen σκίζω und dem lateinischen scindo zusammenhangend.“
+Den Resultaten dieser gründlichen Untersuchung von Dr. Leo Meyer giebt mein berühmter Freund und Lehrer Böckh vollen Beifall.
+„Der Begriff des Ordnens beruht“ auch nach ihm „wesentlich auf dem des Scheidens; letzterer ist augenscheinlich der ursprüngliche: und um den Beweis nicht auf den Homer zu beschränken, ist daran zu erinnern, daß in Kreta die höchste Behörde, die Ordner und Archonten des Staats, κόσμοι (auch κόσμιοι) hießen: ein Name, der gewiß aus sehr früher Zeit stammt.
+Eben so finden wir bei den epizephyrischen Lokrern als Obrigkeit den κοσμόπολις.
+Belehrend ist ebenfalls der Anaxagorische Gebrauch des Wortes als Scheidung in der merkwürdigen Stelle: χρήματα ἦν ὁμοῦ, εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε (Schaubach in fragm. Anaxag. p. 128, 111); und daß Democrit das Wort διάκοσμος da gebraucht hat, wo es nur ein Geordnetes bedeuten kann.
+Auch daß Leo Meyer das verlorene κάζω mit κόσμος zusammenbringt, ist unstreitig richtig; und Sie haben selbst schon in Ihrem Werke erinnert, wie Welcker damit Κάδμος in Verbindung gesetzt hat.“
+Das Alter, das ich während der Vollendung der physischen Weltbeschreibung erreicht habe, und das Gefühl abnehmender Kräfte könnten mich anregen, bei der großen und unerwarteten Nachsicht, mit welcher das Werk bis zu seinem verspäteten Ende in weiten Kreisen aufgenommen worden ist, den Wunsch um Erhaltung oder gar um Zunahme dieser Nachsicht auszusprechen; aber ich bin seit früher Jugend von dem wissenschaftlichen Ehrgeize, der meine ganze Geistesthätigkeit belebt hat, so durchdrungen, daß im Widerspruch mit jenem Wunsche ich das Bedürfniß fühle meine Arbeit mit größerer Strenge als bisher behandelt zu sehen.
+Die Verbreitung der fünf Bände des Kosmos ist um so größer, als dieselben in wenigstens neun verschiedene Sprachen übersetzt erscheinen.
+In der Masse von Thatsachen, besonders numerischen Angaben, welche in den Texten und in drittehalb-tausend Noten von so verschiedener Länge angehäuft sind, muß oft Irriges durch meine Schuld und durch die Schuld meiner Uebersetzer sich eingeschlichen haben.
+Ich nenne hier Irriges nicht, was dem später Entdeckten, sondern was dem widerspricht, das zu der Zeit, als ein Band des Werkes gedruckt wurde, nach dem damaligen Zustande des Wissens schon nicht mehr begründet war.
+Ungenau beobachtete Thatsachen aber oder Meinungen, die in dem Gewande von Thatsachen verbreitet werden, sind, wie ich schon früher bemerkt habe, widerspenstiger und schwerer zu verbannen als verwickelte Hypothesen über reale Naturprocesse.
+Ich würde besorgen eine mir theure Pflicht vernachlässigt zu haben, wenn ich am Schluß einer Einleitung zu dem letzten Bande des Kosmos den mir so wichtigen Beistand nicht öffentlich anerkennte, welchen ich dabei, nun schon über dreizehn Jahre lang, einem werthen Freunde verdanke und dessen sich auch mein Bruder Wilhelm von Humboldt bei der Herausgabe seiner philosophischen Untersuchungen über die Kawi-Sprache auf Java, wie über die Verschiedenheit des menschlichen Sprachbaues erfreut hatte.
+Kein Blatt des Kosmos ist erschienen, das nicht in der Handschrift und gedruckt dem scharf eindringenden Blicke des Professors Eduard Buschmann, Bibliothekars an der königlichen Bibliothek zu Berlin und Mitglieds der Akademie der Wissenschaften, unterworfen worden wäre.
+Er ist auch der Vermittler meiner Handschrift gewesen, und viel länger schon hatte er mir eine liebevolle Anhänglichkeit gewidmet.
+Seiner unermüdeten Thätigkeit und linguistischen Kenntniß des südöstlichen Asiens verdanken wir auch die Fortsetzung des großen Werks meines Bruders und dessen Erweiterung durch ferne Zweige des malayischen Sprachstammes.
+Sein Bestreben, in den noch so wenig abgesonderten amerikanischen Sprachfamilien, in denen er tief eindringende Arbeiten mit meinem Bruder gepflogen, Geschichtsdenkmale früher Völkerwanderungen und des Entwicklungsganges der Menschheit im Neuen Continent zu enthüllen, hat bereits eine Zahl merkwürdiger Resultate an das Licht gebracht.
+Bei dem regen Wunsche, den Reichthum des verschiedenartigsten Materials in dem Entwurf einer physischen Weltbeschreibung zu concentriren, mußte ich um so ernster einige Correctheit in der Form erstreben.
+In den verschiedenen Sprachen, in welchen ich durch ein vielbewegtes Leben zu schreiben veranlaßt wurde, habe ich immer Freunden, denen ich mein Vertrauen zu schenken berechtigt war, das zu Druckende vorgelegt, weil die Färbung des Ausdrucks in seiner erhöhten Lebendigkeit keinesweges dieselbe sein darf in der einfachen, in reiner Objectivität aufgefaßten Naturbeschreibung, und in dem Reflex der äußeren Natur auf das Gefühl und die innere Natur des Menschen.
+In jeder Litteratur aber sind diese Grenzen nach dem Wesen der Sprache und dem Volksgeiste anders gezogen, um dem Unheil einer dichterischen Prosa zu entgehn.
+Nur heimisch, in der angeborenen, vaterländischen Sprache kann durch Selbstgefühl das richtige Maaß der Färbung wie bewußtlos bestimmt werden.
+Die Anerkennung dieses Könnens liegt fern von dem anmaßenden Glauben an das Gelingen.
+Sie soll hier nur das sorgsame Erstreben bezeichnen, durch Vervollkommnung der Form an die innige Verwandtschaft zwischen einzelnen Theilen wissenschaftlicher und rein litterarischer Werke zu erinnern; an eine Verwandtschaft und Behandlungsweise, die den ersteren keinesweges Gefahr bringt.
+(Geschrieben im Juli 1858.)
+Anmerkungen.
+(S. 5.)
+„Aristoteles“, sagt Brandis in seiner Geschichte der Griechisch-Römischen Philosophie (Th. II. Abth. 2. S. 45), „ist der entschiedenste Vertreter der Rechte der Erfahrung; er ist zugleich Lord Bacon's Vorgänger und sein an Tiefe und Umfang des Geistes ihm überlegener Gegner.
+Das Ausgehen vom Empirischen war ihm ein Bedürfniß, weil er überzeugt war, daß der menschliche Geist die Welt des Wirklichen nicht aus dem Begriffe, sondern nur vermittelst des Begriffs zu erkennen vermöge: und zwar in dem Maaße, in welchem der letztere in seiner Wechselbeziehung mit den Thatsachen der Erfahrung entwickelt werde.“
+Auch Hegel nennt den Stagiriten als Naturphilosophen einen völligen, zugleich aber auch einen denkenden Empiriker (Vorlesungen über die Geschichte der Philosophie, herausgegeben von Michelet, Bd. II. 1833 S. 340).
+Ueber den langen Kampf zwischen Realismus und Idealismus, die geschichtlichen Phasen der Erfahrungs-Philosophie wie über die Entwicklungsstufen des Empirismus im allgemeinen s. den geistreichen Kuno Fischer in seinem „Franz Baco von Verulam und das Zeitalter der Realphilosophie“ (1856) S. 383–388, vorzüglich S. 468–472.
+(S. 7.) Im strengeren Sinne der Worte und in größerer Verallgemeinerung der Begriffe ist „Weltbeschreibung die Geschichte der Natur und der Menschheit.
+Die Welt-Erklärung ist die Wissenschaft, welche erkennt, was die Geschichte berichtet.“
+(Franz Baco von Verulam, a. a. O. S. 165.)
+(S. 7.)
+In den Heraklitischen Naturprocessen bestand das Werden in einem beständigen Umschlagen in das stricte Gegentheil; „des Feuers Tod ist der Luft Geburt“:
+denn Untergang ist nur die Umwandlung der untergehenden Dinge in das Gegentheil eines jeden.
+Wie im organischen Körper, so herrscht ein beständiger Umwandlungs-Proceß im Weltall.
+Leben und Sterben waren dem Epheser identische Naturprocesse, ja das Leben ein Proceß des immerwährenden Sterbens: ein Ausspruch, der mich an den des Dante im Purgatorio (XXXIII, 54) mahnt:
+Del viver, ch'è un correre alla morte.
+Der physische Lebensproceß des Individuums besteht in dem Uebergange vom Sein zum Nichtsein; in einer Bewegung wie ein Strom, ein Fließen.
+Auch die Sonne ist immer neu, begriffen im stetigen Proceß des Verlöschens und sich Entzündens.
+Jede Flamme hat wie die Sonnenflamme in ihrem Werden ihr Sein. S. die Philosophie Heraklitos des Dunkeln von Ephesos dargestellt von Ferd. Lassalle 1858 Bd. I. S. 157–163, Bd. II. S. 104 bis 110.
+In diesem Buche zeigt der Darsteller auch den merkwürdigen Einfluß von Heraklit dem Dunklen auf Hippocrates de diaeta; s. Lassalle Bd. I. S. 165–171. Hegel (Geschichte der Philosophie, herausg. von Michelet, Bd. I. 1833 S. 333) sagt: „es ist ein großer Gedanke von Heraklit, vom Sein zum Werden überzugehn“.
+Auch Aristoteles erkennt, daß alles Werden und Vergehen, alle Veränderung gegensätzlich sich entwickelt durch das Mittel der sogenannten Beraubung (Aristoteles und seine akademischen Zeitgenossen von Aug. Brandis in der Geschichte der Philosophie Th. II. Abth. 2. 1857 S. 704 und 716).
+Schon nach den uralten Sprüchen (Gâthâs) des bactrischen Zarathustra (übersetzt von Martin Haug I. S. 101) „ist der Gesammt-Inhalt des Erdenlebens der Gegensatz von Seyn und Nichtseyn“.
+(S. 7.) Empedocles wird von Aristoteles nach einer Stelle im 1ten Buche der Metaphysik (I, 4 p. 985, a 32; wie auch I, 3 p. 984, a 8) als der eigentliche Urheber der bestimmten Vierzahl von Elementen (Wurzeln der Dinge) bezeichnet: einer Vierzahl, die in solcher numerischen Bestimmtheit den Milesiern Anaximander und Anaximenes fremd war (Brandis Th. I. 1835 S. 196).
+(S. 7.)
+Um im Werden die qualitativen Veränderungen oder die Uebergänge der Beschaffenheit zu erklären, nahm Anaxagoras, von Aristoteles getadelt, statt der Vierzahl von Urstoffen „eine unermeßliche Mannigfaltigkeit einfacher, qualitativ bestimmter, von einander verschiedener Urstoffe (Saamen der Dinge) an: so daß Entgegengesetztes sich aus dem Entgegengesetzten entwickeln könne“.
+Nach Angabe des Simplicius tadelt der Klazomenier die Hellenen wegen der gemeinen Ansicht von Werden und Vergehen:
+denn kein Ding werde und vergehe, sondern seiende Dinge werden gemischt und gesondert, und man könne mit Recht das Werden ein Gemischt-Werden, das Vergehen ein Gesondert-Werden nennen.
+Die Allheit der Dinge bleibt sich gleich.
+(Brandis Th. I. S. 240, Kosmos Bd. IV. S. 12.)
+Das Anaxagorische Alles in Allem (πάντα ἐν πᾶσιν, oder ἐν παντὶ παντὸς μοὶρα ἔνεστι) bezieht sich auf die Erscheinungen des Stoffwechsels.
+Wenn nach des Sextus Empir.
+(Pyrrhoniarum hypotyposcon lib. I, 13, 33) Angabe Anaxagoras daraus, daß das Wasser, aus welchem der Schnee sich bildet, schwarz sei, die Folgerung gezogen haben soll, der Schnee sei schwarz; Cicero (Lucull. 31) dagegen ihn aus demselben Grunde nur folgern läßt, der Schnee sei nicht weiß; und auch Galen (de simpl. medicam.
+II, 1) ihm nur die letztere Behauptung beilegt: so bleibt es sehr zweifelhaft, ob der Klazomenier selbst den Schnee so entschieden schwarz genannt habe, wie die Späteren annahmen. (S. darüber Jul. Ideler, Meteorol.
+Graec. et Rom. 1832 p. 147 und seine Ausgabe der Meteorologica des Aristoteles Vol. II. 1836 p. 481.)
+Anaxagoras lehrte wohl nur, daß jedes Gewordene Theile von anderem (oder von allem) in sich halte. —
+Vergl. den durch Tiefsinn und Sprache ausgezeichneten Schelling (sämmtl.
+Werke Abth. I. Bd. 2. 1857 S. 267–273; I, 3. 1858 S. 24–26).
+(S. 8.) Der Philosoph, welcher die Möglichkeit einer Naturphilosophie oder speculativen Physik glaubte erwiesen zu haben (Schelling's sämmtliche Werke Abth. I. Bd. 3. S. 274), gesteht selbst (S. 105): „daß die Kraft, die in der ganzen Natur waltet und durch welche die Natur in ihrer Identität erhalten wird, bisher noch nicht aufgefunden (abgeleitet) worden ist.
+Wir sehen uns aber zu derselben hingetrieben; doch bleibt diese eine Kraft immer nur eine Hypothese, und sie kann unendlich vieler Modificationen fähig, und so verschieden sein als die Bedingungen, unter denen sie wirkt.“
+Materien, mit unveränderlichen Kräften (unvertilgbaren Qualitäten nach unseren jetzigen Mitteln) ausgerüstet, werden in unsrer wissenschaftlichen Sprache chemische Elemente genannt (Helmholtz über Erhaltung der Kraft 1847 S. 4).
+(S. 9.) Laplace, Expos. du Syst. du Monde (5ème éd. 1824) p. 389–395 und 414.
+(S. 9.)
+»It has been repeatedly urged by continental critics«, sagt ein mir persönlich unbekannter, aber sehr wohlwollender Beurtheiler des Kosmos (Atlas, 9 Jan. 1858), »that Bn Humboldt has not entirely solved his cosmographical axiom; still, Kosmos is a gorgeous accumulation of facts, the result of immense experience, study, and research, combined with some equally grand aperçus, points de vue, and theories.
+It is an improved Pliny of the present time, just such a work as a savant and a traveller of his rank could produce.
+Whether such acquirements could be combined with the high generalising genius of Plato, and the still older Greek sages, we have no means of judging, as no such constellation has yet appeared amongst the ranks of man.«
+S. die vortreffliche Abhandlung Regnault's in den Annales de Chimie T. 73. 1840 p. 5; 3ème Série T. I. 1841 p. 129, T. IX. 1843 p. 322.
+Ueber das Nicht-Abstoßen der optischen Achsen der Krystalle s. Knoblauch und Tyndall in Poggendorff's Annalen Bd. 81. S. 481 und Bd 83. S. 384.
+Séguin im Edinburgh Philosophical Journal Vol. X. 1824 p. 280 und in den Comptes rendus de l'Acad. des Sc. T. XXV. 1847 p. 421; Joule im Philos. Magazine Vol. 31. 1847 p. 173; Thomson und Joule in den Philos. Transactions for 1853 P. III. p. 357; Clausius in Poggendorff's Annalen Bd. 79. 1850 S. 368 und Bd. 97. 1856 S. 441; Duhamel, Cours de Mécanique 1853 chap. 7 p. 401; Grove, corrélation des forces physiques, trad. en français par M. l'abbé Moigno, avec des notes par M. Séguin aîné (Paris 1856); G. von Quintus Icilius, Experimental-Physik S. 438–448.
+(Schon Franz Baco sagt: Calor est motus expansivus.)
+Leo Meyer in Adalb.
+Kuhn's Zeitschr. für vergleichende Sprachforschung Bd. VI. 1857 S. 161, 164, 171, 172, 174 und 175.
+„Wie in κόσμος der Begriff des Theilens und Scheidens in den der Ordnung überging, so konnte auf der andern Seite auch der des Unterscheidens, des Auszeichnens sich leicht daraus entwickeln.“
+Schluß des zweiten Abschnittes tellurischer Erscheinungen, wie sie sich offenbaren in der Reaction des Inneren der Erde gegen ihre Oberfläche mittelst der Thätigkeit der Vulkane.
+Die vulkanische Thätigkeit wirkt nicht bloß umwandelnd und zerstörend; sie ist auch bildend dadurch, daß sie festes Gestein hervorbringt.
+Wir haben ihre Bildungsprocesse in dem vierten Bande des Kosmos zu beschreiben versucht und die meist krystallinischen, durch Erstarrung flüssiger Erden erzeugten Gebirgsarten, nach ihrer Zusammensetzung (nach der Association ihrer Bestandtheile) in bestimmte Mineral-Gruppen vertheilt, geschildert.
+Diese vulkanischen Bildungen des Festen, an dem Abhange hoher Kegelberge in schmalen Lavaströmen oder ohne alle bleibende Gerüste in früherer Zeit als weitverbreitete Gesteinsschichten aus dem Spaltennetze der Ebene hervorbrechend, sind bisweilen durch Wasser-Ergüsse unterbrochen.
+Solche Wasser-Ergüsse verdienen um so mehr eine besondre Aufmerksamkeit, als die Verschiedenartigkeit ihrer Ursachen lange verkannt worden ist, und sie theilweise, wie ich schon früher erinnert habe, rein meteorologischen Phänomenen (dem vulkanischen Gewitter) beizuzählen sind.
+Der heiße Wasserdampf, welcher während einer Eruption aus dem Krater aufsteigt und sich in den Luftkreis ergießt, bildet beim Erkalten ein Gewölk, aus dem Blitze, von Donner begleitet, herabfahren.
+Auf Island wurden nach Olafsen's Bericht am Abhange des Vulkans Katlagia im October 1755 zwei Menschen und 11 Pferde vom Blitz getödtet; ja am Vesuv erregte, als am 22 October 1822 der 400 Fuß hohe Schlackenkegel bereits eingestürzt war, die Condensation der Dämpfe ein vulkanisches Gewitter, dessen rollenden Donner man deutlich von dem Krachen in dem Innern des Berges unterscheiden konnte.
+Dieselbe meteorologische Erscheinung beschreibt Seneca beim Aetna.
+Die Dämpfe sind meist mit fein zertheilten festen Massen: mit Rapilli, Asche und Sand, gemengt.
+Faraday's schöne Versuche haben Licht verbreitet über die Ursach der heftigen electrischen Schläge, welche im October 1840 zu Seghell bei Newcastle ein Arbeiter an dem Cylinder einer Feuermaschine erlitt; nach Analogie dieser Versuche ist über dem Krater der Vulkane die Reibung der Wassertheile gegen die festen beigemengten Körper der Erreger der Electricität, welche (wie Gay-Lussac gelehrt hat) bei jeder Wolkenbildung sich auf der äußeren Umhüllung (Oberfläche) condensirt.
+Ganz verschieden von diesen minder verheerenden, nur durch vulkanische Gewitter verursachten Wasserströmen sind die Wasser- und Schlamm-Ausbrüche, welche dem Inneren der Vulkane zugeschrieben werden.
+Schon Strabo (lib. V pag. 248 Casaub.) erwähnt der alt-hellenischen Sage, nach welcher Typhon (in der Volksphantasie eine mythische Bezeichnung der unbekannten, tief im Erd-Inneren liegenden Ursach aller Vulcanität) vom Caucasus nach Unter-Italien floh und, unter Sicilien, Ischia (der tyrrhenischen Affen-Insel Aenaria wie unter dem Brandlande bei Puteoli (Dicäarchia) liegend, „Flammen und Gewässer ausstößt, wenn er sich wendet“.
+Wären die Vermuthungen von Carmine Lippi in seiner Schrift über die Frage: fu il fuoco o l'acqua che sotterrò Pompei ed Ercolano? nicht 1843 (also 27 Jahre später) von Scacchi vielfach geschwächt worden, so könnte die Tuff-Bedeckung von Pompeji einer gleichzeitigen Wasserbedeckung vulkanischen Ursprungs zugeschrieben werden.
+Es ist aber nach der Natur der dortigen Bimssteine, von denen unzweifelhaft ein Theil (des Vitruvius pumex Pompejanus)
+Vor-Plinianisch ist, wahrscheinlicher, daß der Aschenregen ein trockner war und daß nur dasjenige, was die Keller in den Ruinen von Pompeji erfüllt hat, durch langdauernde und heftige Regengüsse später zugeführt worden ist.
+Die sehr neue Conglomerat-Formation des Traß im Brohl-Thale giebt auch keinen Beweis dafür, daß Bimsstein und Tuff, welche der Traß enthält, Schlamm-Auswürfen lavagebender Eifeler Vulkane ihren Ursprung verdanken.
+Der nicht Lavaströme ergießende, aber Bimsstein, Asche und fein zermalmte Lava-Fragmente ausstoßende Vulkan von Guadeloupe, in seinem jetzigen Zustande la Soufrière genannt, hat auf Spalten, die sich am 12 Februar 1836 fast am Fuß des Berges öffneten, eine große Menge schlammigen Wassers ergossen.
+Mineralien, die in dieser éruption boueuse enthalten waren, sind von Dufrénoy genau untersucht worden.
+Diese Erscheinung erinnerte nicht bloß an die Anschwellung und schlammartige Trübung aller Bäche während der zunächst vorhergehenden Eruption der Soufrière am 27 Sept. 1797, welcher nach 78 Tagen das große Erdbeben und die Zerstörung der Stadt Cumana folgte; sondern in dem Briefe von Mercier an Biot sur une éruption boueuse du Volcan de la Guadeloupe wurde auch umständlich einer Beobachtung des Columbus gedacht, der in den ersten Tagen des Novembers 1493 auf seiner zweiten Reise einen mächtigen Wasserstrom, breit wie ein Ochse (golpe de agua tan gordo como un buey), an dem höchsten Pic der Insel „hoch wie vom Himmel“ herabstürzen sah.
+In dem Berichte des Schiffsarztes Dr. Chanca, an die Municipalität von Sevilla gerichtet, in welchem uns die Worte des Admirals wiedergegeben werden, ist aber nicht gesagt, was in dem Briefe von Mercier irrig behauptet wird: que Christophe Colomb reconnut le Volcan à l'épaisse fumèe qui s'élevoit de la cime.
+Der Admiral beschreibt bloß einen Wasserfall; und giebt nicht zu erkennen, daß er den Pic, an welchem er herabstürzt, für einen feuerspeienden Berg hielt.
+Es bleibt also mit Recht viel Zweifel, ob er Zeuge eines Schlamm-Ausbruchs war, oder ob er einen durch Regengüsse verstärkten Wasserfall, analog dem 500 Fuß hohen Sault du Carbet, zu Gesicht bekam.
+Auf dem Festlande des Neuen Continents, dem wir nun von Norden nach Süden folgen werden, sind im alt-mexicanischen Gebiete, obgleich der Orizaba und der Popocatepetl ihre Gipfel hoch über die ewige Schneegrenze erheben und zu vielen Infiltrationen Gelegenheit geben konnten, Wasser- und Schlamm-Ausbrüche in historischen Zeiten nicht beobachtet worden.
+Die Phänomene, welche bei der Erhebung des neuen Vulkans von Jorullo am 27 Sept. 1759 das Versinken der beiden Bäche de San Pedro und de Cuitimba veranlaßten, sind nicht mit den größeren Erscheinungen zu verwechseln, welche die alten Vulkane von Guatemala, Quito und Chili dargeboten haben.
+In dem nördlichen Theile der Vulkan-Reihe von Central-Amerika liegt der abgestumpfte Trachytkegel von Escuintla, der den Pic von Teneriffa und den 5 Meilen in West-Nord-West liegenden Volcan de Fuego bei Acatenango an Höhe übertrifft und dem ausschließlich der Name eines Wasser-Vulkans (Volcan de Agua) geblieben ist.
+Diesem Berge wurde am 11 Sept.
+1541 eine furchtbare Ueberschwemmung zugeschrieben, als durch Erdbeben und plötzliche Eröffnung von mit Regen- und Schneewasser gefüllten Höhlungen veranlaßt.
+Die große Stadt la Antigua Guatemala ward von Grund aus zerstört, und die Einwohner von der spanischen Regierung gezwungen die neue Stadt Santiago de Guatemala gegen ihren Willen zu gründen.
+Leider! fehlt es wegen der Barbarei, die vor der Mitte des 16ten Jahrhunderts, in den ersten Zeiten der Conquista, wie in so großer Entfernung von der Stadt Mexico herrschte, an aller auf Sage gegründeter umständlicher Beschreibung dieser Begebenheit.
+Lava-Ausbrüche kennt man aus historischer Zeit gar nicht vom Volcan de Agua unfern Escuintla, während daß von dem Volcan de Fuego seit 1581 neun Lava-Eruptionen bekannt sind.
+In der letzten von 1852 erreichte ein Lavastrom das Littoral der Südsee.
+In Südamerika hat der nördlichste der Vulkane aus der Gruppe von Neu-Granada, der Vulkan und Paramo de Ruiz, einen mächtigen Schlammstrom ausgestoßen, welcher von heftigen Erdstößen am 19 Februar 1845 begleitet war.
+Der Paramo de Ruiz gehört zu der mittleren oder Centralkette von Neu-Granada, zu der Kette des Quindiu; er liegt zwischen der Mesa de Herveo und dem Nevado de Tolima: und schien sich nach der Ansicht, die ich lange von ihm hatte, aus der Hochebene von Bogota, nicht viel über die ewige Schneegrenze zu erheben.
+Der Schlammstrom, in zwei Arme getheilt, folgte den Thälern der Rios de la Lagunilla und de Santo Domingo, zerstörte alle Ansiedlungen und führte Eisblöcke, Schlackenmassen, Baumstämme und Schutt in den Magdalenen-Strom oberhalb des durch seine schöne Tabaks-Cultur berühmten Städtchens Ambalema.
+Es war das erste Mal, daß die Anwohner des großen, von Palmen umgebenen Flusses, dessen Wasser-Temperatur nicht unter 26° bis 28° ist, Eismassen schwimmen sahen: eine Erscheinung, welche die Schnelligkeit eines solchen Schlammsturzes bezeugt.
+Wenn auch die ewige Schneelinie in der Aequatorial-Zone der vulkanreichen Cordilleren von Quito fast 6000 Fuß höher liegt als in der Breite des Aetna, so nimmt auch dabei in jenen Cordilleren die Höhe der noch entzündeten Vulkane dermaßen zu, daß, während der 10200 Fuß hohe Aetna noch nicht volle 1300 Fuß senkrecht in die ewige Schneegrenze reicht, der mit Schnee bedeckte Theil der sechzehn- und siebzehn-tausend Fuß hohen Vulkane Cotopaxi, Sangay und Altar de los Collanes noch 2250 F. in senkrechter Höhe mit ewigem Schnee, ja 5500 F. sporadisch mit Schnee bedeckt sind.
+Von dem Parallel von Sicilien nach dem Parallel von Quito nimmt die Höhe der Vulkane um vieles schneller als die der ewigen Schneelinie zu; auch haben die höchsten Gebirge Europa's sogenanntes plutonisches, unvulkanisches, Granit- oder Gneiß-Gestein.
+Am Montblanc hat der perpetuirliche Schneemantel fast 6500 F. perpendicularer Höhe: d. i. dreimal mehr als der Cotopaxi, dessen Schneemantel ich nur 2862 F., la Condamine 64 Jahre früher 3000 F. vom Gipfel bis zur unteren Schneegrenze fand.
+Diese numerischen Betrachtungen sind von großer Wichtigkeit, da die Wasser-Ergüsse der entzündeten Nevados, mit Tuff, Bimsstein und Schlamm gemengt, seit Bouguer und la Condamine den mit Schnee- und Regenwasser gefüllten inneren Höhlungen zugeschrieben werden.
+Unter den drei Vulkanen der Gruppe von Quito, welche durch Spaltung der Gipfel oder Zertrümmerung der Kraterränder große geologische Catastrophen bezeugen: dem Carguairazo (jetzt nur noch 14700 F. hoch), den beiden schönen Pyramiden von Ilinissa (16362 F.) und dem Capac-Urcu oder Cerro del Altar (jetzt nur noch 16380 F.), welcher einst den Chimborazo überragt haben soll; hat sich nur vom Einsturz des Gipfels des Carguairazo durch die Sage und die noch sichtbarsten Spuren das lebhafteste Andenken erhalten.
+Das Wort „Kothfelder“ (lodazales, campos lodosos; von lodo, lutum), mit dem man jetzt noch eine Strecke von fast zwei Quadratmeilen am Fuß des Carguairazo bezeichnet, deutet auf die Nässe und Flüssigkeit des Aschenschlammes, welcher sich bei dem Krater-Einsturz in der Nacht vom 19 Juli 1698 ergoß.
+Auch durch die Luft wurden wie Erdhagel kleine kugelförmige Massen mit concentrischen, über einander gelegten Schalen geschleudert bis in die Hochebene von Hambato, wo ich sie sammelte und wo man sie dem Carguairazo zuschrieb, während die Stadt Hambato in derselben Nacht 1698 durch Erdstöße ganz zerstört wurde.
+Als Pedro de Alvarado, einer der Helden in der Expedition von Hernan Cortes, im März 1534 mit einem wohlgerüsteten kleinen Heere von der Küste der Südsee aufwärts nach Quito über Riobamba (Rivecpampa) durch die Puertos nevados (wie es scheint, längs dem südwestlichen Abhange des Chimborazo) vordrang, verlor er einen großen Theil seiner Mannschaft und Rosse: nicht bloß durch Kälte, sondern weil, wie Oviedo sagt, Erde vom Himmel fiel, so daß die Respiration gehemmt war und alles erblindete.
+Dieser Aschenregen wird mit mehr Gewißheit, als mir begründet scheint, einem Ausbruch des Cotopaxi zugeschrieben.
+Er war vielleicht aus dem damals noch unversehrten, thätigen Krater des Carguairazo selbst ausgestoßen.
+Brustbeklemmungen sind bei solchen Erscheinungen ebenfalls von den Einwohnern der Stadt Quito gefühlt worden, wenn Aschenregen vom Rucu-Pichincha den Tag daselbst in finstere Nacht verwandelten.
+Einen merkwürdigen Contrast mit den Kothfeldern (lodazales, éjections boueuses) des Carguairazo bilden die Auswürfe des Capac-Urcu (Altar de los Collanes), welche, fast zwei Decennien vor der Eroberung der Stadt Quito durch den Sohn des Inca Tupac Yupanqui (laut den Traditionen der Eingebornen von Lican) sieben bis acht Jahre hinter einander dauerten und die große Ebene von Tapia im Osten vom Rio Champa, im Süden vom Rio de Lican mit feinem Bimsstein-Sande bedeckt haben.
+Diese Bimsstein-Bedeckung ist um so auffallender, als der Capac-Urcu dem Vulkan Tungurahua nahe ist, auf welchem ich bei dem Versuch einer Besteigung gar keinen Bimsstein gefunden habe.
+Die Natur der sogenannten Asche und des vulkanischen Sandes kann bei ungründlicher Untersuchung zu vielen Täuschungen Anlaß geben.
+Zwischen Venta de Soto und Perote bestand das Trümmerfeld, dem Granitsand sehr ähnlich, wie ich sehr bestimmt ergründet habe, aus kleinen Körnern von Perlstein.
+Die berühmten Wasser-Ausbrüche des Cotopaxi vom 24 Junius und 9 December 1742, theilweise fortgesetzt bis 1750, sind, freilich sehr unvollständig und leider! nicht als Augenzeugen, von Bouguer und la Condamine beschrieben worden; es bleibt aber doch gewiß, daß der Sturz unzusammenhangender Reihen von Blöcken, die kaum an den Kanten und an der Oberfläche geschmolzen waren, durch den Stoß von halb geschmolzenen Schneemassen getrieben, in ihrer Bewegung mit einer fabelhaft scheinenden Geschwindigkeit beschleunigt wurde.
+Ein völliges Schneeschmelzen am Kegel des Cotopaxi ging auch, während meines Aufenthalts in Guayaquil, dem Ausbruch des Vulkans am 4ten Januar 1803 vorher, so daß der Berg plötzlich einen furchtbares Unglück verheißenden Anblick darbot.
+Das Füllen der inneren Höhlungen mit geschmolzenem Schnee ist aber als ein Proceß zu betrachten, welcher ununterbrochen, wenn gleich allmälig und in langen Perioden, vorgeht, in denen der Berg fast kein äußeres Zeichen der Thätigkeit darbietet.
+Die allgemeine Dürre des von Waldung ganz entblößten Bodens auf der weiten Hochebene von Quito und der Mangel wasserreicher Flüsse am Fuß der Schneekette sind deutliche Beweise von dem Versinken alles Flüssigen in das Erd-Innere.
+Auch überall, wo Berge einstürzen (en los derrumbos) und während der so häufigen Erdbeben sich Spalten öffnen, sprudelt Wasser aus der Tiefe und erregt oft furchtbare Ueberschwemmungen.
+Mein Freund Boussingault hat schon in seinen Schriften über die Eigenthümlichkeiten des Ackerbaus in den vulkanischen Hochebenen auf die Ursachen des Contrastes zwischen der Dürre der Oberfläche und der Wasserfülle der Erdschichten in geringen Tiefen aufmerksam gemacht.
+Mit dieser Frequenz unterirdischer Wasser-Anhäufung in einer Zone, wo der gehobene Theil der Erdrinde meist mit porösem, permeablem Gestein bedeckt ist, hängt das sonderbare Phänomen der kleinen, von einigen Bergen um Quito zu Tausenden mit schlammigen Wassern ausgeworfnen Fische zusammen, von dem ich vielleicht zuerst die Nachricht nach Europa gebracht habe.
+Dieses Fischchen: gewöhnlich vier, bisweilen nur zwei Zoll lang, von olivengrüner Farbe, schwarz punctirt; hat die ganze Gestaltung (den habitus) der Siluroïden der Meeresküste, ob es gleich in den Bächen der Hochebene von Quito in Höhen von 9000 bis 9800 Fuß lebt.
+Es gehört zu derjenigen Abzweigung der Siluroïden, welche Lacépède Pimeloden genannt hat.
+Die älteste Nachricht vom Auswurf dieser Pimeloden, die mir ein aufmerksamer und wissenschaftlich unterrichteter Beobachter, Juan de Larea, mitgetheilt hat, steigt bis 1691 im Vulkan Imbaburu hinauf.
+Die der Villa de Ibarra nahen Felder wurden mit todten Fischen gefüllt; und man schrieb bösartige Fieber, welche zu der Zeit ausbrachen, der faulenden, mit Gestank die Luft verpestenden, organischen Masse zu.
+Noch wenige Jahre vor meiner Ankunft hatte Imbaburu dieselben Schlamm-Ausbrüche, reich an Fischen, geliefert.
+Aehnliche Erscheinungen kennt man vom Carguairazo, als sein Gipfel 1698 einstürzte, vom Tungurahua und Cotopaxi.
+Die Fische, welche der letztgenannte Vulkan auswarf, verpesteten die Luft auf den Besitzungen des Marques de Selvalegre, des Vaters meines unglücklichen, theuren Reisegefährten, Carlos Montufar.
+Der Pimelodus Cyclopum — das ist der etwas mythische Name, unter dem ich auf Cuvier's Geheiß die kleine Preñadilla bekannt gemacht habe — ist gar nicht häufig in den Bächen der Cordilleren, und wird doch zu vielen Tausenden ausgeworfen.
+Das Fischchen, sagt man, sei lichtscheu:
+weil da, wo man, wie am Imbaburu, eine bleibende Communication zwischen den inneren Berghöhlen und den Gebirgsbächen vermuthet, z. B. am Desague de Peguchi zwischen Otavalo und San Pablo, die Pimeloden nur in sehr dunklen Nächten gefischt werden können.
+Sie kommen sogar, sagt man, nicht aus dem Berge heraus, so lange der Vollmond über dem Horizont steht.
+Ueber alle diese Verhältnisse: besonders über die Höhe der Spalten, aus denen der Fisch-Auswurf geschieht, und über die Ursachen, welche die Thierchen zu einer solchen Höhe erheben; fehlt es noch ganz an Beobachtungen.
+Ich war nur wenige Stunden lang in der Nähe von Imbaburu und Cotocachi, als ich aus der Provinz de los Pastos über die Villa de Ibarra nach Quito kam, und wußte damals noch nichts von einem Phänomen, das in Europa lange Unglauben gefunden hat: wie der Fall der Meteorsteine, wie die Fuß-Eindrücke in Felsschichten und die Existenz des Guacharo, der von mir abgebildeten Steatornis caripensis.
+Ich entlehne meinen Tagebüchern absichtlich auch das, was ich durch eigene Ansicht habe weder bekräftigen noch widerlegen können.
+Erneuerte Veröffentlichung einer bezweifelten wichtigen Erscheinung ist ein sicheres Mittel zu ernster Untersuchung anzuregen, zu unterscheiden:
+ob durch vulkanische Thätigkeit eine Communication zwischen inneren mit Wasser gefüllten Höhlungen und den äußeren Bächen eröffnet wird, oder ob zu der plötzlichen Tödtung der diesen Bächen ursprünglich eigenen Preñadillen die Beimischung heißen oder schwefelsauren Schlammes Veranlassung gegeben habe.
+Eine solche Untersuchung kann aber nur von Gewicht sein, wenn sie zur Zeit des hier besprochenen Vorfalls selbst oder unmittelbar nach demselben statt findet.
+Unterirdisches thierisches Leben ist ja auch unvulkanischen Alpengegenden Europa's nicht ganz fremd: da, wo fließende Wasser in langgedehnten Höhlen ihren Ursprung haben.
+Eine andere, ebenfalls sehr merkwürdige Erscheinung: die Ausbrüche der Moya, in sich bewegenden, alles umstürzenden, kleinen Kegeln; verdient hier noch eine besondere Erwähnung, wenn sie auch nur theilweise mit den Vulkanen zusammenhängt.
+Der berühmte, mir in Spanien eng befreundete Botaniker Cavanilles hat wohl am frühesten der Moya oder Muya und des furchtbaren, verheerenden Erdbebens von Riobamba am 4 Februar 1797 gedacht.
+Fünf Jahre nach dem großen Ereigniß konnte ich den Schauplatz dieser Verheerungen selbst untersuchen.
+Die Moya, welche man nicht mit dem, bei allen Vulkanen so häufigen, vulkanischen Tuff verwechseln muß, ist eine schwärzlich braune, theilweise graue, erdige und zerreibliche Masse: in der sich erbsengroße, gelbliche und weiße, feinporige Einmengungen finden.
+Man erkennt darin, doch nicht häufig, kleine Körner unvollkommen ausgebildeter, schwärzlich grüner Krystalle von Augit.
+Letztere sind am leichtesten zu sammeln, wenn man die Moya schlemmt; auch werden dabei einige Krystall-Bruchstücke abgesondert, die entweder glasiger Feldspath oder Labrador sind.
+Die charakteristische Streifung des letzteren ist nicht deutlich zu erkennen.
+Da in meinen Tagebüchern damals die nahen anstehenden Felsmassen als Trapp-Porphyre (also als Trachyte), bestehend aus einer graulich grünen, thonartigen Grundmasse mit vielem glasigen Feldspath und etwas Hornblende, ohne allen Quarz, beschrieben wurden; so fand ich mich bei Erkennung der Feldspath- und Augit-Bruchstücke, welche ich für Hornblende hielt, veranlaßt die ausgeworfne bewegliche Masse in einem Bericht an das National-Institut einen verwitterten Trapp-Porphyr zu nennen.
+Die Beimengung brennbarer Stoffe konnte nicht übersehen werden, da wir die Indianer-Weiber in Pelileo, ohne allen Zusatz eines anderen Brennmaterials, mit der Moya ihre Speisen kochen sahen.
+Ich erinnerte damals Klaproth daran, daß Vauquelin in festen anstehenden vulkanischen Gebirgsarten der Auvergne Chlor-Ammonium gefunden habe.
+Die Moya, welche ich wie den Guano zuerst nach Europa gebracht habe, ist auf einer ebenen, etwas feuchten, grünbewachsnen, grasreichen Flur westlich von dem Städtchen Pelileo, in 1318 Toisen Höhe über dem Meere, ausgebrochen; ja um vieles höher noch und auf trockenem Boden stiegen bei dem Alten Riobamba kegelförmige Hügel aus Spalten hervor, die sich fortbewegten, Häuser umstürzten und alles überdeckten.
+Dieses unbestrittene Wandern der Moya-Kegel, über das wir Gelegenheit gehabt haben so viele Augenzeugen auszufragen, ist den translatorischen Bewegungen in horizontaler Richtung analog, von welchen die Erdbeben in Calabrien und Riobamba so viele Beispiele gegeben haben theils im Verschieben nicht entwurzelter Baumalleen, theils in dem gegenseitigen Umtausch oder Sich-Verdrängen sehr verschiedenartiger Culturstücke.
+Wir sehen die Erscheinungen sich wiederholen, aber die dynamischen Ursachen solcher Bewegungen in einzelnen Theilen der Bodenfläche sind noch in Dunkel gehüllt.
+Die Masse der frisch ausgeworfnen Moya war flüssig, wie uns einige der in Pelileo geretteten Eingebornen erzählten; sie nannten es „einen sich fortwälzenden Brei, der bald erhärtete“.
+Viele Stücke der Moya färben die Hände schwarz.
+Die Moya brennt wie schlechter Torf oder wie Lohkuchen ohne Flamme, giebt aber dabei eine sehr intensive Wärme.
+Die ersten Untersuchungen der Moya wurden von Vauquelin und mir, später von Klaproth gemacht.
+Die chemische Analyse des Letzteren gab 7mal mehr Hydrogen-Gas als kohlensaures Gas; dazu brandiges Oel, Natron und mit Ammonium angeschwängertes Wasser.
+Den chemischen Analysen folgte die microscopische.
+Durch Ehrenberg's glänzende Entdeckungen war besonders seit dem Jahre 1837 der Einfluß des kleinsten Lebens auf Mischung von Erden und Bildung der Gebirgsarten immer mehr hervorgetreten, und hatte die vulkanischen Aschen, welche Luftströme in große Ferne fortführen, zu einem wichtigen Gegenstand organischer Untersuchung gemacht.
+Da nun die Klaproth'sche Mineraliensammlung und mit ihr die von mir gesammelte Moya von Pelileo in das königliche Mineralien-Cabinet zu Berlin überging, so wurde letztere 1846 von meinem sibirischen Reisegefährten, Prof.
+Ehrenberg, vollständig microscopisch untersucht.
+Es fanden sich darin 64 namhafte organische Gestalten (14 kiesel- und weichschalige Polygastern, 5 Theile Fichten-Pollen und 45 kieselerdige Phytolitharien: meist Gramineen, welche wohl die Hauptmasse der Kohle darbieten und durch lange Spaltöffnungen der wellenförmig gezahnten Epidermis sich kenntlich machen.
+Nichts gehört dem Meeresleben zu, und die organische Mischung der Moya beträgt mehr als die Hälfte des Volums.
+Die Pflanzengewebe sind verkohlt, nicht verrottet.
+Neben dem sehr vereinzelten Augit und Feldspath zeigen sich hier und da kurzzellige Bimsstein-Theile.
+Das Ganze schien dem microscopischen Analytiker ein „aus verbrannten Vegetabilien und Wasser gemischter Erdbrei der Oberfläche zu sein, welcher, nachdem er ins Innere eingeschlürft gewesen, (durch vulkanische Kräfte) wieder herausgetrieben wurde.“
+Die beiden Ausbruchs-Orte der Moya bei Alt-Riobamba und bei Penipe sind vier geogr. Meilen von einander entfernt, Penipe aber ist dem noch thätigen Vulkan Tungurahua um 1½ Meilen näher als Riobamba.
+Ich habe einen Plan der Umgegend von Penipe aufgenommen.
+Die sich bewegenden, fortschreitenden Moya-Kegel sind westlich von den Ruinen von Penipe in einer feuchten Grasebene aufgestiegen, welche die Oeffnung eines hufeisenförmig gekrümmten Gebirgsrückens ausfüllt.
+Die Oeffnung wird in Norden vom Cerro de Chumaqui, im Süden vom Cerro de Pucara gebildet: beide auf meinem Plane Trapp-Porphyr (Trachyt) genannt.
+Auch der alte erloschene Vulkan von Imbaburu, südlich von der Villa de Ibarra, über 29 geogr. Meilen im Norden von Penipe, hat im Jahre 1844 eine röthlich aschgraue Moya ausgeworfen, von der mir einige Proben geschickt worden sind.
+Nach Ehrenberg's Untersuchung enthielten diese 13 Polygastern und, den zehnten Theil des ganzen Volums ausmachende Phytolitharien.
+In einem Exemplar der Eunotia amphioxys waren noch die grünen eingetrockneten Eierschläuche, einzeln von Glühhitze geschwärzt, zu erkennen.
+Auch in der Andeskette des südlichen Chili's, in der Breite von 37° 7′ S., fast dem Hafen von Talcahuano gegenüber, bietet der Vulkan von Antuco, welchen zuerst Eduard Pöppig und Domeyko geologisch untersucht haben und dessen feurige Ausbrüche und wirkliche Lavaströme vom Sept.
+1852 nach der Angabe von Gilliß der englische Reisende E. R.
+Smith als Augenzeuge beschreibt, das merkwürdige Phänomen von Wasser-Ergießungen dar.
+„Dieser Vulkan“, sagt der geistreiche Pöppig, „ist einer von denjenigen, in denen die größeren Eruptionen mit der Ergießung einer Wassermasse von kalter Temperatur endigen.
+Jeder der Einwohner des Thales, einfache Landleute, deren Bericht zu trauen ist, bezeugen diese Wasser-Ausbrüche.
+Der letzte, sehr heftige, war vom Jahr 1820.
+Ein Wasserstrom, welcher aus einer Spalte des Kegels floß, hatte den Boden tief aufgerissen und die Lavabetten klafterhoch mit übelriechendem, rothgelbem Schlamme bedeckt.
+Ich fand selbst noch acht Jahre später eine tiefe Furche, die bis auf die Hälfte des Vulkans von Antuco reichte und weiter oben mochte verschüttet sein.
+Am Krater selbst sieht man keine Spur; allein daß aus ihm der Wasserstrom hervorgebrochen sei, behaupten alle Antucaner.
+Ob jene Wasser- und Schlamm-Ergießungen Folgen der Infiltration der Gletscher sind, oder durch Verbindungen entstehen, welche der vulkanische Heerd mit dem nahen, 1½ geogr. Meilen langen Antuco-See hat, wird kein späterer Forscher leicht entscheiden.“
+Die untere Schneegrenze liegt nach Gilliß in dieser Breite 6200 Fuß hoch, also 2470 Fuß unter dem Gipfelkrater.
+Ich übergehe das merkwürdige Gemenge von Bimsstein, Obsidian-Körnern, kieselschaligen Polygastern und Pflanzentheilen von dem durch Meyen untersuchten Hügel von Tollo, zwei volle Tagereisen entfernt von dem Vulkan Maypu (34° 17′ S.B.), der selbst nie Bimsstein ausgespieen hat.
+Dies Phänomen erinnert an die isolirte Position der Bimsstein-Schichten von Guapulo, vom Rio Mayo und von Huichapa, östlich von Queretaro (Kosmos Bd. IV. S. 367); und an das analoge von Acangallo bei Arequipa in Peru: die Ehrenberg ebenfalls microscopisch zergliedert hat.
+Von dem Neuen Continent auf den Alten übergehend, müssen wir zuerst in Europa an die Wasser-Ausbrüche des Aetna's und des Vesuvs erinnern.
+Diese seltsamen Erscheinungen sind mit Recht schon vor einem Jahrhundert (von Magliocco, Braccini und Paragallo) theils Ansammlungen von geschmolzenem Schnee- und Regenwasser in inneren Höhlungen, theils vulkanischen Gewittern in den den Krater umgebenden Luftschichten zugeschrieben worden.
+Die großen Epochen der Ueberschwemmungen waren für den Vesuv der 17te December 1631, für den Aetna der 9te März 1755.
+Die Wassermasse, welche an dem eben genannten Tage vom Kegel des Vesuvs herabkam, war so groß, daß, bei Nola, an einigen Stellen die Ueberschwemmung 12 Fuß Höhe hatte.
+Am 18ten und 31ten December erneuerte sich das furchtbare Phänomen gegen Resina und Ottajano hin.
+Da der Krater in Wolken gehüllt blieb, so kann man nicht mit Gewißheit entscheiden, was aus ihm überströmte oder dem entstandenen Gewitter zugehörte.
+Die ausgeworfenen Seemuscheln, Algen und kleinen Fische bleiben sehr ungewiß.
+Auch 1779 und 1794 werden Schlammströme (mit Rapilli und Sand gemischte Wasser), die lave d'acqua e lave di fango, von Scacchi in seiner Chronologie der Eruptionen aufgeführt.
+Am Aetna brachen am 9 März 1755 die heißen Wasser nicht aus dem Krater, sondern am Fuß des Kegels aus Spalten hervor, und wurden ebenfalls von Mecatti dem geschmolzenen Schnee zugeschrieben.
+Da ich einen Monat nach der großen Eruption des Vesuvs vom 22 October 1822 den Vulkan mehrmals besucht habe, so kann ich ein merkwürdiges Beispiel von den Täuschungen anführen, zu welchen die Flüchtigkeit der Beobachtung Anlaß giebt.
+Am 26 October verbreitete sich in der Umgegend des Vesuvs das Gerücht: ein Strom siedenden Wassers stürze den Aschenkegel herab.
+Monticelli erkannte bald, daß eine optische Täuschung dieses irrige Gerücht verursacht habe.
+Der vorgebliche Strom war eine große Menge trockner Asche, die aus einer Kluft in dem obersten Rande des Kraters, wie Triebsand, hervorschoß.
+Nach einer die Felder verödenden Dürre, welche dem von Lord Minto beschriebenen Ausbruch des Vesuvs vorhergegangen war, erregte gegen das Ende desselben das vulkanische Gewitter einen wolkenbruchartigen, aber lange anhaltenden Regen, der gefahrbringende Ueberfluthungen bewirkte.
+In dem vulkanischen Theil der Eifel ist die Traß-Bildung wohl nicht Schlamm-Ausbrüchen zuzuschreiben.
+Die Bimssteine scheinen trocken ausgeworfen zu sein, und die Hauptmasse des Ducksteins ist nach H. von Dechen ein durch Wasser abgesetztes, sehr neues Conglomerat.
+Nach Ehrenberg's rastlosen und scharfsinnigen Untersuchungen der vulkanischen Tuffe am Hochsimmer, im Brohl-Thale, am Backofenstein bei Bell, oder am Laacher See sind überall dort Bimssteine mit Phytolitharien und kieselschaligen Polygastern so innig gemengt, daß an dem uralten geologischen Zusammenhange solcher gefritteter Organismen mit der vulkanischen Thätigkeit wohl kaum zu zweifeln ist.
+Der von Ehrenberg eingeführte Name der Pyrobiolith-Bildung (vulkanischer Infusorien-Tuff) drückt eine Thätigkeit aus, deren ursachliche Verhältnisse noch in Dunkelheit gehüllt sind, aber durch diesen Umstand selbst die Nähe künftiger Entdeckungen verkündigen.
+Der Charakter von Süßwasser-Bildungen ist der herrschende in diesem Gebiete; doch sollen nach Ehrenberg's microscopischer Untersuchung die in Patagonien von Darwin gesammelten Erdschichten ausnahmsweise „einen vulkanisch verarbeiteten Meeresboden“ erkennen lassen.
+Zu der, dem westlichen Amerika gegenüberstehenden, östlichen Küste Asiens übergehend, gedenken wir zuerst in der Vulkan-Reihe der Halbinsel Kamtschatka der heißen Wasser-Ausbrüche zweier noch entzündeter Vulkane, des Awatscha und Kliutschewsk.
+Adolph Erman und Postels schreiben diese Schlammströme ebenfalls nur dem während der Lava-Ergießungen geschmolzenen Eise und mit Asche (Rapilli) gemengtem Schnee zu.
+In dem Drei-Inselreiche Japan finden sich auf der nördlichsten Insel Kiusiu, westlich vom Hafen Simabara, Koth-Vulkane, die schwarzen Schlamm ausspeien, ähnlich denen von Taman auf der Halbinsel Apscheron; aber das wichtigste, recht eigentlich hierher gehörige Phänomen ist die Erhebung des großen Kegelberges Fusijama auf Nipon, welcher aus dem durch eine Bodenversenkung eines großen Landstrichs in der Provinz Umi-siu neugebildeten großen See Mitsu Umi sich auf einmal erhoben haben soll, 286 Jahre vor unserer Zeitrechnung.
+Leider bleiben die näheren Umstände dieser See-Entstehung wie der Berg-Erhebung in historisches Dunkel gehüllt.
+Ernsthafte Untersuchungen der Oertlichkeit, von einem wissenschaftlichen Reisenden, würden selbst in der Jetztzeit noch einiges Licht über diese Erhebung wie über die des Vulkans von Taal auf Luzon verbreiten können.
+Unter den 48 Vulkanen der Insel Java, von denen die Hälfte gegenwärtig entzündet ist, haben zwei durch ihre Schlamm-Ausbrüche selbst in diesem Jahrhundert sich eine große Berühmtheit erworben, der Idjen und der Gelunggung.
+Der erstere hat am Kratersee Kawah Idjen 7265: im östlichsten Theile, als Merapi Idjen, 8065 Fuß; der Gelunggung wird zu ohngefähr 6000 Fuß Höhe geschätzt.
+Der Idjen, welchen Leschenault de la Tour schon 1805 besucht hatte, gab am 6 Januar bis 11 Februar verheerende Schlammströme (Meteorwasser mit vieler ausgeworfener Asche vermengt).
+Am Gelunggung hat der Schlammstrom vom 8 October 1822 allerdings nur 5 Stunden gedauert, und dennoch haben seine Verwüstungen nach officiellen Berichten gegen 4000 Dorfbewohnern das Leben gekostet.
+Von feurigen Ausbrüchen aus dem Krater war nichts gesehen worden; aber Blitze durchkreuzten das dunkle Gewölk, welches den Gipfel umgab: sichere Anzeigen dessen, was ich vulkanisches Gewitter nenne.
+Die dickeren Theile des Schlammes wurden durch die Luft geschleudert vom Gipfel des Gelunggung bis jenseits Tji-Tandui, in einer geradlinigen Entfernung von 48000 Fuß, also mehr als 2 geographische Meilen.
+Einige dem Vulkan nahe liegende Dörfer litten weniger, weil der heiße Schlamm über sie wegflog.
+Um in diesen Erscheinungen den Ursprung des Wassers und des Schlammes zu erklären, erinnert Junghuhn mit vielem Scharfsinn, daß da, wo solche Ausbrüche erfolgen, sich Kraterseen befinden; und daß, wo diese fehlen, man nur trockene oder feurige Stoffe von den vulkanischen Kegeln als wirkliche Lavaströme, oder als unzusammenhangende, glühende Schlackenmassen, oder als bloße, nicht erwärmte Trümmerzüge (vereinzelte Felsblöcke) herabkommen sieht.
+Von den 18 Kraterseen, welche die Insel Java besitzt, enthalten 7 süßes, helles, trinkbares Wasser, weil sie in ganz ausgebrannten Vulkanen liegen; in 11 andern ist das Wasser mit freier Schwefelsäure oder mit aufgelöster schwefelsaurer Kali-Thonerde gemischt.
+Alle diese Wasser haben einen atmosphärischen Ursprung und die Säurung geschieht durch vulkanische Dämpfe.
+Von geschmolzenem Schnee und Eis, die in den Cordilleren, selbst dem Aequator nahe, eine so wichtige Rolle spielen, kann hier keine Rede sein, da auf Sumatra und Java die höchsten Gipfel, der Indrapura und der Semeru, nur 11500 und 11480 Fuß Höhe erreichen und also 3000 Fuß unter der Grenze liegen, welche man in dieser Breite dem ewigen Schnee zuzuschreiben berechtigt ist.
+„Bei allen diesen Erscheinungen“, sagt Junghuhn wohl mit Recht, „ist kein Wasser in tropfbarem Zustande aus dem Heerde der Vulkane ausgeworfen worden; der Krater hat nur Dämpfe und Asche geliefert: während das flüssige Wasser, welches das umliegende flache Land überströmte, erst durch die Verdichtung der Dämpfe in den kälteren Luftschichten gebildet wird und sich zu dem gesellt, welches die Kraterseen hergeben.
+Die Schlammströme des Gelunggung, welche sowohl scharfeckige, selten poröse oder schlackige Blöcke, als auch trachytische Felstrümmer von 4 bis 7 Fuß Durchmesser mit sich führen, haben durch ihren Absatz eine Gestaltung der Bodenfläche veranlaßt, welche in hohem Grade die Aufmerksamkeit des Hydraulikers und des Geognosten auf sich zu ziehen verdient.“
+Dies Phänomen, sehr genau beschrieben und durch eine Zeichnung erläutert, ist 1822 am Gelunggung durch einen Schlammstrom bewirkt, der von einem Vulkan aus 3590 Fuß Kraterhöhe herabstürzte.
+Die entstandenen Trümmerhügel sind keineswegs selbst vulkanischen Ursprungs oder durch unterirdische Thätigkeit hervorgebracht, wie die zahllosen geöffneten oder ungeöffneten kleinen conischen Hügel, welche so viele Vulkane umgeben und nur zu allgemein Ausbruch-Kegel genannt werden.
+Auf der ganzen Insel Java selbst findet man nur etwas analoges am Vulkan Gunung Guntur, der isolirte Hügel von 20–30 Fuß Höhe und flach-hemisphärischer Form, aus Steintrümmern und Sand zusammengesetzt, doch weniger regelmäßig gereiht, darbietet.
+Die Schlammströme der Vulkane Kelut und Tangkuban lassen sichtbare Spuren ihrer Verheerung, aber keine conische Hügel.
+Außerhalb der Insel Java ist wohl nirgends das von Junghuhn beschriebene Phänomen wiederholt.
+Nach einer mäßigen Schätzung steigt am Gelunggung die Zahl der gereihten Hügel, von 40 Fuß Höhe und 200 Fuß mittleren Durchmessers an der Grundfläche, wenigstens auf 15000.
+Der größere Theil davon, etwa ¾, ist gereiht, fast einerlei Richtung auf einer Länge von 24000 Fuß bewahrend.
+Diese Länge ist aber kaum ⅓ der Erstreckung von 3 1/6 geogr. Meilen, welche die Reihen aus älteren Ausbrüchen, reichlich mit Vegetation bedeckt, erreichten.
+Die Erklärung, welche gebildete Javanesen als Augenzeugen von dieser Aneinanderreihung so einförmiger conischer Hügelgestaltungen geben, ist wohl nicht ganz befriedigend.
+Sie behaupten, daß, wie auf einer Ebene von nur 2° Neigung in Flüssen trüben Wassers sich ein horizontaler Niederschlag da bildet, wo die Geschwindigkeit der Strömung dieselbe bleibt; so durch eine Stauung bei Hindernissen und durch eine plötzliche Abnahme der früheren Geschwindigkeit große Blöcke (Felstrümmer) niederfallen müßten, die den Kern jener hemisphärischen oder glockenartigen Hügel (Steinberge) bilden.
+Die Regelmäßigkeit ihrer Gestalt werde durch die zugleich oder später niederfallende Erde, welche auf allen Seiten abrollt, bestimmt.
+Niederschläge aus dem Schlammstrome wären also die Veranlassung der ganzen Erscheinung.
+Ich muß bemerken, daß wellenartige Dünenreihen, bisweilen durch Queerthäler in rundliche Hügel getheilt, wie sie Forchhammer im Norden von Europa so vortrefflich beschrieben hat und wie ich sie in der jetzt wasserlosen caspischen Senkung zwischen Sarepta und Astrachan gesehen, nichts mit der hier beschriebenen Erscheinung gemein haben; mehr erinnert sie durch das Absetzen der fortgeschleppten Trümmer an den dicken rothen Schlammstrom des Bergsturzes (Bergschlipfen) bei Wäggis am Rigi, entstanden am 15 Juli 1795, oder an die Trümmerfluth vom 16 Juni 1818 aus dem Bagne-Thal in der Schweiz.
+Merkwürdige Schlamm-Auswürfe, wie behauptet wird, mit wirklichen Fragmenten von Schwefelkies gemengt, geben auch die kleinen Vulkane der Inseln Ramri und Cheduba (letzterer in lat. 18°52′) an der Küste von Arracan, im östlichen Theile des bengalischen Meerbusens.
+Der Schlamm, welchen die geologische Gesellschaft von Calcutta an Ehrenberg 1846 zur Untersuchung sandte, hatte die Consistenz eines silbergrauen, fetten plastischen Thones; und enthielt Polythalamien, Phytolitharien und vorherrschend (wie in den patagonischen Littoral-Gebirgslagern) kalkschalige Meerwasser-Organismen: also wieder andeutend einen Verkehr zwischen vulkanischer Thätigkeit und einst lebenden Gebilden der Foraminiferen.
+So zweifelhaft und unaufgeklärt, als lange die verschiedenen Ursachen der sogenannten vulkanischen Wasser-Ergießungen gewesen sind, eben so problematisch ist auch geblieben die Existenz von wirklichen Flammen-Erscheinungen während der Ausbrüche:
+sei es aus den Gipfel-Kratern, oder aus Spalten am Abhang der Vulkane, oder aus kleinen Auswurfs-Kegeln.
+In dem allgemeinen Naturgemälde habe ich, was man bei Schlacken- und Rapilli-Auswürfen als Flammen beschreibt, wie den Lichtglanz rother Gluthwolken, nicht brennendem Wasserstoff-Gas zugeschrieben; sondern als Licht-Reflexe gedeutet, die theils von hochgeschleuderten geschmolzenen Massen ausgehn, theils auch Wiederscheine sind, von denen aus der Tiefe aufsteigende Dämpfe erleuchtet werden.
+Dieses Läugnen wirklicher Flammen gründete sich auf die Meinungen vielerfahrener und scharfsichtiger Beobachter: von Spallanzani, Monticelli, de la Beche, Dana und Poulett Scrope.
+Solchen negativen Erscheinungen stehen aber wichtige Zeugnisse entgegen: die von Pilla, in einer eignen, wichtigen Abhandlung aufgestellt; von Leopold von Buch, Humphry Davy, Abich, Elie de Beaumont am Aetna; Bory St. Vincent an dem Vulkan der Insel Bourbon, Postels am Vulkan Awatscha auf der Halbinsel Kamtschatka.
+Ein großes Licht ist über diese Streitpunkte erst, wie ich schon früher angedeutet habe, durch Bunsen's vortreffliche Abhandlung „von den Processen der vulkanischen Gesteinsbildung in Island“ verbreitet worden.
+Dieser scharfsinnige Chemiker findet in den Dämpfen, welche den kochend heißen Schlammboden durchwühlen, neben Schwefel-Wasserstoff auch Wasserstoff, ja von letzterem in der Solfatara von Reykjalidh bis 25 Procent.
+„Man sieht aus diesen Gas-Analysen“, setzt der große Chemiker hinzu, „wie wenig man Grund hatte Davy's ältere Vulkan-Theorie wegen totaler Abwesenheit brennbarer Gase in den Exhalationen der Vulkane zu läugnen.
+Der einfachste Versuch zeigt, daß, wo Schwefel mit erhitztem Pyroxen-Gestein (z. B. Basalt oder pyroxenreichen Trachyten) zusammentrifft, alle Bedingungen zur Bildung jener Solfataren-Gase erfüllt sind.
+Es tritt eine partielle Zersetzung des in dem Gestein enthaltenen Eisen-Oxyds ein, indem der Schwefel sich in dessen Bestandtheile theilt.
+Der Sauerstoff des Oxydes bleibt als Schwefel-Eisen im Gestein zurück.
+Leitet man darauf Wasserdämpfe in der angehenden Glühhitze über die auf die angegebene Weise mit Schwefeldampf behandelte Gebirgsart, so entweicht unter Bildung von Eisen-Oxydul-Oxyd eine reichliche Menge Schwefel-Wasserstoff.
+Uebersteigt aber die Temperatur auch nur um weniges die angehende Glühhitze, so zerfällt ein Theil dieses Schwefel-Wasserstoffs in seine Elemente, und man findet neben dem Schwefel-Wasserstoff eine erhebliche Menge freien Wasserstoffs nebst Schwefeldampf.
+Die Erscheinungen, welche aller Solfataren-Thätigkeit zum Grunde liegen, sind nach diesen Versuchen leicht verständlich, da fast alle vulkanischen Eruptionen von Schwefel-Sublimationen begleitet sind.
+Wo nun solche Schwefelmassen den glühenden Pyroxen-Gesteinen in Dampfgestalt begegnen, entsteht die Thätigkeit, der die schweflige Säure ihren Ursprung verdankt; sinkt darauf eine solche vulkanische Thätigkeit zu niederen Temperaturen herab, so tritt alles in eine neue Phase.
+Die erzeugten Schwefel-Verbindungen des Eisens beginnen ihre Wirkung auf den Wasserdampf, und als Resultat dieser Wechselwirkung entstehen Schwefel-Wasserstoff und dessen Zersetzungs-Producte, freier Wasserstoff und Schwefeldampf.
+So sieht man beide Processe sich in einander verlaufen und sich an nahen Orten begegnen.“
+Hier ist der Vorgang in den Solfataren geschildert; aber bei wirklichen, lava-hervorbringenden Vulkan-Eruptionen hat durch Versuche (Gas-Analysen) noch keine Entwickelung von freiem Wasserstoff constatirt werden können.
+Die bläulichen beweglichen Lichter, welche ich in 2300 Fuß Tiefe im entzündeten westlichen Krater des Pichincha erblickte, als ich am 26 Mai 1802 allein mit dem Indianer Felipe Aldas an den jähen Rand des Vulkans gelangte, habe ich gleich damals nicht für Hydrogen, sondern für Flämmchen brennenden Schwefels gehalten.
+Sie sind, wie man mir durch Briefe meldete, in den nächsten Jahren nach meiner Abreise aus Quito von mehreren Einwohnern, welche dieselbe Steinplatte (14946 Fuß über dem Meeresspiegel) aus bloßer Neugierde besuchten, ebenfalls gesehen worden.
+Auch der sehr gründlich physikalisch und geologisch unterrichtete Reisende, Herr Sebastian Wisse, welcher kühn im Anfang Augusts 1845 mehrere Nächte in dem Krater von Pichincha zubrachte, sagt ausdrücklich: „nach meiner Vermuthung brechen bisweilen die Dämpfe der thätigen Fumarolen so erhitzt aus, daß abgesetzte Schwefel-Krystalle sich wirklich entzünden.“
+Am schwierigsten sind die Flammen zu erklären, die man bei Erscheinung neuer Inseln aus dem Meere will haben aufsteigen sehn, ehe noch der gehobene vulkanische Meeresboden der Oberfläche nahe war.
+Anmerkungen.
+Vergl. meine Ansichten der Natur 3te Ausg. Bd. II. S. 273 und die Stelle im Texte oben S. 39-40.
+Solch eine Erscheinung wie der wolkenbruchartige Regen (S. 40 Z. 1–2) charakterisirt fast unter allen Erdstrichen das Ende einer Eruption.
+Da während derselben der Aschenkegel gewöhnlich in Wolken gehüllt ist und da in seiner Nähe die electrischen Regengüsse am stärksten sind, so sieht man Schlammströme, die aus meteorologischen Ursachen entstehen, von allen Seiten herabfließen.
+Seneca, Quaest. Nat. lib. II cap. 30:
+»Aetna aliquando multo igne abundavit: ingentem vim arenae urentis effudit.
+Involutus est dies pulvere populosque subita nox terruit.
+Illo tempore ajunt plurima fuisse tonitrua et fulmina, quae concursu aridorum corporum facta sunt, non nubium.
+— Aliquando Cambyses ad Ammonem misit exercitum: quem arena, Austro mota et more nivis incidens, texit, deinde obruit.
+Tunc quoque verisimile est fuisse tonitrua fulminaque attritu arenae sese affricantis.«
+Dies sind Meinungen des Asclepiodotus, in denen die Wirkungen der Reibungs-Electricität deutlichst ausgedrückt sind.
+Vergl. Kosmos Bd. IV. S. S. 535.
+A. a. O. S. 450; Roth über den Vesuv S. XLI.
+(Lyell, Principles of Geology 1853 p. 385–396; Naumann, Lehrbuch der Geognosie Bd. I. 1858 S. 136.)
+Kosmos Bd. IV. S. 280.
+Comptes rendus des séances de l'Académie des Sciences T. IV. 1837 p. 651–654 und 747–749; Kosmos Bd. IV. S. 601.
+Dr. Chanca läßt den Columbus bloß sagen:
+Llegamos á la isla hácia la parte de una gran montaña que parecia que queria subir al cielo, en medio de la cual montaña estaba un pico mas alto que toda la otra montaña, del cual se vertian á diversas partes muchas aguas.
+Mas á cerca vídose lo cierto, y era la mas hermosa cosa del mundo de ver de cuan alto se despeñaba é de tan poco logar nacia tan gran golpe de agua.
+Navarrete, Coleccion de los Viages y Descubrimientos de los Españoles T. I. p. 201.
+Kosmos Bd. IV. S. 336–338.
+A. a. O. S. 543.
+Der lebendige Zeuge der Conquista, Gonzalo Fernandez de Oviedo, dessen großes Werk der Historia general y natural de las Indias wir endlich nach drei Jahrhunderten, durch den rühmlichen Eifer der spanischen Akademie, vollständig vor uns sehen, hat allerdings (libro XLI cap. 3, Tomo IV. Madrid 1855 p. 26–32) eine umständliche Schilderung der großen Wasserfluth gegeben, welche in der Nacht vom 10 zum 11 Sept.
+1541 die Stadt Guatemala zerstörte; sie verweilt aber mehr bei persönlichen und örtlichen Scenen, als daß sie den Ursprung des schrecklichen Phänomens (tormenta de agua, tormenta, huracan, tempestad genannt) genau erkennen ließe.
+— Da es noch ganz an unmittelbaren Messungen der ewigen Schneehöhe in Central-Amerika fehlt und die beiden Vulkane (de Agua und de Fuego) nach Poggendorff's Berechnung der vom Cap. Basil Hall genommenen Höhenwinkel sich 2050 Toisen über das Meer erheben, auch die Stadt Guatemala nur 4° südlicher als die großen Vulkane von Mexico liegt; so ist hier zu erinnern, daß nach meinen Untersuchungen (Asie centrale T. III. p. 268–279) unter dem Parallel von 19° die mittlere Grenze des ewigen Schnees allerdings in 2313 Toisen Höhe liegt, daß aber sporadisch Schnee bis 1200 Toisen fällt.
+Unter dem Aequator, in den vulkanischen Cordilleren von Quito, wo die Höhe des ewigen Schnees 2475 Toisen ist, fällt sporadisch Schnee nur bis 1875 Toisen.
+Dies sind Mittelzahlen von vielen meiner Messungen, und deshalb muß den Resultaten die Angabe von einzelnen Toisen verbleiben.
+Der Vulkan von Tolima, ein abgestumpfter Kegel, ist schön abgebildet in Albert Berg's Physiognomy of tropical vegetation on the Rio Magdalena and the Andes of New Granada 1854 Tab. III.
+Er scheint mir der höchste Berg in der nördlichen Hemisphäre zu sein; nach meiner trigonometrischen Messung bei Ibague hat derselbe 17010 Par. Fuß (Kosmos Bd. IV. S. 292 und 527).
+Dem Tolima kommen am nächsten die mexicanischen Gipfel Popocatepetl (nach mir 16632 F.) und Orizaba (nach Ferrer 16776 F.).
+Nach der genauen Arbeit des Astronomen Julius Schmidt zu Olmütz, welche einer vortrefflichen Abhandlung von Carl Heller (Petermann, geogr. Mittheilungen 1857 S. 372–374) angehängt ist, ergiebt das Mittel aus 6 Messungen für den Popocatepetl 2775 Toisen oder 16650 Fuß (Differenz von meiner frühesten Messung 4 Toisen); für den Vulkan von Orizaba, den Herr Heller noch hat rauchen sehn, 2767 Toisen oder 16602 Fuß:
+also 30 und 50 Fuß Differenz von Ferrer's und meiner trigonometrischen Messung aus großer Entfernung. —
+So ist der Zustand der Hypsometrie im tropischen Amerika geblieben seit mehr als einem halben Jahrhundert, seit meinen und Ferrer's Arbeiten!
+Relation de l'éruption boueuse du Volcan de Ruiz par le Colonel Joaquin Acosta in den Comptes rendus de l'Acad. des Sc. T. XXII. 1846 p. 709: »Toute la population de la vallée de Lagunilla périt.
+D'énormes blocs de glace étaient descendus de la Cordillère en telle abondance qu'ils n'étaient pas encore entièrement fondus malgré la température élevée de 26° à 28° de ces lieux.
+Cette masse de glace venait d'une hauteur de plus de 4800 mètres, car telle doit être la limite inférieure des neiges perpétuelles sous cette latitude.
+C'est la première fois de mémoire d'hommes que les habitans des bords embrasés de la Madeleine avaient vu de près de l'eau solidifiée par le froid.
+Ce fut un spectacle surprenant de voir les eaux tièdes de la Madeleine charrier de la glace.«
+Bouguer, Figure de la Terre 1749 p. LXVIII bis LXXIII, auch in den Mémoires de l'Acad. des Sciences Année 1744 p. 37 und 269–272; la Condamine, Journal du Voyage à l'Équateur 1751 p. 156–159.
+Vergl. meine Kleineren Schriften Bd. I. S. 460, 461 und 463; wie die von mir im Atlas (No. IV, V und VII) entworfnen physiognomischen Ansichten.
+Par le mélange de la pluie et des cendres volcaniques il se forme dans l'air les espèces de pisolites à couches concentriques que j'ai trouvées sur le plateau d'Hambato parmi les anciennes éjections du Carguairazo, analogues à ce que les habitans de Quito appellent naïvement grêlons de terre et que Monticelli et Covelli (Storia del Vesuvio degli anni 1821–1823 p. 94–98) ont décrit avec beaucoup de sagacité.
+La ville d'Hambato, depuis la Catastrophe du 19 Juillet 1698 jusqu'à celle de Riobamba du 4 Février 1797, a été détruite 8 fois et toujours reconstruite dans le même site.«
+Humboldt in den Annales de Chimie et de Physique T. XXVII. 1824 p. 125.
+Weder Oviedo (Hist. de las Indias Parte III. lib. 8 cap. 20), noch Garcilaso, noch Cieza de Leon, der schon im 13ten Jahr (also 1531) nach Amerika kam, noch der merkwürdige Brief, welchen Pedro de Alvarado selbst den 15 Januar 1535 an seinen Kaiser über die Expedition nach Quito schrieb und von welchem der vortreffliche Prescott eine Abschrift hat benutzen können; nennen einen bestimmten Vulkan.
+Kosmos Bd. IV. S. 350
+Bouguer, Figure de la Terre p. LXVIII und LXXI; derselbe in den Mém. de l'Acad. des Sc. 1744 p. 37 und 270. Reste liegen gebliebener, durch Hindernisse aufgehaltner Trümmerzüge habe ich selbst am Cotopaxi bei dem Löwenberge (Puma-Urcu) gefunden (Siehe Kosmos Bd. IV. S. 363).
+Humboldt, Recueil d'Observations de Zoologie et d'Anatomie comparée Vol. I. (1811):
+Mémoire sur une nouvelle espèce de Pimelode, jetée par les Volcans de Quito, p. 21–25, Planche VII; Vol. II. (1833):
+Mémoire sur les Poissons fluviatiles de l'Amérique équinoxiale p. 148–151. Dr. Karsten, in seiner interessanten Abhandlung über die geognostischen Verhältnisse Neu-Granada's 1856 S. 92, sieht als Ursach der sogenannten Fisch-Auswürfe des Imbaburu die Ueberschwemmung des nahen Sees an, welche durch eine vom Vulkan in den See herabstürzende Felsmasse veranlaßt wurde.
+Die dem See eigenen Preñadillen blieben faulend liegen, als die Wasser sich zurückgezogen hatten.
+Also 2800 Fuß höher als nach einer Arbeit, die der scharfsinnige Physiker und Geologe Ramond für mich unternommen hatte, über das Maximum der Höhe, auf welcher die Scen in der Kette der Pyrenäen von Fischen belebt sind.
+»Le Salmo fario (la truite commune) et le Salmo alpinus (la truite noire) vont jusqu'a 1170 toises de hauteur, jusqu'au lac d'Escoubous; au-dessus de ce lac, p. e. au lac d'Oncet, au pied du Pic de Midi (à 1187t d'élévation), il n'y a plus de poisson par les 42°½ à 43° de latitude.
+Le poisson manque là où, comme dans les lacs supérieurs de Néouvielle, les eaux ne dégèlent que durant un mois ou deux.
+Les poissons ne peuvent vivre dans des lieux où les eaux sont privées de l'influence de l'air atmosphérique.«
+Miranda in hac catastrophe evenerunt fenomena«, sagt der Abad Cavanilles in seinem Prachtwerke (Icones Plantarum, quae aut sponte in Hispania crescunt, aut in hortis hospitantur, Vol. V. 1799 Praef. p. II).
+»Prope Pelileo urbem mons erat mirae magnitudinis La Moya nuncupatus, qui oculi ictu ruit, codemque temporis momento flumen ingens vomit conspurcatae ac fetidissimae aquae quod urbis vestigia penitus delevit, superstitesque cives volutavit arripuit sepelivit.«
+Es gab keinen Berg dort, der Moya oder Cerro de la Moya hieß.
+Im Texte (S. 37) habe ich die indischen Namen der Gegend, welche ich mit der Boussole aufnahm und zeichnete, mitgetheilt.
+Nach Cavanilles waren die 3 großen Erdstöße, welche die Provinz verheerten, am 4 Febr. 7¾ und 10 Uhr Morgens, wie an demselben Tage nach großem unterirdischem Geräusch (ruido) um 4 Uhr Nachmittags.
+Den ganzen Februar und März gab es schwache Erschütterungen, bis am 5ten April um 2¾ Uhr Morgens die Erde wieder furchtbar erbebte.
+Nach vielen Nachrichten, welche ich auf dem Wege von der Villa de Ibarra nach Riobamba und Pelileo sorgfältig von Augen- und Ohrenzeugen (von Januar bis Juli 1802) eingesammelt und in meine wohlerhaltnen Reise-Tagebücher eingetragen habe, ist der oben genannte berühmte ruido am 4 Februar 1797 gar nicht im Sitze der Hauptzerstörung selbst, im Alten Riobamba, auch nicht in Llactacunga oder Hambato, sondern nur nördlicher in den Städten Quito und Villa de Ibarra vernommen worden: und zwar 15 bis 20 Minuten nach dem großen Erdstoß, welcher in den beiden letztgenannten Städten von gar keinem Getöse (ruido oder bramido) begleitet war.
+Dieser wichtige Umstand scheint meine alte Behauptung zu bekräftigen, daß das ganze Hochland um Quito gleichsam als ein einziger vulkanischer Heerd zu betrachten ist, dessen einzelne Oeffnungen wir mit eigenen Namen (Pichincha, Cotopaxi, Tungurahua ....) zu bezeichnen gewohnt sind.
+In einem Briefe an den berühmten analylischen Chemiker Klaproth vom Sept. 1806.
+S. dessen Beiträge zur chemischen Kenntniß der Mineral-Körper Bd. IV. S. 293, zu vergleichen mit Ehrenberg's Mikrogeologie 1854 S. 313, 341 und 346.
+Kosmos Bd. IV. S. 220-223.
+Bericht über die Verhandlungen der Akad. der Wiss. zu Berlin aus dem J. 1846 S. 190.
+Gilliß, Astronomical Expedition to the Southern Hemisphere (Washington) 1855 p. 4 und 13; Pöppig, Reise in Chile und Peru Bd. I. (1836) S. 427; Domeyko in den Annales des Mines, 4eme Série T. XIV. 1848 p. 187 (Kosmos Bd. IV. S. 552).
+Ehrenberg, Mikrogeologie S. 302–306; Meyen, Reise um die Erde Th. I. S. 339.
+Die Breiten der Vulkane von Antuco und Maypu sind dem Werke von Gilliß (Vol. I. p. 13) entlehnt, aber die von dem amerikanischen Astronomen im Text gegebenen Breiten weichen sehr von denen der angehängten Karten von Pissis und Allan Campbell ab.
+Nach diesen liegt der Vulkan Maypu in lat. 33° 46′, also einen halben Grad nördlicher.
+S. die vortreffliche Schrift von Roth: der Vesuv und seine Umgebung 1857 S. XXXIII, 9, 13–15, 70 und 164.
+Zur Erinnerung an den Ausbruch des Vesuvs am 17 December 1631 ließ der Vicekönig Fonseca y Zuniga, Graf von Monterey, eine Inschrift in Portici aufstellen, in der die Worte vorkommen: jam, jam erumpit, mixtum igne lacum evomit.
+Vergl. Antonio Parrino, Teatro de' Vicerè del regno di Napoli 1692 T. II. p. 227.
+Auch der isländische Vulkan Oeräfa, dessen östliche Kuppe Knapprfellsjökull heißt, ist wegen seiner Wasser-Ausbrüche bekannt:
+die aber nach Sartorius von Waltershausen (physisch-geogr. Skizze von Island 1847 S. 108) nur dem plötzlichen Schmelzen von Eis und Schnee zuzuschreiben sind.
+S. meine Abhandlung über den Bau und die Wirkungsart der Vulkane in verschiedenen Erdstrichen (Ansichten der Natur 1849 Bd. II. S. 273), wie oben S. 24 und dazu die Anm. 1 S. 49.
+Kosmos Bd. IV. S. 250.
+Ehrenberg in dem Bericht über die Verhandl. der Akad. der Wiss. zu Berlin aus dem Jahre 1844 S. 324–344, 1845 S. 133–139 und 150–158, 1846 S. 133 bis 158.
+Ehrenberg a. a. O. 1844 S. 145.
+Lütke, Voyage autour du Monde T. III. p. 67 und 79–82; Kosmos Bd. IV. S. 387-389; Adolf Erman, Reise um die Erde Bd. III. S. 371, 377 und 539.
+Klaproth und Stanislas Julien in meiner Asie centrale T. II. p. 543; Léopold de Buch, Iles Canaries p. 442.
+Kosmos Bd. IV. S. 287 und 522.
+Ich erinnere, daß es drei Vulkane mit Namen Merapi (in dessen hinterem Theile man das malayische Wort àpi Feuer vermuthen sollte) giebt, deren einer auf Sumatra (8980 Par. Fuß) und zwei auf Java liegen: der Merapi bei Dschogyakarta (8640 Fuß) und am östlichsten Ende der Insel der Merapi-Idjen, ein kraterloser höchster Gipfel (8065 Fuß) des großen Vulkans Idjen; Junghuhn, Java Abth. 1. S. 69.
+(Im Profil II ist Merapi-Idjen zu 8500 Fuß angegeben, Kosmos Bd. IV. S. 539)
+Die Schlamm-Vulkane von Java, unter welchen der von Purunwadadi, nahe bei den iod- und bromhaltigen Wassern von Kuwu, durch die von Ehrenberg aufgefundenen Polygastern und Phytolitharien berühmt geworden ist (Verhandlungen der Akademie der Wiss. zu Berlin aus dem J. 1855 S. 574 und Junghuhn, Java Abth. II. S. 275), haben, nach dem Zeugniß des eben genannten großen Naturforschers, sehr wahrscheinlich jene wunderbaren, theilweise gestielten und geschwänzten, hohlen Kügelchen und Eisenblasen hervorgebracht, die am 14 Nov. 1856 auf dem Schiff Josika Bates 60 geogr.
+Meilen südöstlich von der Insel Java in der Südsee als Meteorstaub aufgesammelt wurden.
+Ganz ähnliche hohle Kügelchen sind auf der Halbinsel Apscheron (Baku) nach Lenz bei dem großen Flammen-Ausbruch der Salse von Baklichli am 7 Febr. 1839 als vulkanische Asche ausgestoßen worden.
+(Eichwald in Humboldt's Asie centrale T. II. p. 513: »il fut lancée dans l'air une prodigieuse quantité de petites sphères creuses, semblables à la menue dragée avec laquelle on tue les petits oiseaux.«
+Kosmos Bd. IV. S. 255; Ehrenberg in den Monatsberichten der Akad. der Wiss. zu Berlin aus dem J. 1858 S. 2–10.)
+(S. 41.) Junghuhn, Java, seine Gestalt u. s. w. Abth. II. S. 707–709.
+(S. 41.) A. a. O. S. 111–115 und 119–131.
+A. a. O. S. 391.
+Kosmos Bd. IV. S. 413; Ritter, Erdkunde von Asien Bd. IV. Abth. 1. S. 333; Lyell, Principles of Geology 1853 p. 351 und 494.
+Ehrenberg in den Verhandl. der Berl. Akad. 1846 S. 172 und in den Tafeln zur Mikrogeologie 1854 Tab. 38 no. 23.
+Kosmos Bd. I. S. 246-249.
+Dana (United States' Explor.
+Exped. Vol. X. p. 184) läugnet, sich auf Augenzeugen berufend, alle Erscheinungen von Flammen bei den großen Eruptionen des Lavapfuhls von Kilauea: »Flames as actually seen were called in to give vividness to the description« (Kosmos Bd. IV. S. 417 und 589)
+Discorso sopra la produzione delle fiamme ne' Volcani e sopra le consequenze che se ne possono trarre, 1843: theilweise übersetzt in Roth's Schrift über den Vesuv und die Umgebung von Neapel 1857 S. 350.
+(S. 46.) Lütke, Voyage autour du Monde T. III. 1836 p. 75 (Kosmos Bd. IV. S. 387).
+(S. 46.) A. a. O. S. 602-604.
+(S. 46.)
+Poggendorff's Annalen Bd. 83. S. 249 und 253.
+Humboldt, Kleinere Schriften Bd. I. S. 61, 68, 91 und 94.
+— Was ist ein bisweilen nächtlich gesehenes Leuchten der Gipfel von Bergen, welche aus ganz unvulkanischem Granit- oder Kalkflöz-Gestein bestehen und auf denen das Gras nicht angezündet ist, nach den Aussagen der anwohnenden Indianer?
+Es wird behauptet vom Cuchivano bei Cumanacoa, und am Oberen Orinoco vom Duida und Guaraco; Humboldt, Voyage aux Régions équinox.
+T. I. p. 394 und T. II. p. 565.
+III.
+Reihung der Gebirgsarten, durch welche die vulkanische Thätigkeit, zerstörend, bildend und umwandelnd gewirkt hat und noch zu wirken fortfährt, unterseeisch und in der jetzigen Feste.
+Innere Gestaltung oder räumliche Individualisirung (Gewebe) und mineralogische Zusammensetzung.
+(Constante Association gewisser einfacher Mineral-Species.) —
+Altersfolge: aus der Auflagerung, dem Durchbruch, oder aus dem Inhalte versteinerter Organismen (Fossilien) aus dem Thier- und Pflanzenreiche geschlossen.
+— Formationen; periodisch alternirende Wiederkehr derselben Schichten.
+— Geognostischer Horizont. —
+Vier Entstehungs-Formen der Gebirgsarten: a) endogenes oder Eruptions-Gestein, plutonisches und in engerem Sinne vulkanisches genannt; b) exogenes oder Sediment-Gestein, c) metamorphosirtes, d) Conglomerate und Trümmergestein.
+[Erweiterung des Naturgemäldes: Kosmos Bd. I. S. 257—302 wie auch S. 457—470.]
+Die ältesten geognostischen Betrachtungen, zu denen wir, die religiösen Traditionen der Völker ausschließend, aufsteigen können, lassen sich in dem dauernden Reflex wiedererkennen, den sie auf die Benennungen ausgeübt haben, welche man in der Wissenschaft bis zu der neuesten Zeit großen Abtheilungen der Gebirgsmassen gegeben hat.
+Die bleibenden Spuren der Umwandelungen, welche im Lauf der Jahrtausende die trockne, dem Menschen bewohnbare Feste erlitten hat; die Ansicht von Versteinerungen von Meercorallen (sogenannten Fossilien) in den Steinbrüchen von Syracus, ja von Fischen im Marmor von Paros: leiteten bei den Hellenen Xenophanes von Kolophon (Ol. 60) und die eleatische Schule auf die Verallgemeinerung der Ansicht, daß die ganze Erdrinde früh vom Ocean bedeckt war.
+Strabo, aufmerksam auf die oft veränderten Grenzen zwischen Meer und Land, dachte sich nicht bloß viele kleine und große Inseln, sondern auch ganze Continente aus dem Meere durch Anschwellung und Erhebung seines Bodens emporgestiegen.
+Apulejus von Madaura schrieb die Muschel-Versteinerungen, die er in Nord-Afrika in den gätulischen Gebirgen sammelte, der Deucalionischen Fluth zu: welche er demnach eben so allgemein glaubte als die Hebräer die Noachidische und die Mexicaner im Azteken-Lande (Anahuac) die Fluth des Coxcox.
+Entgegengesetzt diesen alten Zeugnissen neptunischer Sedimentbildungen, hatten sich gleichzeitig und vielleicht noch früher der typhonische Caucasus-Mythos und die Idee des Pyriphlegethon als der gemeinsamen Quelle der vulkanischen Thätigkeit wie der Entstehung aller Brandländer verbreitet.
+Die Laven (οἱ ῥύακες) und vulkanischen Schlacken, alle Feuerströme, „wo auf der Erde sie sich finden mögen“, sind Theile des Pyriphlegethon.
+Typhon, der tobende Enceladus, ist in griechischer Volksphantasie eine Bezeichnung des Centralfeuers: einer unbekannten, im Inneren der Erde liegenden Ursach vulkanischer Erscheinungen.
+Man erkannte den räumlichen Zusammenhang einzelner vulkanischer Systeme: von der Pithecusischen Insel Aenaria (Ischia) bis Cumä (Phlegra) und Sicilien; die Abhängigkeit einer gewissen Classe der Erdbeben in Griechenland von den Lava-Ausbrüchen des Aetna, welche das innere Pneuma (die Kraft der Dämpfe, die man mit der des unterirdischen Windes verwechselt) veranlaßt.
+Der Glaube an das Centralfeuer wird auch im 3ten Jahrhundert von dem heil. Patricius, Bischof von Pertusa, in seiner Erklärung der heißen Quellen bei Carthago deutlich ausgesprochen, indem er sagt: die Wasser, welche von dem unterirdischen Feuer entfernter sind, zeigen sich kälter als die, welche nahe demselben entquellen.
+So finden wir im Alterthum bei Betrachtung der Erdschichten herausgehoben den Contrast zwischen Wasser- und Feuerbildung, ganz als Vorklang unserer frühesten Eintheilung in neptunisches und vulkanisches Gestein: aus dem Wasser niedergeschlagenes, organische Meerproducte enthaltendes Sediment-, und eruptives Gestein; so exogene und endogene Gebilde meiner alten spanischen Pasigraphie vom Jahre 1803 entsprechend.
+Das endogene oder Eruptiv-Gestein, welches Sir Charles Lyell später (1833) sehr charakteristisch hypogene oder nether formed rocks nennt, umfaßt zwei Classen: die eigentlichen vulkanischen (oder trachytischen, basaltischen und Phonolith-) Gebirgsarten; und die plutonischen Gebilde (d. i. Granit und Gneiß, Hypersthenit, Melaphyre und quarzfreie Porphyre).
+Da es in dem lateinischen Mittelalter Sitte geworden war feuerspeiende Berge nicht Sitze des Typhon oder des Pluton zu nennen, sondern allgemein Sitze des Hephästos, des Vulcan der Römer; so blieb der neuen Geologie für die zuletzt genannte zweite Classe eruptiver Formationen nur der Ausdruck plutonisch übrig.
+Das unterirdische Reich des Pluton ward im frühesten Alterthum als Reichthum und Segen bringend (πλουτοδοτήρ und πλουτοδότης) bezeichnet; und in so fern nur in beiden Continenten großer Gold- und Silberreichthum den Lagerstätten inwohnt, die dem Gneiß und quarzfreien Porphyr angehören, findet sich die Wahl der Benennung plutonischer Gebilde gleichsam mythisch gerechtfertigt.
+Die Beziehungen der Thätigkeit feuerspeiender Berge auf die unbekannte Ursach der Thätigkeit selbst konnten fast mit gleichem Rechte auf die Ausdrücke: plutonisch, vulkanisch und typhonisch führen.
+Der älteste Name des Pluton war Hades (ᾍδης): Sohn des Saturn und der Rhea, Bruder des Zeus; ja Pluton wurde selbst ein unterirdischer Zeus (Ζεὺς χθόνιος) genannt: nach dem Unterschiede, der laut Pherecydes aus Syros orphisch zwischen Chthon und Gäa herrscht.
+In dem alt-theologischen Begriff des Hades sind gleichzeitig zwei Principien verbunden: ein wohlthätiges, fruchtbringendes, Reichthum an Cerealien und metallischen Schätzen aus seinem tiefen Schooße dem ersten Menschengeschlechte darbietend; und ein furchtbares Princip, richtend und rächend in dem düsteren Tartarus.
+Die Benennung Πλούτων scheint erst spät dem Herrn der Unterwelt beigelegt worden zu sein.
+„Ich kenne“, sagt ein tiefer und philosophischer Kenner des Alterthums, Böckh, „kein Beispiel dieser Benennung. welches höher hinaufginge als in die Zeit der Tragiker; Sophocles, Euripides, Platon sind die ältesten Zeugen, die ich kenne:
+denn eine Stelle im Prometheus des Aeschylus kann nicht mit Sicherheit dahin gezogen werden.“
+Eine minder abstracte, man könnte sagen sinnlich einfachere Vorstellung als die des Pluton bot das Wort Feuer, analog dem selbst Metalle schmelzenden Schmiedefeuer, dar: und leitete so auf Hephästus oder Vulcanus, den Gott des Feuers.
+In Stellen der griechischen Dichter wird nicht selten das Feuer selbst oder die Flamme Hephästus genannt.
+Das Wort wird synonym für πῦρ gebraucht.
+Eben so gilt bei den Römern, vorzüglich den Dichtern, das Wort Vulcanus für Feuer; im Plautus sogar für das Feuer (Licht), welches in einer Laterne getragen wird.
+Die feuerspeienden Berge selbst wurden aber nicht Hephaestoi, nicht Vulkane, sondern Werkstätte des Hephästus oder des Vulcan genannt.
+Der Uebergang von dem Namen des Werkmeisters in allen Künsten, welche der Hülfe des Feuers bedürfen, auf das Local der Werkstätte, auf den Berg selbst, geschah, wie wir bald zeigen werden, erst in der letzten lateinischen oder vielmehr romanischen Periode des Mittelalters.
+Zugleich ist auch hier noch zu bemerken, daß der Name des Gottes des Reichthums, Plutos (Πλοῦτος), Sohns des Jasius oder Ἰασίων und der Demeter, älter ist als die Benennung des Pluton (Πλούτων) für Hades, den Herrscher der Unterwelt.
+Es ist eine glückliche Folge des wissenschaftlichen Forschungsgeistes gewesen, der seit dem Ende des 15ten und im Anfang des 16ten Jahrhunderts, in den Zeiten der ersten Entdeckungen von Amerika, in Italien: dem baulustigen, gewerbthätigen und versteinerungsreichen Lande, ausbrach: daß dort die frühesten geologischen Betrachtungen der Lagerungsfolge von Sedimentschichten zugewendet wurden, und im allgemeinen damals schon zu Resultaten führten, die mit denen unserer jetzigen Geologie merkwürdig übereinstimmen.
+Umgebung und locale Verhältnisse üben oft einen erkennbaren und dauernden Einfluß auf die Richtung und Entwickelung einzelner Wissenschaften aus.
+Ich habe schon in den wenigen Blättern, welche ich der Geschichte der Weltanschauung widmen konnte, der scharfsinnigen Naturbeobachtungen erwähnt, die sich dem alles umfassenden Genius von Leonardo da Vinci darboten bei Eröffnung von neuen Steinbrüchen und bei Anlegung von Canälen, die das lombardische Schuttland und die Tertiärschichten durchschnitten; dem Girolamo Fracastoro beim Anblick der Steinbrüche um Verona unfern der Citadelle von S. Felice, und der an fossilen Fischen so reichen Gesteinschichten des Monte Bolca; der vereinten Kräfte des englischen Arztes Martin Lister und des berühmten dänischen Anatomen Nicolaus Steno (Stenson) am großherzoglichen Hofe von Toscana.
+Lister sprach schon aus, daß jede Gesteinschicht durch eigene Fossilien charakterisirt werde; daß aber trotz großer Form-Aehnlichkeiten doch die Producte der jetzigen Meere bei genauerer Vergleichung sich ganz verschieden von den fossilen, die er aufgefunden, zeigten.
+Es ist zu beklagen, daß diese richtigen Naturansichten bei dem geistreichen Manne, der auch das unbestrittene Verdienst hat schon im Jahr 1681 den ersten Vorschlag gemacht zu haben geognostische Karten von England entwerfen zu lassen, durch wunderliche, ganz naturwidrige Hypothesen über den Proceß der Versteinerung und die plastischen Naturkräfte verunstaltet wurden.
+In den wichtigen posthumous Works von Robert Hooke ist dagegen das Unphilosophische einer solchen Annahme von Naturspielen und der sogenannten Naturversuche, organische Gebilde im Reiche der Fossilien nachzuahmen, siegreich entwickelt; auch zum ersten Male die, damals den Theologen sehr verhaßte Lehre von untergegangenen Thiergeschlechtern aufgestellt.
+Steno, in seinem merkwürdigen stratigraphischen Werke:
+de solido intra solidum naturaliter contento 1669, unterschied zum ersten Male die Gebirgsarten, welche keine Spuren eingeschlossener organischer Reste darbieten und die er deshalb für die ältesten Formationen hielt, von den jüngeren Schichten: deren jede einzelne er aus einer darüber stehenden Flüssigkeit abgesetzt (niedergeschlagen) nennt (»turbidi maris sedimenta sibi invicem imposita« sind Steno's Worte).
+Diese Sedimente waren nach ihm ursprünglich alle horizontal; und erst in der Folge senkrecht aufgerichtet, oder unter verschiedenen Fallwinkeln geneigt durch den Einfluß ausbrechender Dämpfe, welche die Centralwärme (ignis in medio terrae) erregt, oder durch Nachgeben zu schwach unterstützender unterer Schichten.
+Leibnitz dagegen, in seiner vulkanischen Protogaea, erklärt die Neigung der horizontal abgesetzten Schichten gegen den Horizont durch die Existenz unterirdischer Höhlen und den Abfall in dieselben.
+Der scharfsinnige Botaniker Fabius Colonna zu Neapel und Steno zu Florenz waren die ersten, die unter den fossilen Schalthieren unterschieden: welche ursprünglich dem Meere, welche dem Wasser angehört haben.
+Es ist eine historische Frage wohl nicht zu übergehn, die ich kaum je berührt, ja noch weniger mit Sicherheit gelöst finde.
+Zu welcher Zeit ist in dem Latein des Mittelalters oder in den romanischen Sprachen das Wort Vulkan zuerst für feuerspeiende Berge gebraucht worden?
+Bei denen auf Lemnos und Hiera, auf Sicilien und in Unteritalien wird im Alterthum allerdings immer an Hephästus (Vulkan), nicht an Pluto, gedacht. Plinius (lib. III no. 92 Sillig) sagt im allgemeinen von den Aeolischen Inseln: »Hephaestiades a Graecis, a nostris volcaniae dictae.«
+Hephaestii montes finden wir ebenfalls in Lycien; Vulcani domus nennt Virgil die Insel Lipara; dagegen sind, wie wir schon oben berührt haben, die Plutonien heiße Dampfhöhlen, Eingänge zum Hades, oft mit Charonien verbunden.
+(Strabo lib. V p. 244, XII p. 579, XIII p. 629, XIV p. 636 und 649.) Ortsnamen, dem Pluto heilig, sind sehr selten.
+Doch wird in einem Scholion des Proclus bei der Mythe der Atlantis eine der Inseln des äußeren Meeres dem Pluto geheiligt genannt.
+Wenn nun aber auch im Alterthum unbestreitbar der Begriff feuerspeiender Berg an den des Vulcan geknüpft war, so wurde eine solche Verknüpfung sprachlich (s. oben S. 60–61) doch immer nur als Werkstätte des Feuergottes, als ein ihm geweihter Ort bezeichnet.
+Der Uebergang des Namens des Feuergottes zu allen entzündeten Bergen gehört dem späteren romanischen Mittelalter.
+In dem 7ten Bande des 1819 bis 1826 zu Bologna herausgegebenen großen Dizionario della lingua italiana wird (pag. 406) zu der Bedeutung von vulcano als feuerspeiender Berg unter den Belegen auch die Stelle von Giovanni Bottari angegeben:
+Montagne gettanti suoco, che prima da' Naviganti Portoghesi e poi comunemente da tutti Vulcani le appellarono.
+Allerdings waren die kühnen catalanischen Seefahrer unter Anführung von Don Jayme Ferrer schon 1316 an den Rio de Ouro (Br. 18° 40′), weit südlich vom Cabo de Non; wie 1365 nach dem Berichte von Villaut, Sieur de Bellefonds, französische Seefahrer von Dieppe bis nach Sierra Leone (Br. 8° 30′) und der afrikanischen Goldküste gelangt: aber diese Expeditionen im vierzehnten Jahrhundert, auf welchen die Vulkane der canarischen und capverdischen Inseln gesehen wurden, stehen vereinzelt da; erst im funfzehnten Jahrhunderte, als Jean de Bethancourt 1403 einen Theil der Canarien eroberte, als durch die lange andauernden Bemühungen des Infanten Dom Heinrich, Herzogs von Viseo, die berühmte Navigations-Akademie zu Terca naval (Villa do Infante in Algarbien) 1418 gestiftet, der vulkanreiche Archipel der Azoren 1432 entdeckt und eine lange Reihe von Seefahrten längs der Westküste von Afrika eröffnet wurde, in welcher die von Alvise Ca da Mosto 1454 nach der Mündung des Senegal und Diego Cam (Ca͂o) mit Martin Behaim 1484 bis 1486 die wichtigsten waren; wurde die Kenntniß der vulkanischen Thätigkeit und ihrer so verschiedenartigen Erscheinungen weit verbreitet und populär.
+Man fand ein Bedürfniß sich eines kurzen Ausdrucks für die Berge zu bedienen, in denen Vulcan hauste.
+Der Gebrauch des Worts Vulkan: welches A. W. von Schlegel von dem sanskritischen ulkâ: Feuerbrand, Flamme, vorzüglich feuriges Meteor; abgeleitet hat (vgl. Pott, etymologische Forschungen Th. I. 1833 S. 265 und Bopp's glossarium sanscritum 1847 p. 53), für den Berg selbst steigt vielleicht nicht höher als 80 bis 90 Jahre vor der Entdeckung von Amerika auf.
+In allen Schriftstellern der portugiesischen und spanischen Conquista wird das Wort durchgängig gebraucht als eine alte, ganz gewöhnliche Benennung.
+Sahagun, Bernal Diaz, Gomara, Antonio de Herrera und viele andere nennen die feuerspeienden Berge Volcanes de Mexico, de Quito, de Popayan.
+Auffallend ist es, daß Bembo im Aetna dialogus, vielleicht aus strenger Reinheit der Sprache, das Wort vulcanus nicht anwendet.
+Wenn ich es vergebens gesucht habe bei Roger Baco, dem Cardinal d'Ailly (Petrus Alliacus), Gerson, Vincentius Bellovacensis und Dante; so war es mir um so auffallender, im Albertus Magnus (der um 1190 geboren wurde) folgende Stelle (über den Bimsstein) zu finden: »inveniuntur lapides quidam tantae porositatis, ut natent super aquam, sicut lapides quos ejicit vulcanus« (Liber de Mineralibus cap. VI Tract. primi libri, ed. Venet. 1494).
+Hier ist das mythische Wesen fast mit dem Berge bildlich verwechselt.
+Um die Gliederung und den inneren historischen Zusammenhang unsrer geologischen Erkenntnisse schärfer zu ergründen, muß hier in Erinnerung gebracht werden, daß das Auffinden fossiler organischer Meerproducte, in den Gesteinschichten eingeschlossen, früh und fast überall dieselben Fragen hervorrief, deren voreilige Beantwortung noch sichtbare Spuren in unsren jetzigen systematischen Eintheilungen und der wissenschaftlichen Nomenclatur gelassen hat.
+Es handelte sich, wie bei Apulejus, um die Allgemeinheit der Deucalionischen Fluth und ihre Wiederkehr; um das frühere Trockenlegen der höheren Erdtheile, und auf diesen um die Entstehung der ältesten Pflanzen- und Thiergattungen wie bei Trogus Pompejus: um die Wahrscheinlichkeit der Annahme einer keim- und mutterlosen Zeugung (generatio aequivoca, spontanea, primaria), welche selbst in christlichen Zeiten den großen Augustinus, Bischof von Hippo, beunruhigte; um die strenge Scheidung von fossilienreichen, secundären Gesteinsbildungen und den uranfänglichen, stets fossilienleeren:
+weil dieselben schon zu einer Zeit erhärtet sind, wo Erde und Meer noch ohne Pflanzen und Thiere waren.
+Von diesen Fragen rief eine die andere hervor; und der scharfsinnige Forscher, der die Verschiedenheit der Fossilien in auf einander folgenden Schichten am lebhaftsten angeregt hatte, Nicolaus Steno, war auch der, welcher unter den sechs von ihm angenommenen Epochen der Bodenbildung in Toscana die älteste Bildung aus einem Urmeere ohne Organismen, vor deren Entstehung, sich niederschlagen ließ: und hat so mit den späteren Targioni Tozzetti und Lazaro Moro am meisten zu der sich zwei Jahrhunderte lang erhaltenden Nomenclatur uranfänglicher und darum nothwendig versteinerungsloser Gebirgsarten beigetragen.
+In der Chronometrik der Erdschichten: welche Hooke's großer Geist schon geahndet hat, in der wir kühn neue Schöpfungen nennen die historischen Phänomene des Wechsels in den Organismen, habe ich, immer mehr und mehr den Eruptiv-Charakter des Granits und anderer endogener Gebirgsarten anerkennend, ohngefähr seit dem Jahre 1825 und 1826: gegen die Zeit, als ich in Paris und Berlin mit Vorlesungen über den Kosmos beschäftigt war, aufgehört mich des Wortes uranfänglich zu bedienen.
+Die Zahl der Granite, Gneiße, Glimmerschiefer und Syenite, welche durch Auflagerung den entgegengesetzten Charakter darbieten, hat sich ansehnlich vermehrt (Kosmos Bd. I. S. 262).
+Wir finden nach Charpentier und Lardy am Nuffener Passe (Studer, Geologie der Schweiz I. S. 96) zwischen dem oberen Wallis und Canton Tessin granathaltige Glimmerschiefer, eigentlich Kalk-Glimmerschiefer mit Belemniten, wahrscheinlich einen unkrystallisirten Liasschiefer: wie nach Escher ein ganz ähnliches Vorkommen an der Furca und nach Studer am Berg Lukmanier (Studer I. S. 241 und 376); nach Dufrénoy in den Pyrenäen im Thal Vicdessos Granit jünger als die Lias-Formation, ja selbst bei St. Martin de le Gly jünger als Kreide: nach Gustav Rose, Ehrenberg und Humboldt im nördlichen Asien am oberen Irtysch silurischen Schiefer bedeckend; denselben nach Macculloch, Dechen und Murchison auf Arran auf fossilreichen Sedimentschichten ruhend, ohne den nahen Conglomeraten Granitgeschiebe mitzutheilen; auf Sky am Ben-na-Charn Syenit auf Lias aufgelagert; nach Marzari Pencati das Contact-Phänomen eines syenitartigen Granits, der den Kalkstein der Jura-Formation bei Predazzo bei der Cascade von Canzacoli in salinischen Marmor verwandelt.
+Die Auflagerung des Syenits und Granites bei Weinböhla und Hohnstein auf Pläner und Quader-Sandstein in Sachsen ist nach Naumann und Cotta jedenfalls durch eine Ueberschiebung des starren Granites über die Schichten der Kreide-Formation entstanden; und dürfte daher nicht sowohl für eine neue Bildung des Granits als vielmehr für das Ereigniß einer großartigen Dislocation nach der Kreide zeugen.
+Dagegen sprechen die Erscheinungen im Voigtlande und bei Strehla entschieden für eine jüngere Bildung der dortigen Granite in Vergleich zu den angrenzenden Schiefern: gerade wie in Schottland, am Harze und am Irtysch.
+Die scheinbaren Einschlüsse von Pläner im Granit von Zscheila bei Meißen sind von Gumprecht für späte Ausfüllungen von Klüften und Höhlungen des weit älteren Granites erkannt worden.
+Die Abwesenheit fossiler organischer Einschlüsse in eruptiven endogenen Gebirgsmassen (plutonischen wie vulkanischen) berechtigt keinesweges zu dem Schlusse, daß ihre Ausbrüche, d. h. ihre Erscheinung an der Erdoberfläche, einer Zeit angehören müssen, in welcher das organische Leben: der Meer- und Landpflanzen, der Wasser- und Luftthiere, noch nicht erwacht war.
+Die Abwesenheit solcher Einschlüsse ist Folge der endogenen Bildung in den heißen Tiefen der Erde:
+sei der Ausbruch, die Erhebung auch neuer als alle Kreidethiere.
+„Allerdings muß“, wie ein geistreicher, vielumfassender Geologe sagt, „mit Recht die ganze Reiche der sedimentären Formationen doch zuletzt von etwas getragen werden; die ältesten aller eruptiven Bildungen müssen eine Unterlage gefunden haben, über die sie sich ausbreiten konnten.“
+Diese Unterlage kann freilich auch eine Granitschicht sein; aber kann man mit Gewißheit darthun, daß es eine von denen sei, die sich unsrer Beobachtung darbieten?
+Wir gelangen hier an die Frage, welche die indische Urmythe berührt; an die Frage: worauf, wenn ein Elephant die Erde trägt und er selbst von einer Riesen-Schildkröte getragen wird, die Schildkröte ruht?
+Es ist wahrscheinlich, daß überall dieselbe plutonische Gebirgsart (Granit, Gneiß, Glimmerschiefer, Porphyr) die Unterlage, nicht die Association derselben Mineral-Species sei.
+Fossilfreie Schichten sind nicht nothwendig prozoisch, vor dem Erwachen des organischen Lebens in azoischen Zeiten gebildet.
+Die ältesten der unter-silurischen Schichten, die von Bray Head und Wicklow in Irland, welche man ehemals würde cambrisch genannt haben, umwickeln einen Zoophyten Oldhamia: nach seinem Entdecker, Professor Oldham, benannt; von fast gleich hohem Alter, aber, wenn gleich minder allgemein, selbst in die obere silurische Formation übergehend, sind die Graptolithen.
+Naumann äußert sich also in einem Briefe an mich mit dem ihm eigenen Scharfsinn und mit lobenswerther Vorsicht über das, was man primitive Formation nennen kann:
+„Ob eine solche“, sagt er, „gegenwärtig irgend wo sichtbar zu Tage austritt, aus welchen Gesteinen sie besteht und wie sie gebildet worden? sind schwer zu lösende Fragen.
+Es ist möglich, daß ein Theil der geschichteten krystallinischen Silicat-Gesteine (Gneiß, Glimmer- und Hornblend-Schiefer) wirklich für primitiv zu halten sind; es ist aber gewiß, daß ganz ähnliche Gesteine von weit neuerer Bildung vorhanden sind.
+Weil diese letzteren theilweise metamorphosirt sind, so hat man auch die ersteren dafür erklären wollen.
+Es gehört nun einmal zu den Wagnissen der Geognosie überall sogleich die Genesis der Dinge erklären zu wollen.“
+Die vormals uranfänglich genannten Gebirgsarten: Granit, Gneiß und Glimmerschiefer, nach meinen Erfahrungen vorzugsweise die erstere; bewahren in der bei weitem größeren Zahl der Fälle ihres Hervortretens, selbst da, wo sie sehr neue Sedimentschichten durchbrechen, ihren wesentlich plutonischen Eruptiv-Charakter.
+Am vollkommensten ist dieser von Leopold von Buch, Hausmann, Murchison und Kjerulf im südlichen Norwegen unbezweifelt beobachtet worden; aber es giebt auch, wenn gleich sparsam, in beiden Continenten Oertlichkeiten, in denen Glimmerschiefer und Syenit als umgewandelte (metamorphosirte) silurische, devonische und sogar spätere Sedimentschichten erkannt werden.
+Selbst in dieser Schrift, in welcher Anhäufung von unter sich analogen Einzelheiten vermieden werden muß, ist mehrmals von einem solchen zweiartigen Auftreten der plutonischen Formation die Rede gewesen.
+Hier genügt es an die Zeugnisse geübter Beobachter: Charpentier, Escher und Brochant für die Schweiz; von Delesse und Elie de Beaumont für die Vogesen, von Friedrich Hoffmann für das Fichtelgebirge; zu erinnern.
+In dem nördlichen Asien: in dem Theil des Altai, welcher sich vom schönen See von Kolywan durch die Platowsker Steppe über Buchtarminsk und Narym nach dem chinesischen Wachtposten Baty hin erstreckt, sieht man überall die Granite ganz unbegleitet von Gneiß oder Glimmerschiefer auftreten.
+Unter welchem Drucke, bei welcher Höhe der Temperatur von mit Säuren geschwängerten Dämpfen, oder ob in trocknem Erglühen diese Umwandlungen statt gefunden haben? wie oft ohne Aufnahme neuer Stoffe, bloß durch Veränderung der Association der vorher schon vorhandenen Bestandtheile, die Metamorphose vorgeht? leitet auf Fragen, zu deren allmäliger Lösung durch Anführung analoger Processe der wichtige und wohlthätige Einfluß der Chemie auf die Geognosie nahe Hoffnung giebt.
+Was man unter allen Zonen im silurischen und devonischen Sediment-Thonschiefer-Gestein vorgehen sieht, bietet wie erkennbare Vorstufen solcher Erscheinungen dar: besonders wenn der Thonschiefer (von eingeschlossenen Lagern ist hier keine Rede) in seinem inneren Gewebe mit Kalktheilen gemengt wird; viel Glimmer und durch Imprägnation mit Feldspath (Fournet's Feldspathisation) Talkblättchen, Chiastolith, Quarz, mehr oder weniger kohlenhaltigen Lydit (Kieselschiefer) und Quarzmassen aufnimmt; in der Nähe eruptiver Porphyre selbst porphyrartig wird, sich (durch Verwitterung?) in zelligen Mandelstein verwandelt: ja durch eingewachsene Uralit-Krystalle, die oft einen Kern von Augit haben, minder blättrig in grünen Schiefer übergeht.
+Ein großes Licht hat auf diese Metamorphosen geworfen die glückliche künstliche Hervorbringung einzelner Mineralkörper: der Zinn- und Titan-Oxyde, des Apatits und der Topase von Daubrée; des Rubins von Gaudin, des Korund und Berylls durch den scharfsinnigen Ebelmen; der kleinen Quarzkrystalle und des Korund wie 28 anderer Stoffe, die auf Gängen vorkommen, von H. de Senarmont auf nassem Wege: der früheren trefflichen Arbeiten von Mitscherlich, Berthier, Gustav Rose, Haidinger und Blum nicht zu gedenken.
+Ehe wir zu der speciellen Angabe der Gebirgsarten übergehen nach ihren vier Entstehungs- und Bildungsformen: als endogenen, vulkanischen oder plutonischen, Eruptiv-Gesteins; als Sedimentschichten, als umgewandelten oder metamorphosirten und klastischen Conglomerat-Gesteins; wollen wir noch einige Allgemeinheiten vorausschicken: Ansichten der vergleichenden Geologie, welche der Anblick sehr verschiedenartiger Theile der Erdfläche in dem Beobachter hervorruft.
+Es sind zuvörderst zu unterscheiden in den nicht einfachen Gebirgsarten die bestimmten, immer wiederkehrenden Associationen gewisser Mineral-Species von den Lagerungsverhältnissen (Verhältnissen der Reihung), in denen die zusammengesetzten Gebirgsarten unter einander oder zu einfachen Gebirgsarten auftreten.
+Die Identität der Association in der Gebirgsart ist nicht mit der Identität der Reihung selbst zu verwechseln.
+Die letztere bestimmt einen der Hauptcharaktere von Formations-Typen; ich sage geflissentlich: einen der Hauptcharaktere:
+denn ein eben so wichtiges Kennzeichen ist bei petrographischer Aehnlichkeit einzelner silurischer, devonischer oder späterer Sedimentschichten die Identität eingeschlossener organischer Gebilde.
+Eine solche Identität führt auf den Begriff der Gleichzeitigkeit der Entstehung.
+Wesentliche Verschiedenheit der Fossilien trennt Formationen, welche petrographisch sehr gleich sind.
+Merkwürdig ist es, daß, um fast anderthalb Jahrhunderte von einander getrennt:
+Steno einerseits: und William Smith, Lamarck und Brongniart auf der anderen Seite die Formations-Typen vorzugsweise nach den organischen Einschlüssen; dagegen Lehmann (1756), Füchsel (1762) und Werner (1774) diese Typen scharf, aber unvollständig nach Lagerungsverhältnissen bestimmten.
+In den mittleren Sedimentschichten zwischen der Kohlen-Formation und dem Muschelkalk, von welchem die Jura-Formation bis 1795–1799 noch nicht (Kosmos Bd. IV. S. 632) getrennt wurde, führten beide Eintheilungsgründe (der wiederholt beobachteten regelmäßigen Auflagerung:
+selbst da, wo einzelne Glieder nicht ausgebildet waren; und der organischen Einschlüsse) ohngefähr zu denselben Resultaten: ein Zeichen, daß zu denselben Zeitepochen sehr ähnliche Bedingungen des Drucks, der Temperatur, der localen chemischen Beschaffenheit einer absetzenden Flüssigkeit eine gewisse Uebereinstimmung petrographischer Structur veranlaßten.
+Lehmann unterschied zuerst Flöz- und Ganggebirge: unter dem letzteren unbestimmten Namen plutonische Eruptiv-Gebirge verstehend.
+Füchsel und vorzüglich mein großer, aber doch in seinem Gesichtskreis beschränkter Lehrer (Werner) haben sich das glänzende Verdienst erworben den Begriff einer Formation in die Wissenschaft recht eigentlich eingeführt zu haben.
+Leider! hielt Werner, was er Geologie nannte, für den träumerischen Theil seiner Geognosie.
+Wie in den einzelnen Gebirgsarten, welche Theile des festen Erdkörpers sind, nach der Natur ihrer Bestandtheile oder nach der Association derselben Mineral-Species unter den verschiedensten Breiten- und Längengraden sich vollkommen gleich bleiben (Stücke granathaltigen Glimmerschiefers, körnigen Labradors, Hypersthenfelses oder Phonoliths von der Andeskette sind nicht von denen Mittel-Europa's und Nord-Asiens zu unterscheiden); so bleiben sich auch gleich die Uebergänge in einander und die Lagerungsverhältnisse ganzer Gebirgsschichten: der Aggregat-Zustand identischer, sehr zusammengesetzter Formationen in dem silurischen Systeme, der Trias, der cretacischen und Neocom-Bildung.
+Eine solche Beständigkeit in der Uebereinstimmung (association constante) gewährt z. B. in der Beobachtung allmäliger Uebergänge der Gebirgsarten durch innere Entwickelung auf weiten Reisen oft den überraschendsten Eindruck.
+Fremde Gestalten des Pflanzen- und Thierlebens bedecken einen Boden, der durch seine petrographische Beschaffenheit das Andenken an das Heimische freudig zurückruft.
+Eine solche Allverbreitung und Identität der Zusammensetzung und Gliederung mahnt an eine Entstehungszeit, in welcher der gespaltene und sich erhärtende Planet sich seine Klimate selbst gab: fast unabhängig von der Stellung einzelner Erdzonen gegen die Sonne als Centralkörper.
+In zusammengesetzten Formationen sind die einzelnen Glieder, aus denen sie bestehen, entweder identisch oder parallel, d. i. ersetzend, da wo einzelne wesentliche Schichten unterdrückt oder ausgefallen sind.
+Zu unterscheiden ist bei dem petrographischen Wechsel auf einander gelagerter heterogener Schichten der allmälige Uebergang (man könnte sagen das Präludiren einer großen Veränderung); oder der Wechsel, die Alternanz, periodische Wiederkehr petrographisch absolut getrennter Schichten.
+Das Präludiren großer Veränderung, der Nähe einer verschiedenartigen Schicht besteht nicht immer in innerer Veränderung der Bestandtheile: sondern in Frequenz eingeschalteter Lager, die sich im unveränderten Gestein so oft wiederholen, bis sie das Lagergestein, die ganze aufliegende Gebirgsart selbst bilden.
+Wo Gneiß-Gebirge ohne eingeschlossene Granitlager auf Granit folgt, wird diese Folge oft durch große Frequenz von Gneißlagern im Granit verkündigt.
+Das merkwürdigste Beispiel der periodischen Wiederkehr, des Abwechselns ganz heterogener Schichten hat mich in der mexicanischen Hochebene nordwestlich von Guanaxuato auf dem Wege nach Ovejeras in Erstaunen gesetzt: wo mehrere tausend Schichten schwärzlichen Grünsteins mit, ebenfalls nur 14–16 Zoll mächtigen, weißlichen und sehr quarzreichen Syenit-Lagen abwechseln.
+In dem Syenit setzen Gänge von Grünstein, im Grünstein oft Gänge von Syenit auf.
+In einer verwickelten Reihenfolge von erogenen Formationen ist zur sicheren Bestimmung des relativen Alters und der Independenz einer Formation von großer Wichtigkeit das Auffinden einer Schicht, die weit verbreitet ist und zum geognostischen Horizonte dienen kann.
+Eine solche Schicht, deren Identität am sichersten durch organische Einschlüsse (Leitmuscheln) festzustellen ist, entscheidet vorzugsweise da, wo in versteinerungsleeren Schichten verschiedenen Alters große petrographische Aehnlichkeit herrscht.
+Formations-Typen.
+Wir fahren fort nach denselben Grundsätzen die endogeneruptiven Formationen, und zwar sowohl die plutonischen (Diorit, Syenit, Granit, Porphyr, Hypersthen) als die ächt vulkanischen Gebilde (Basalt, Phonolithe, Mandelsteine und Trachyte: letztere aus Gipfel-Kratern wie in der Ebene aus alten Erdspalten ergossen), aufzuführen.
+Diesen eruptiven Formations-Typen lassen wir zunächst folgen die metamorphosirten Gebilde: nämlich die krystallinisch silurischen und devonischen Schiefer, welche zuerst zu Talk und Glimmerschiefern, und aus letzteren zu Gneiß umgewandelt sind; dann Sediment- und Flöz-Formationen: wie alle, hier nur ganz objectiv betrachtet nach der petrographischen Association ihrer Bestandtheile, nicht nach ihrer Alters- und Entstehungsfolge, weil dieselbe Association besonders bei endogenen Formationen trotz des sehr verschiedenen Alters der Durchbrüche mineralogisch doch identisch ist: während daß der Freund, dem ich so oft und gern folge, Gustav Rose, in dem Eingange seiner geologischen Vorlesungen von 1854 die gesammten endogenen Gebirgsarten in 4 Gruppen theilte: in die Granit-, Grünstein-, Trachyt- und Basalt-Gruppe; erkennbar einschließend Krystalle von Feldspath, Oligoklas, Kali- und Magnesia-Glimmer, Hornblende, Augit, Labrador, Leucit, Nephelin u. s. w.
+Die Metamorphose, welche die krystallinischen Schiefer, besonders die Gneißbildung, hervorbringt, bietet große Schwierigkeiten dar: so wie Eindrücke, welche die leichtflüssigeren Feldspath-Krystalle in dem strengflüssigeren Quarz hinterlassen; und wo Granit neben dem Gneiß hervorbricht, sieht man wohl auch den Granit flasrig werden und scheinbar in Gneiß übergehen.
+Da plutonische Gebirgsarten (Granite, Syenite und Quarzporphyre) von ganz gleichen Bestandtheilen ein sehr verschiednes relatives Alter haben, so veranlaßt das Hervortreten (Ausbrechen) endogener Gebilde eine große Complication in dem Versuch einer Anreihung nach Altersfolge, der der versteinerungsvollen Flözschichten ähnlich.
+Auffallend ist es, daß die älteren und neueren endogenen (plutonischen und nichtvulkanischen) Gebirgsarten dieselben Mineralien als die vulkanischen einschließen.
+Die Granitgruppe z. B. enthält Feldspath, Oligoklas, Glimmer und Hornblende: wie so viele Trachyt-Formationen; die Grünstein-Gruppe Labrador und Augit:
+denn der Hypersthen ist ja doch nur eine Abänderung des Augits.
+Die Oligoklase der älteren Gesteine sind gefärbt und nur an den Kanten durchscheinend: während die neueren ungefärbt, glasig und kalkhaltiger als der Oligoklas des Granits sind: weshalb (setzt Gustav Rose sehr richtig hinzu) nur eine geognostische Eintheilung der Gebirgsarten, nicht eine chemische, wohl begründet ist.
+Albit ist in keiner Gebirgsart als Gemengtheil enthalten; wo man ihn also aufführt, hat man ihn mit Oligoklas verwechselt.
+Granit und eine Abänderung desselben, als Granitit aufgeführt.
+Die meisten Granit-Ablagerungen, sagt Carl Friedrich Naumann in seinem classischen Lehrbuch der Geognosie, sind offenbar von neuerer Entstehung als die silurische und die devonische Formation.
+Einige wenige derselben finden sich in Cornwall und auf der Insel Arran, ja am Harze: wo Murchison den Granit Kalkstein-Fragmente mit organischen Ueberresten hat einschließen sehen.
+Granit hat Rose vom Granitit abgesondert.
+Es besteht der Granit aus Feldspath, gewöhnlich schwarzem oder gelblich-weißem; graulich-weißem Quarze, schwärzlich-braunem Glimmer und weißem Kali-Glimmer; und, dem Feldspath an Größe nachstehenden Oligoklas-Krystallen.
+Im Granitit fehlt der weiße Kali-Glimmer, und der Feldspath ist gewöhnlich von rother Farbe.
+Unwesentliche Gemengtheile des Granits sind Granat, Zirkon, Cordierit, Nephelin, Bucklandit, Titanit, Eisen- und Molybdän-Glanz.
+Hornblende ist, wenn gleich unwesentlich, doch häufiger im Granitit als Granit.
+Der Granitit, leichter in ein vorphyrartiges Gebirge übergehend, bildet die Hauptmasse des Riesen- und Iser-Gebirges von Kupferberg bis Reichenberg.
+Wo er an den Granit grenzt, ist er scharf von ihm geschieden und nie in ihn übergehend.
+Der Granit mit beiden Glimmer-Arten ist im Riesengebirge sehr untergeordnet: nur an der Südwest-Seite des Granitits vom Schwarzbrunner Berge im Osten von Gablonz bis nach Reichenberg; auch im Harz den Brocken bildend, während am Ramberg und Ziegenrücken Granit mit Kali-Glimmer ansteht.
+Am Lago Maggiore in der Lombardei bricht die schöne Abänderung des Granitits mit fleischrothem Feldspath, schneeweißem Oligoklas und schwärzlich grünem Glimmer.
+Der Granitit von Conquet, den ich im Meerbecken von Brest gesehen, ist der schönen Abänderung von Warmbrunn in Schlesien sehr ähnlich.
+Wir haben hier geschildert den eigentlichen Granit.
+Das merkwürdige Granitit-Gestein, welches mauerartig den malerischen Kolywan'schen See umgiebt, ist auch durch seine röthlichweißen, 1–2½ Zoll großen Feldspath-Krystalle, wie durch lauchgrünen und schwarzen Glimmer charakterisirt, mit etwas Hornblende und Titan-Krystallen.
+Es wird nördlich gegen Barnaul hin durch Hornstein-Porphyr, in Süden gegen Schlangenberg zu durch Porphyr-Conglomerat begrenzt.
+Der Granitit ist dort mauerartig in fast horizontalen Bänken von wenigen Zollen bis 3 Fuß Mächtigkeit abgetheilt.
+Diese unverkennliche Abtheilung eines gar nicht gneißartigen Granitits rief mir die Beobachtungen zurück, welche ich fast 30 Jahre früher in Südamerika in den Küstenschichten von Venezuela (Caracas) über geschichteten Granit gemacht.
+Da auch andere merkwürdige physikalische Erscheinungen, wie die heißen Granit-Quellen, damit zusammenhangen, so will ich hier folgendes meinem Tagebuche entlehnen:
+„Um aus den reizenden Valles de Aragua von den Ufern des Sees Tacarigua (Laguna de Nueva Valencia) an die Seeküsten des antillischen Meeres, zu den aguas calientes de las Trincheras zu gelangen: steigt man gegen den Hafen von Portocabello ununterbrochen herab.
+Der senkrechte Niveau-Unterschied, barometrisch gemessen, beträgt aber nur 222 Toisen.
+Der Bach de la Trinchera hat seine Benennung von den Spuren der alten Befestigungen, welche die französischen Flibustiers 1677 aufführten, als sie die Stadt Nueva Valencia plünderten.
+Der Bach ist in der Zeit der größten Trockniß noch 2 Fuß tief und 18 Fuß breit.
+Die Temperatur des Wassers war 90°,3 des hunderttheiligen Thermometers; nach Boussingault aber (Kosmos Bd. I. S. 229 und 239) im Jahr 1823 97°: und hier ist die höhere Temperatur die sichere Bestimmung.
+Nach den Quellen von Urijino in Japan (von 80° Réaumur) ist diese Granit-Quelle de las Trincheras de Portocabello wohl die heißeste.
+Die Wasser sind stark (?) mit geschwefeltem Wasserstoffgas gemischt: und entspringen auf einem Hügel, der sich etwa 150 Fuß über den Boden der Schlucht erhebt.
+Sie laufen gegen Nordwest.
+Man muß vermuthen, daß sie früher mit Kalkstein in Berührung waren:
+denn wo sie verdampfen, hinterlassen sie kalkartige (?) Incrustationen.
+Vielleicht sind sie mit den körnigen Kalkstein-Lagern (?) in Contact gewesen, die den Glimmerschiefern so eigenthümlich sind.
+Wir waren erstaunt über die Anmuth und den Luxus einer Vegetation von Arum, Ficus- und Clusia-Arten, deren Wurzeln von Wasser zu 85° bis 79° Temperatur benetzt wurden, während daß dieselben Species kaum 40 Fuß entfernt in einem feuchten Boden zu kaum 18° Temperatur vegetirten.
+Ganz nahe bei diesen 90° heißen Quellen entspringen andere, ganz kalte.
+Die Eingebornen, welche diese Quellen als Heilmittel benutzen, construiren sich mit rankenden Lianen eine Art Gitterwerk, auf das sie sich nackt einige Fuß über der Oberfläche des Wassers lagern.
+Die Aguas calientes, mehrmals gestauet, bilden nahe an den Küsten bei ihrem Ausfluß ein von Cecropien und der niedrigen Cocos aculeata Jaq. umgebenes, crocodilreiches Bassin.
+Der Granit der Trincheras streicht N 52° Ost, und fällt mit 30° bis 40° gegen Nordwest.
+Er hat zolllange Krystalle von röthlichem Feldspath und schwarzem Glimmer.
+Er ist in parallele Bänke von 2–3 Fuß Dicke getheilt und von großkörnigem Gefüge; am sichtbarsten bei der Venta de Cambury, auch Casa de Islenga genannt.
+In der Nähe stand ein schöner blühender Stamm von Parkinsonia aculeata, wahrscheinlich Rest einer alten indischen Pflanzung (Conuco); denn Plumaria und Parkinsonia haben wir nie in diesem Theile von Südamerika in wildem Zustande gesehn.
+Bald darauf gelangten wir in die Küsten-Vegetation von Avicennia und Rhizophora Mangle.
+Beim Herborisiren fanden wir an einem blüthenreichen Orte den Leichnam eines nur 9 Fuß langen Crocodils.
+Der scheußliche Moschus-Geruch, welchen der Leichnam verbreitete, hinderte uns den Rachen und die Zähne genau zu untersuchen.
+Nahe am Littoral erschien der, in Schichten getheilte, körnige Granitit am Fluß-Ufer noch einmal.“
+Wenn Boussingault's Thermometer-Beobachtung 1823 fast 7° höhere Temperatur gab als die meinige von 1800, so ist die Urfach davon bloß in dem localen, zufälligen Zuströmen von kälterem Wasser zu suchen.
+Eine mexicanische heiße Quelle nördlich von Guanaxuato: bei Chichimequillo, wo säulenförmiger Porphyr auf Syenit aufgesetzt ist, im Basalt-Conglomerat ausbrechend:
+die aguas calientes de Comangillas, habe ich zu 96°,3 gefunden:
+also bis auf 0°,7 Cent. der Angabe von Boussingault für las Trincheras gleich.
+Die lange, fast wundersame Erfahrung, welche man in Europa von der Unveränderlichkeit der Temperatur und der chemischen Zusammensetzung der Thermalquellen hat, und neue sehr befriedigende Erläuterungen, die ich meinem berühmten Freunde über die localen Verhältnisse der aguas calientes de las Trincheras verdanke, machen es mir jetzt sehr wahrscheinlich: daß in 23 Jahren, von 1800 bis 1823, nicht durch Vorgänge im Tiefsten der Erde die Wasser sich um 7° Cent. mehr erhitzt haben; sondern daß die Temperatur von 90°,3 Cent., die ich angab, statt der 97°, welche Boussingault später fand, durch einen Zufluß kälteren Wassers veranlaßt wurde: aus sehr oberflächlichen Nebenklüften, welche in der den Erderschütterungen so oft ausgesetzten Gegend sich öffnen und schließen.
+Die Eingeborenen haben mich selbst darauf aufmerksam gemacht, daß sie sich ihre Bäder durch Zuführung kalter Quellwasser aus der Nähe in Temperatur nach Willkühr vermindern können.
+Auch ersehe ich aus dem neuesten Briefe von Boussingault, daß, da 1823 die Temperatur des ersten Beckens um volle 4°,8 Cent. niedriger war: die des zweiten Beckens doch 2°,9 höher als die Temperatur war, welche ich irrig für die der ganzen Quelle ausgab.
+Als wir uns auf unsrer sibirischen Expedition von Tobolsk und Kainsk nach dem Altai begaben, gelangten wir an den Kolywan'schen See.
+Von diesem, mit horizontalen Granitmauern umgebenen See bis zur chinesischen Dzungarei, ja bis zum Dsaisang-See gegen Südost, in 150 geographischen Meilen Entfernung, erstreckt sich die Granit-Bedeckung mit der Gestaltung eines Eruptiv-Charakters, wie ich dieselbe nur in diesem Theile von Central-Asien gesehen habe.
+Es erheben sich weit über die Platow'sche Steppen-Ebene hinaus in Osten, oft gereiht und also wohl auf Erdspalten ausgebrochen, theils kleine conische Hügel von mehreren hundert Fußen, besonders gegen die Senaja Sopka hin; theils zerstreute, sehr kleine, vielgestaltete Felsmassen, kaum 10–12 Fuß hoch (Rose, Ural-Reise Bd. I. S. 524): in Form von Altären, burgartigen Ruinen und aufgerichteten Geschieben.
+Solche niedrige Felsgruppen, zwischen denen Massengruppen stehen, bilden die Landschaft auf vielen chinesischen Tapeten von sehr geringem Werthe.
+Die Felsen sind oft nicht zweimal höher als die Musik machenden und Thee trinkenden Menschengruppen, die Rinder kleiner als die Felsen.
+Die Maler, welche die Zeichnungen zu solchen Tapeten anfertigten, mögen durch den Anblick ähnlicher Felsgegenden inspirirt worden sein.
+Bisweilen erscheinen die Ebenen wie ein vulkanisches Trümmerland, in dem die Lavaschichten aufgerichtet waren; alles, was wir untersuchen konnten, war anstehender Fels, mit unterem Gestein zusammenhangend.
+Der merkwürdigste Granit-Kegelberg, den ich je gesehen habe und der mir einen tiefen Eindruck gelassen hat (meine Zeichnung ist für Rose's Reise Bd. I. S. 584 gestochen worden), endigt auf zwei Seiten mit zwei flachen, aber senkrecht an den Enden abgeschnittenen Verlängerungen, als wären es Seiten-Ergießungen.
+Dieser Kegelberg: gewöhnlich Mochnataja Sopka, kirgisisch Biritau genannt, etwa 1400 Fuß hoch über der Steppe; liegt in Norden von Buchtarminsk.
+Ich habe ihn erstiegen und im oberen Theil in der Länge ausgedehnt gefunden von SW nach NO.
+Der Biritau ist, wie alle andere Granitkuppen dieser Gegend, in horizontale Bänke abgesondert; eben so die Granitwände des Festungsgrabens in Buchtarminsk: aus denen Gänge in den Thonschiefer auslaufen, welche das Queergestein glimmerreich machen, als Contact-Einwirkung.
+Als wir von dem chinesischen Wachtposten Baty (mantschurisch Chonimailachu) zurückkehrten, schifften wir uns in Buchtarminsk ein auf gekuppelten und darum schwer landenden Booten.
+Auf der Schifffahrt zwischen Buchtarminsk und Ust-Kamenogorsk ist das Flußbette des großen Irtysch-Stroms so tief eingeschnitten, daß in dem deutlichsten Profile am rechten Ufer die Auflagerung der Granitbänke auf dem Thonschiefer sichtbar wird.
+Ich habe zwei meiner Zeichnungen dieser Profile stechen lassen (Rose, Ural und Altai S. 611–613).
+Renovantz und Hermann haben dieselbe geologische Erscheinung vor uns gesehen; der Letztere aber scheint, wahrscheinlich aus Ehrerbietung vor der Uranfänglichkeit des Granits, fast an dem zu zweifeln, was er gesehen.
+Stundenlang ist bei der Flußschifffahrt die Ueberlagerung des in Bänke abgetheilten Granits über den fast senkrecht einschießenden Thonschiefer deutlich sichtbar.
+Mein Reisebegleiter Gustav Rose sagt sehr wahr in seinem Tagebuche:
+„Der Thonschiefer hat unter dem fast horizontalen Granite eine wellige Oberfläche; erhebt sich bisweilen wohl 50 Fuß über den Wasserspiegel des Irtysch, bald senkt er sich bis auf einige Fuß zum Wasser herab: und die ganze Auflagerung würde bei einem etwas höheren Stande des Wasserspiegels gar nicht zu sehen sein.
+Alle diese wichtigen geologischen Erscheinungen sind nur sichtbar in dem rechten Irtysch-Ufer; das linke Ufer, gleich steil und hoch, bestand nur aus Thonschiefer, ohne weder Ueberlagerungen noch Granitgänge im Thonschiefer zu zeigen.
+Wäre der Fluß nicht da, um das Bette einzuschneiden an der Grenze der beiden Gebirgsarten, so wäre hier das ganze Phänomen unbekannt geblieben.“
+Nach der Mitte des Weges von Buchtarminsk nach Ust-Kamenogorsk hören die Granitfelsen und -Kuppen ganz auf sichtbar zu werden.
+Der Thonschiefer: welcher nach Gebler's gründlichen Untersuchungen in Chlorit und Talkschiefer umgewandelt wird zwischen den Flüssen Aigert, Topolowka und Akem; nimmt sowohl in Norden als in Süden der ätnahohen Gipfel von Katunia und Belucha eine Area von 160 geographischen Quadratmeilen, also einen 2½ mal größeren Flächenraum als das ganze Harzgebirge, ein.
+Zu derselben metamorphosirten Formation von krystallischen Schiefern gehören die Schneealpen des Kholsum, von denen man an einem Punkte des schönen Thals der Beresowka 17 schneebedeckte Hörner auf einmal erblickt.
+Auch die große Seltenheit des Gneißes neben dem so häufigen Granit des Kolywaner Sees und in der chinesischen Dzungarei: wo man an dem rechten Ufer des Narym, von einer Unzahl kleiner Granitkegel begleitet, schmale lavaartige Granitmauern in die Ebene hervortreten sieht; ist ein auffallendes geognostisches Phänomen.
+Die Granitmauern setzen allein fort und nehmen an Höhe ab; ja wo wir sie untersuchen konnten in abgerundeten Formen, fanden wir sie in einen feinkörnigen Diorit übergehend: ganz dem Diorit ähnlich, welchen wir am oberen Irtysch zwischen Sewernoi und Teklistowsk wahrgenommen hatten.
+Schon vor Ust-Kamenogorsk hörten alle anstehenden Felsen an den flachen Irtysch-Ufern auf.
+Die geschilderten Verhältnisse und ihre Analogie mit den Harz-Verhältnissen, welche auf den Zusammenhang devonischer Schiefer mit dem Brocken-Granit führen, erinnern fast unwillkührlich an die problematische Natur des Thonschiefers im östlichen Theile des Altai.
+Wenn man berechtigt wäre, auch ohne schon erlangte Kenntniß der eingeschloßnen Organismen, jeden Uebergangs-Thonschiefer, der in Grauwacke, Talk und Chlorit-Schiefer übergeht, silurisch zu nennen; so würde ich nach Analogie des Harzes den Thonschiefer des östlichen Altai's für devonisch halten, mannigfaltig von Granit- und Quarzporphyr-Gängen durchsetzt; und die Einwirkung des Contacts hat hier durch gefärbte Streifung zur Steinschleiferei Anlaß gegeben: welche herrlichen Granit und weiße Marmortafeln verarbeitet, den gestreiften, jaspisartigen Augit-Porphyr von Tscharysch, den grünen Porphyr der Rewennaja Sopka, den Aventurin von Bjelorezkaja, den rothen und variolithischen Porphyr vom Korgon: dem antiken rothen Porphyr und dem Elfdaler Porphyr vergleichbar und die Palläste in Petersburg schmückend.
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+[Der Tod des großen Autors hat den Faden dieses Werkes abgeschnitten. S. die weiteren Worte am Ende der Anmerkungen S. 99. E. B.]
+Anmerkungen.
+(S. 58.) Kosmos Bd. I. S. 275 und 463 Anm. 49.
+(S. 58.)
+Strabo lib. I p. 51 und 54 (Kosmos Bd. II. S. 224).
+(S. 58.)
+Apuleji Opera omnia rec.
+G. F. Hildebrand T. II. (1842) p. 534:
+»eo in tempore, quo me non negabunt in Gaetuliae mediterraneis montibus fuisse, ubi pisces per Deucalionis diluvia reperientur.« (De Magia liber cap. 41.) Vergl.
+Kosmos Bd. II. S. 439 Anm. 53.
+(S. 59.) Kosmos Bd. I. S. 249 und 451, Bd. IV. S. 508.
+(S. 59.) Kosmos Bd. I. S. 231 und 448.
+(S. 59.) A. a. O. S. 258 und 457 (Lyell, Princ.
+of Geology 1833 Vol. III. p. 374, ed. of 1853 p. 178; Manual of elementary Geology 1855 p. 9).
+(S. 59.)
+Aufgeführt in 6 Gruppen Kosmos Bd. IV. S. 467–484 wie S. 614– 641.
+(S. 59.) S. in den in Anm. 6 citirten drei Schriften von Sir Charles Lyell p. 359, 160 und 579.
+(S. 59.) Creuzer, Symbolik und Mythologie der alten Völker 1842 Th. III. S. 725. Pluto, nach dem orphischen religiösen Ideenkreise auch Hades genannt, hatte die Schlüssel der Erde in seiner Gewalt, um als Urheber der Fruchtbarkeit das Jahr mit Früchten zu segnen.
+Er ist Vorsteher alles im Erd-Innern verborgenen Reichthums:
+so daß auch das Getreide, als Gabe des Hades, aus der Unterwelt dem ersten Menschengeschlecht heraufgesendet wurde.
+(S. 61.)
+„So weit meine Nachforschungen reichen“, sagt Böckh, „kann man keinesweges beweisen, daß die Benennung Πλούτων für Hades älter ist als die Annahme des Gottes Πλοῦτος; vielmehr scheint es wirklich umgekehrt.
+Plutos, der Sohn der Demeter und des Jasios, erscheint schon in Hesiods Theogonie v. 969 auf dreimal umackertem Felde im fruchtbaren Creta (also deutlich in Beziehung auf den Ackerbau, der den Reichthum giebt).
+Auch im Homerischen Hymnus auf Demeter (v. 489 ed. Herm.) kommt Plutos als Gottheit vor.“
+(S. 62.) Vergl.
+Venturi, essai sur les ouvrages physico-mathématiques de Léonard de Vinci 1797 § 5 no. 124.
+(S. 62.) Philos. Transact. Vol. Vl. No. 76 (Jahr 1671) pag. 2233.
+(S. 62.)
+Die fälschlich so genannten Naturspiele (Adler-Augen; Brillen-, Nieren-, Knollen- und Zungen-Steine) sind unter dem Namen von Morpholithen-Bildungen ein Gegenstand wissenschaftlicher Untersuchungen meines scharfsichtigen Freundes Ehrenberg gewesen.
+Nach ihm sind diese Bildungen, zu denen auch die Absonderung des Basalts in gegliederte Säulengruppen gehört, amorphe, unorganische, den Krystallen völlig unähnliche: aber eben so wie diese gesetzmäßige Formen mit Bildungs-Achsen und krummen Flächen, und daher mit den organischen sich nähernden Formen.
+Die von Ehrenberg 1839 mit dem Namen Morpholith belegten Bildungen sind oft irrig mit Mollusken und Polythalamien verwechselt worden.
+(Vergl. Ehrenberg in dem Bericht über die Verhandlungen der Akad. der Wiss. zu Berlin aus dem J. 1840 S. 136, wie im Atlas der Mikrogeologie 1854 S. 30 Tab. 40.)
+(S. 62.) Nicol.
+Steno de solido intra solidum contento 1669 pag. 2, 17, 28, 63, 69 fig.
+20–25.
+Der berühmte Däne Niclas Stenson, geboren 1638, war erst Leibarzt des Großherzogs von Toscana, dann Professor der Anatomie in Kopenhagen: und als er zum catholischen Glauben überging, wurde er, nach Florenz zurückkehrend, als apostolischer Vicarius mit dem Titel eines Bischofs von Tityopolis, Erzieher eines Sohnes von Cosmo III.
+(S. 63.) Kosmos Bd. II. S. 391.
+(S. 64.) Humboldt, Examen critique de l'histoire de la Géographie T. I. p. 176.
+(S. 66.) S. oben Kosmos Bd. V. S. 58.
+(S. 66.)
+Justinus lib. II cap.
+1. Wenn ich in der Anm. 96 (Kosmos Bd. I. S. 489) der periodischen Terrassen-Phantasie des großen Linné bei Gelegenheit der Behauptung des Trogus Pompejus gedacht habe, nach welcher die Hochebene von Asien, als zuerst in der Urwelt abgetrocknet, durch generatio primaria auch die ersten lebendigen Organismen erzeugt haben soll; so ist es in Bezug gewesen auf die kleine Abhandlung de tellure habitabili in Linnaei Amoenitates academicae (ed. Schreber 1787) Vol. II. p. 444 no. 45:
+»Sequitur vero jam Modus ostendendus, quo potuerint omnia Vegetabilia, in exiguo terrae tractu, invenire solum sibi conveniens, et Animalia quaeque clima quod desiderant.« no. 46: »Si concipiatur Paradisus situs sub ipso Aequatore, simul quomodo hoc fieri possit hujus rei ratio concipitur, modo ponatur excelsum montem campos ejus laetissimos ornasse.«
+Die pflanzen-geographischen Beobachtungen Tournefort's am Ararat, an dessen Abhange wie bei allen sehr hohen Bergen die Klimate wie die Floren verschiedener Erdzonen über einander gelagert sind (Amoen. acad. Vol. II. p. 445 no. 50), haben Linné auf eine Ansicht geführt, die wohl ein Zusammenleben von Tropen- und lapländischen Formen an einem Punkte, aber nicht die Verbreitung vom Aequator gegen die Pole erklären könnte.
+Der Einfluß der Hochebene auf Pflanzencultur und Kälte des Klima's war übrigens den Alten sehr bekannt.
+„Auch in südlichen Erdstrichen“, sagt Strabo (lib. II pag. 73), „sind die Berge kalt und überhaupt jeder Boden, wenn es auch eine Ebene ist.“
+Ueber den seltenen Ausdruck ὀροπέδια s. meine Asie centr. T. I. p. 58–60.
+(S. 66.)
+Augustinus de Civitate Dei lib. XVI cap. 7 (Kosmos Bd. I. S. 489): »si per generationem spontaneam e terra exortae sunt bestiae«, so war es ja unnütz sie alle in einer Arche zu versammeln.
+(S. 66.)
+Das krystallographische und geognostische kleine Werk des Steno, auf das Élie de Beaumont und ich erst in neuerer Zeit, kaum seit drei Jahrzehenden, die Aufmerksamkeit wieder gerichtet haben, ist nur der trostlos wortkarge lateinische Prodromus zu einem größeren, nie erschienenen Werke, welches nach dem Wunsche des Großherzogs von Toscana, Ferdinands II, Vaters von Cosmus III, italiänisch ausgearbeitet werden sollte (de Solido p. 6).
+Die älteste, unterste, ganz fossilienleere, uranfängliche Schicht wird also geschildert: »de prima terrae facie in eo quo Scriptura et Natura consentiunt, quod aquis omnia tecta fuerint, Natura silet, Scriptura loquitur!
+Quod autem fluidum aqueum fuerit, quo tempore nec dum animalia et plantae reperiebantur, et quod fluidum illud omnia texerit, montium altiorum strata omni heterogeneo corpore destituta evincunt.
+Quod si vero supra primi fluidi strata quibusdam in locis alia strata reperirentur diversis corporibus (animalium et plantarum) referta, aliud inde non sequeretur quam supra strata primi fluidi ab alio luido nova strata deposita fuisse.« (De Solido p. 69.) Ueber die Art des Wachsthums, der Zunahme der Krystalle nach Verschiedenheit der Lage ihrer Axen s. pag. 37–52 und die geometrischen Figuren 7, 13, 14 und 17.
+Ein vollständiger Auszug aus Steno's Prodromus findet sich in dem sehr zu empfehlenden Lehrbuch der Geologie, theilweise nach Élie de Beaumont, von C. Vogt 1847 Bd. II. S. 384–392.
+(S. 67.)
+Die Ausdrücke endogen und exogen (im Erd-Inneren oder an der Erd-Oberfläche als Sedimente erzeugt) sind vom Jahr 1803, in Anwendung von geognostischen Profilen für die Hochebene von Mexico (das eigentliche Anahuac) entstanden; s. Kosmos Bd. I. S.
+457. Wenn gleich dieser Band erst 16 Jahre nach meiner sibirischen Expedition, 1845, erschien, so wurden doch die Vorlesungen über die physische Weltbeschreibung, aus denen das Werk vom Kosmos entstanden ist, in der Berliner Universität schon im November 1827 gehalten; ja schon 1825 wurden, in dem Tableau des formations de l'Amérique méridionale, im 3ten Bande des Voyage aux Régions équinoxales p. 251, Granit, Gneiß und Glimmerschiefer aufgeführt als terrains vulgairement appelés primitifs, mit dem Beisatz: »se vanter d'une stabilité d'opinion en Géologie, c'est se vanter d'une extrême paresse d'esprit, c'est vouloir rester stationnaire au milieu de ceux qui avancent.«
+(S. 67.)
+Einen bestimmten ganz ähnlichen Ausspruch s. in Studer's vortrefflichem Lehrbuch der physikal. Geographie und Geologie 2te Ausg. 1847 Bd. II. S. 137.
+(S. 67.)
+Sir Charles Lyell, Manual of Geology 1855 p. 589–593
+(S. 68.) Kosmos Bd. I. S. 274 und 462 Anm. 45; Naumann, Lehrb. der Geognosie Bd. II. 1854 S. 277; Roth in der Zeitschrift der Deutschen geologischen Gesellschaft Bd. III. 1851 S. 140; Lyell, Manual p. 586.
+(S. 68.)
+Ich erinnere durch diesen physiologischen Ausdruck an die schöne Stelle des Strabo (lib. XVII pag. 810 Casaub.), in der es heißt: „die Vorsehung, der lebendigen Wesen Erzeugerinn, bereitete, da der Mensch kein Wasserthier, sondern ein Land- und Luftthier ist, auch vieles Lichtes bedarf, auf der (abgetrockneten) Erde viele Höhen und Tiefen.“
+(S. 68.)
+Carl Fried.
+Naumann, Lehrbuch der Geognosie Bd. II. S. 8. Leopold von Buch, als er kurz vor mir die Canzacoli bei Predazzo besucht und den Grafen Marzari Pencati, gegen dessen Verdienste er wenig gerecht war, sorgfältig vermieden hatte, schrieb mir am 14ten Nov. 1822 nach Verona: daß „wir die alte Annahme eines festen primitiven Bodens vor aller organischen Schöpfung ganz aufgeben sollten.
+Die Erd-Metalloïde müßten sich ja zu festen Massen verbunden haben, um den alten Meeresgrund zu bilden und die Flüssigkeit aufzunehmen, welche später Fische und Conchylien beleben sollten.
+Durch die Erscheinung (den Ausbruch) des rothen Porphyrs entsteht die ganze Flözformation: zuerst das Rothe Todtliegende, welches zerriebener Porphyr ist; dann das Kohlen-Gebirge und die Kalkbildungen, die ich mir als Muschelbänke im Meere denke.
+Die Erscheinung der Basalte veranlaßte den Quader-Sandstein ..... Demnach können sich die älteren Orthoceratiten und Trilobiten auf einem schon früh gebildeten Gneißboden bewegt haben.
+Wenn bei Predazzo Wärme den dichten Kalkstein in körnigen umgewandelt hat, so gehört diese Wärme wohl dem Augit-Porphyr an, der die Hebung des Granits verursacht hat.
+Man muß unterscheiden die Epoche des Hervorbrechens von der früheren Bildung und früheren Existenz in der Tiefe.“
+(S. 69.) Kosmos Bd. I. S. 299.
+(S. 69.) Ueber die Ausdrücke prozoisch und azoisch s. Naumann, Lehrb. der Geognosie Bd. I. S. 812 und Bd. II. S. 9.
+(S. 69.)
+Oldhamia antiqua und O. radiata, Forbes.
+»The reader«, sagt Sir Roderick Murchison (Siluria 1854 p. 32 und 165), »may look with reverence on this zoophyte of Ireland, for notwithstanding the most assiduous researches it is the only animal relic yet known in this very low stage of unequivocal sedimentary matter.«
+(S. 69.)
+Graptolithen Siluria p. 46, 177 und 185. —
+Sehr alt in den Llandeiloflags unter dem Caradoc-Sandstein sind auch Ampyx (vormals Trinucleus) nudus wie Trinucleus caractaci, Murchison.
+Ueber das älteste Thier- und Pflanzenleben in dem untersten silurischen Grauwacken-Thone bei Petersburg s. Ehrenberg in den Monatsberichten der Berliner Akademie vom Juni 1858 S. 324–337 und das vortreffliche große Werk des russischen Akademikers, Dr. Heinrich Pander: Monographie der fossilen Fische des Silurischen Systems der Russisch-Baltischen Gouvernements 1856.
+Ueber die norwegischen Graptolithen-Schiefer neben Orthoceratit-Kalkstein s. Kjerulf über die Geologie des südlichen Norwegens 1857 S. 92.
+(S. 70.) Kosmos Bd. I. S. 268–273, 450 und 461; Bd. V. S. 69; Naumann, Geognosie Bd. II. S. 8 und 162–168, wie die neueren zwei vortrefflichen Schriften von Theodor Kjerulf: das Christiania-Silurbecken 1855 S. 3–7 und über die Geologie des südlichen Norwegens 1857 S. 6–17.
+(S. 70.) Humboldt, Asie centrale T. I. p. 292–314.
+(S. 71.)
+Bulletin de la Société géologique XII (1811) p. 322.
+(S. 71.) Humboldt, Versuche über die gereizte Muskel- und Nervenfaser Bd. I. S. 135–140.
+Galvanische Versuche bezeugen die Anwesenheit des Kohlenstoffs im lydischen Stein oder Kieselschiefer.
+(S. 71.) Daubrée, recherches sur la production artificielle des minéraux de la famille des silicates et des aluminates par la réaction des vapeurs sur les roches in den Comptes rendus de l'Acad. des Sc. T. XXXIX. 1854 p. 135; derselbe sur la production artificielle de l'apatite, de la topaze et de quelques autres minéraux fluorifères in den Annales des Mines 4ème Série T. XIX. 1851 p. 684; H. de Senarmont, expériences sur la formation des minéraux par la voie humide dans les gîtes métallifères concrétionnés in den Annales de Chimie et de Physique 3ème Série T. XXXII. 1851 p. 14.
+»La géologie minéralogique«, sagt sehr wahr dieser talentvolle Mineraloge, »n'a pas jusqu'ici d'autre guide expérimental que la chimie, mais l'analyse chimique n'éclaire qu'un seul côté de la question.
+On connaît très imparfaitement une espèce minérale par ce qu'on a déterminé sa composition élémentaire, ou même les lois atomiques qui régissent leurs combinaisons; il reste encore à découvrir, dans quelles conditions nécessaires chacune d'elles peut se produire.
+L'analyse est évidemment muette sur ce point, et c'est à la synthèse à compléter son oeuvre inachevée.
+On se rapprochera le plus possible des procédés de la nature, si l'on arrive à reproduire les minéraux dans leurs conditions d'association possible au moyen des agens chimiques naturels les plus répandus et en imitant les phénomènes que nous voyons encore se réaliser dans les foyers où la création minérale paraît avoir concentré les restes d'une activité qu'elle déployait autrefois avec une toute autre énergie, mais qui produit même aujourd'hui des éjections ignées, gazeuses ou liquides.
+L'état cristallin des produits formés artificiellement est quelquefois imparfait et toujours microscopique.
+Ce n'est pas d'ailleurs le volume des cristaux, c'est le fait même de leur création qui résout de pareils problèmes; là est le point essentiel, et pour obtenir d'avantage il ne faudrait suivant l'expression de Daubenton que »le tems, l'espace et le repos«: puissants moyens qui n'appartiennent qu'à la nature.«
+(S. 72.)
+Elie de Beaumont, notice sur les Systèmes des Montagnes T. I. p. 8–10; Humboldt, Essai géognostique sur le Gisement des Roches dans les deux hémisphères 1823 p. VI: »dans cet ouvrage comme dans mes Recherches sur les lignes isothermes, sur la Géographie des Plantes et sur les lois que l'on observe dans la distribution numérique des formes végétales, j'ai taché, tout en exposant le détail des phénomènes sous différentes zones, de généraliser les idées, et d'aborder quelques- unes des grandes questions de la philosophie naturelle.
+J'ai insisté principalement (dans la Géologie comparée) sur les phénomènes d'alternance, d'oscillation et de suppression locale, sur ceux que présentent les passages des formations les unes aux autres par l'effet d'un développement intérieur.
+Ces questions, je pense, ne sont pas de vagues spéculations théoriques; loin d'être infructueuses, elles conduisent à la connaissance des lois de la nature.
+C'est rabaisser les sciences que de faire dépendre uniquement leur progrès de l'accumulation et de l'étude des phénomènes particuliers.«
+(S. 72.)
+Johann Gottlob Lehmann's Versuch einer Geschichte der Flötzgebürge 1756; G. C. Füchsel, zwei Abhandl. in den Actis Acad. elect. Moguntinae (Erf. 1762) Vol. II. p. 44–209 unter dem Titel: historia terrae et maris ex historia Thuringiae per montium descriptionem erecta.
+Später, 1773, erschien Füchsel's Entwurf zur ältesten Erd- und Menschengeschichte.
+Werner, kurze Klassifikation und Beschreibung der verschiedenen Gebirgsarten (Dresden 1787).
+(S. 73.)
+»L'examen minéralogique le plus minutieux ne peut être indifférent au géognoste qui examine l'âge des formations dans les différentes zones de la surface du globe.
+C'est par cet examen qu'on parvient à se former une juste idée de la manière progressive dont par développement intérieur, c'est à dire par un changement très lent dans les proportions de la masse, se fait le passage d'une roche à une roche voisine.
+Les schistes de transition, dont la structure paraît d'abord si différente de la structure des porphyres ou des granites, offrent à l'observateur attentif des exemples frappans de passages insensibles, à des roches grenus, porphyroïdes ou granitoïdes.
+Ces schistes deviennent d'abord verdâtres, plus durs et plus siliceux.
+À mesure que la pâte amorphe reçoit de l'amphibole, elle passe à ces amphibolites trapéennes qu'on confondait jadis souvent avec les basaltes.
+Ailleurs, le mica, d'abord caché dans la pàte amorphe, se développe et se sépare en paillettes distinetes et nettement cristallisées; en même temps le feldspath et le quarz deviennent visibles, la masse paraît grenue à grains très allongés; c'est un vrai gneis de transition. Peu à peu les grains perdent leur direction commune, les cristaux se groupent autour de plusieurs centres; la roche devient un granite ou, si l'amphibole abonde, une syénite.«
+Humboldt, Essai sur le Gisement des Roches 1823 p. VI und 10. Ueber équivalens géognostiques ou roches parallèles s. a. a. O. p. 44 und 365.
+(S. 74.) Kosmos Bd. I. S. 9.
+(S. 74.)
+»Tous les terrains offrent l'exemple de formations indépendantes qui préludent comme couches subordonnées«; Humboldt, Essai sur le Gisement des Roches p. 368; über Alternanz s. p. 21 und 32.
+(S. 75.) Humboldt, Essai politique sur la Nouvelle-Espagne T. III. p. 190.
+Bei Chichimequillo bricht säulenförmiger Porphyr aus dem Syenit aus; auch Basalt, aus dessen Breccien eine der heißesten Thermalquellen (von 96°,3 der hunderttheiligen Eintheilung) hervorsprudelt (vergl. oben S. 80 und Anm. 50).
+(S. 75.)
+Humboldt sur le Gisement des Roches p. 16: »Il n'est pas facile de fixer l'ancienneté relative du muschelkalk et du quadersandstein là où manquent ces roches généralement répandues, servant, selon l'expression heureuse de Mr. de Gruner, mon savant condisciple à l'école de Freiberg, d'horizon géognostique.
+Lorsque des roches ne sont pas en contact immédiat, on ne peut juger de leur parallélisme que par leur rapport d'âge avec d'autres formations qui les unissent.«
+— S. auch Elie de Beaumont, notices sur les Systèmes des Montagnes T. I. p. 10, 185 und 188.
+(S. 76.) Kosmos Bd. IV. S. 469–476.
+(S. 76.)
+Diese Verhältnisse haben meinen vieljährigen Freund, Prof.
+Gustav Bischof zu Bonn, in seinem Lehrbuch der chemischen und physikalischen Geologie (in der 2ten Abtheilung des zweiten Bandes S. 924) zu einem sinnigen, aber sehr lebhaften Ausspruch veranlaßt.
+„Delesse, ein trefflicher Naturforscher“, sagt Bischof, „bemerkt selbst, daß die Bildungsfolge der Mineralien des Syenits nicht die ihrer Schmelzbarkeit sei.
+Im äußerst strengflüssigen Quarz die viel leichter schmelzbaren Feldspath- und Hornblende-Krystalle abgeformt zu finden, und ihn für eine Bildung auf feuerflüssigem Wege auszugeben heißt so viel, als wenn man glauben zu machen versuchte, eine gothische Kirche mit allen ihren Spitzbögen und Ornamenten auf einer Gußeisen-Tafel sei in einer bleiernen Form abgegossen worden.
+Man würde eine solche Zumuthung für eine Invective der gesunden Vernunft halten, und doch muthen ihr die Ultraplutonisten ganz dasselbe zu.
+Diese Absurdität war eines der ersten Motive, das mich zum Abfall von den ultraplutonistischen Phantasien bewog.“ — Ueber diese Aeußerungen hat mein sibirischer Reisegefährte, Gustav Rose, mir seine Ansichten in einem eben empfangenen Briefe mitgetheilt.
+„Indem Sie“, schreibt er, „mich um meine Meinung über jene merkwürdige Stelle befragen: und der Umstand, daß in dem Granit und Syenit der Quarz häufig die Eindrücke des Feldspaths annehme, Bischof ganz besonders bewogen haben soll die Annahme einer feuerflüssigen Bildung des Granits aufzugeben; so habe ich zuerst nur zu bemerken, daß der Vergleich der Schmelzbarkeit des Quarzes und des Feldspaths mit der des Gußeisens und des Bleies eine große Uebertreibung ist.
+Denn wenn der Feldspath auch vor dem Löthrohr schmelzbar und der Quarz unschmelzbar ist; so ist der Feldspath doch nur äußerst schwer, und bloß in dünnen Splittern an den Rändern schmelzbar: und selbst im Feuer des Porzellan-Ofens nicht zu einem klaren, sondern nur zu einem ganz blasigen Glase schmelzbar; und dann ist es wohl nöthig zu untersuchen, ob denn der Quarz in dem Granite stets die Eindrücke des Feldspaths annehme?
+Dies ist aber keinesweges immer der Fall; im Gegentheil sind die Granite mancher Gegenden dadurch ausgezeichnet, daß der Quarz vorzugsweise in dem Feldspath krystallisirt ist: wie z. B. der Granit des Brockens und des ganzen Harzes, der Granit des Prudelberges bei Warmbrunn, der Granitberge bei Liebwerda u. s. w. Es kommt also das eine wie das andre vor; und wenn man die Bruchfläche eines derben Granites untersucht, so sieht man sogar, daß es die Regel ist, daß der Quarz nicht die Eindrücke des Feldspaths annimmt.
+— Wenn man die Annahme der Entstehung des Granits aus einer geschmolzenen Masse verwirft, so weiß ich nicht, was man dafür an die Stelle setzen will; denn ich kenne kein Gemenge so verschiedener Substanzen wie der Granit, von dem es entschieden wäre, daß es auf nassem Wege gebildet sei: dagegen man ähnliche Bildungen auf trocknem Wege sehr gut kennt.
+Die Laven, welche in Strömen in geschichtlicher Zeit geflossen sind, stellen oft ganz ähnliche Gemenge dar wie der Granit; und wenn sie auch aus andren Gemengtheilen bestehn und sich in der Größe des Kerns oft sehr von dem Granite unterscheiden, so sind dies Unterschiede, welche die Form und Natur der Gemengtheile betreffen: die Art des Gemenges ist bei beiden dieselbe.
+Schleift man eine dünne Platte von der Vesuv-Lava von 1631, welche die Ströme von Granatello und della Scala bildet, so erscheint sie unter dem Microscop als ein Gemenge von größeren und kleineren, aber von lauter Krystallen.
+Darunter sind auch einige, die, wie der Leucit, für sich allein ganz unschmelzbar sind; und in den größeren Leuciten der Somma kommen auch: nicht häufig, doch bestimmt, Krystalle von dem viel leichter schmelzbaren Augit eingeschlossen vor, die ganz deutlich krystallisirt sind.
+Dies sind lauter Analogien, welche für die Entstehung des Granits aus einer geschmolzenen Masse sprechen.
+Die Masse des Granits ist im ganzen leichter schmelzbar als der Quarz, und schwerer schmelzbar als der Feldspath und Glimmer.
+Bei der Erstarrung tritt die Sonderung der Gemengtheile ein, vielleicht von einer Seite zur anderen fortschreitend: und da kann auch wohl eben so gut der Quarz die Eindrücke des Feldspaths annehmen wie umgekehrt. —
+So, denke ich mir, lassen sich die Widersprüche erklären, welche man in der Annahme einer feuerflüssigen Bildung des Granits zu finden geglaubt hat.“
+(S. 76.)
+Poggendorff's Annalen Bd. LXVI. S. 109. — Ueber Granite am Harz, die jünger sind als Grauwacke und alle Pyroxen-Gesteine (Diabase, Euphotide und Thonschiefer), s. Hausmann in den Studien des Göttingischen Vereins bergmännischer Freunde Bd. VI. S. 292.
+(S. 77.) Naumann, Lehrbuch der Geognosie Bd. II. S. 188, 273 und 276; Murchison in den Transact. of the Geological Soc. 2d Series Vol. VI. 1842 und in seiner Siluria ed. 1859 p. 415.
+(S. 78.) G. Rose in der Zeitschrift der Deutschen geologischen Gesellschaft Bd. I. 1849 S. 352–374 (Vorträge vom 4 Juli und 1 August).
+(S. 78.) G. Rose, Reise nach dem Ural, dem Altai und kasp.
+Meere Bd. I. S. 524.
+(S. 78.) Humboldt, Voyage aux Régions équinoxiales du Nouveau Continent éd. in 4° (nach der ich immer citire) T. II. p. 98–100.
+(S. 80.)
+Essai politique sur la Nouvelle-Espagne T. III. p. 190.
+(S. 80.)
+„Je vous donne“, schreibt Boussingault, „la copie de mon Journal de Caracas: Excursion à las Aguas calientes del Valle de Onoto, formé par deux chaînes de montagnes perpendiculaires à la Cordillère du littoral.
+Les aguas calientes tombent dans las quebradas des Corasos.
+Dans un ravin sortent les eaux chaudes de la roche du gneiss, ayant 44°,5 Cent. de température, l'air étant de 25° Réaumur.
+Des bulles de gaz azote sortent du fond du bassin. Le 3 février:
+Nous arrivons à l'hacienda de S. Buenaventura, où sont los baños de Mariara; température dans le premier bassin 44° Cent. — 4 février:
+Nous visitons le bassin, où l'eau est la plus chaude; elle se mêle immédiatement à un ruisseau d'eau froide, pour former les aguas tibias, qui ont encore 56° Cent. dans quelques endroits et une odeur légèrement sulfureuse, pendant que l'on observa l'eau la plus chaude, hors le courant d'eau tiède, de 64° Cent. — 4 mars 1823:
+Nous arrivons à las Trincheras.
+Les caux sourdent, de bas en haut, du granite (granite-gneiss).
+En sortant du bassin, elles forment un ruisseau de 2 pieds de large et de quelques pouces de profondeur.
+Plus loin ces eaux, en se mêlant à des eaux froides, forment le rio de las aguas calientes.
+Il y a à las Trincheras deux petits bassins, placés à peu de distance l'un de l'autre. La température de l'eau du bassin le plus élevé était de 198 degrés de Fahrenheit.
+Dans l'eau de l'autre bassin le thermomètre s'est maintenu entre 206 et 207 degrés Fahr.
+Ces eaux ont une très légère odeur d'hydrogène sulfureux: mais, refroidies, elles n'ont aucune odeur, aucune saveur.
+La température de l'air était de 85°,5 Fahr.
+J'ai donc trouvé l'eau du premier bassin de 92°,2 Cent. et l'eau du second bassin de 97°,0 Cent.“
+— Lettre de Mr. Boussingault à Mr. de Humboldt, en date de Paris 3 Mars 1859.
+(S. 83.)
+Hermann in seinen mineralogischen Reisen in Sibirien Th. III. S. 13 und 108; G. Rose, Reise nach dem Ural Bd. I. S. 612.
+(S. 83.)
+Gustav Rose a. a. O. S. 611–613.
+(S. 83.)
+Vergl. meine Asie centrale T. I. p. 289.
+(S. 84.)
+In dem Tagebuch von G. Rose heißt es:
+„Wir setzten auf der Excursion nach dem chinesischen Posten Baty über den Narym, einen in den Irtysch fallenden Fluß, welcher hier die Grenze zwischen dem chinesischen Reiche (der Provinz Ili) und dem russischen Sibirien bildet.
+Weiter aufwärts bildet die obere Buchtarma die Grenze, welche fast in der Verlängerung des Narym liegt.
+Eine hohe nackte Felsenkette, die den Namen der Narym'schen Berge führt, zog sich bisher auf der rechten Seite des oberen (dzungarischen) Irtysch entlang.
+Hinter dem Narym-Strome rückten sie uns aber bei unserem zweiten Pferdewechsel sehr nahe.
+Der Granit ist hier wieder, wie am Kolywan'schen See, in horizontale Lagen abgesondert und hat dieselben wundersamen Formen als dort.
+Das Gestein bildete schmale Mauern in demselben Streichen SW–NO wie an dem domförmigen Biritau.
+Wo diese Granitmauern eine bedeutende Lücke ließen, gleichsam ein Thor, sahen wir im Hintergrunde alles mit kleinen Pies angefüllt; man glaubte einen mächtigen Lavastrom auf sich zufließen zu sehn.“ (G. Rose's Tagebuch der Reise nach dem Ural, dem Altai und kaspischen Meere Bd. I. S. 599.)
+Vergl. meine Asic centrale T. I. p. 300–301:
+„D'autres formes se présentent entre Narym et le poste chinois de Baty.
+Ce sont ou des cloches et des hémisphères aplatis, ou des cônes accumulés au milieu de la plaine du Haut-Irtyche, cônes terminés le plus souvent par des épanchements latéraux en forme de murs très-bas et très-allongés.
+On dirait d'une coulée, effet de la fluidité de la matière sortie d'une crevasse.
+La montagne du Biri-tau ressemble à la pyramide de Cajus Cestius.
+Je l'ai Jessinée du côté du midi. Les coulées en forme de queues qui, des deux côtés, sont adossées à la base du cône, se dirigent hor. 4,3.
+Ici comme dans la steppe près de Sauchkina, on croit voir non des buttes granitiques, mais des cônes de basalte ou de trachyte.“
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —

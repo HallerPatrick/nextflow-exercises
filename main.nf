@@ -1,99 +1,103 @@
-#!/usr/bin/env nextflow
+Channel.fromPath("./gesamt/*.txt").set { text_channel }
 
 
-python_common = Channel.fromPath("./lib/common.py")
-python_common.into { tokenize_common; kmer_common; table_scan_common }
-
-python_script_2 = Channel.fromPath("./lib/exercise2.py")
-python_script_3 = Channel.fromPath("./lib/exercise3.py")
-python_script_4 = Channel.fromPath("./lib/exercise4.py")
-
-
-raeuber_text = Channel.fromPath("./raeuber.txt")
-raeuber_text.into { raeuber_text_tokenize; raeuber_text_kmer }
-
-freqs= Channel.fromPath("./results/freqs.json")
-
-parts_sql = Channel.fromPath("./parts.sql")
-db = Channel.fromPath("./sample.db")
+/* Read content of python module into */
+python_common = file("./lib/common.py")
+python_freqs = file("./lib/freqs.py")
+python_kmers = file("./lib/kmers.py")
+python_merger = file("./lib/merger.py")
 
 
 process tokenize {
-    
-    echo true
-
-    publishDir "./results", mode: 'copy'
 
     input:
-    path 'raeuber.txt' from raeuber_text_tokenize
+    file some_file from text_channel
 
-    path 'common.py' from tokenize_common
-    path 'exercise2.py' from python_script_2
+    /* Pass python content into workspace file common.py */
+    file 'common.py' from Channel.value(python_common.text)
 
     output:
-    file 'freqs.json' into out_file_freqs
+    file 'tokenized_*' into tokenized_files
 
-    '''
+    """
     #!/usr/bin/env python3
 
-    from exercise2 import make_frequency
-
-    make_frequency("raeuber.txt")
-
-    '''
-}
-
-process kmer {
+    from common import tokenize
     
-    echo true
+    
 
-    publishDir "./results", mode: 'copy'
+    tokens = tokenize("$some_file")
 
-    input:
-    path 'common.py' from kmer_common
-    path 'raeuber.txt' from raeuber_text_kmer
-    path 'exercise3.py' from python_script_3
-
-    output:
-    file 'kmers.json' into out_file_kmers
-
-    '''
-    #!/usr/bin/env python3
-
-    from exercise3 import find_kmers
-
-    find_kmers("raeuber.txt")
-
-    '''
-
+    with open("tokenized_$some_file", "w") as f:
+        f.write(" ".join(tokens))
+    
+    """
 
 }
 
+tokenized_files.into { freqs_tokens; kmers_tokens }
 
-process table_scan {
-    
-    echo true
-
-    publishDir "./results", mode: 'copy'
+process frequencies {
 
     input:
-    path 'common.py' from table_scan_common
-    path 'parts.sql' from parts_sql
-    path 'exercise4.py' from python_script_4
-    path 'sample.db' from db
+    file tokenized_file from freqs_tokens
+    file 'freqs.py' from Channel.value(python_freqs.text)
 
-    /* output: */
-    /* file 'kmers.json' into out_file */
+    output:
+    file 'freqs_*' into freqs_files
 
-    '''
+    """
     #!/usr/bin/env python3
 
-    from exercise4 import table_scan
+    from freqs import make_frequency
+    
+    make_frequency("$tokenized_file")
 
-    table_scan("parts.sql")
+    """
+}
 
-    '''
 
+process kmers {
 
+    input:
+    file tokenized_file from kmers_tokens
+    file 'kmers.py' from Channel.value(python_kmers.text)
+
+    output:
+    file 'kmers_*' into kmers_files
+
+    """
+    #!/usr/bin/env python3
+
+    from kmers import find_kmers
+
+    find_kmers("$tokenized_file")
+
+    """
+}
+
+Channel.fromFilePairs("./{kmers_, freqs_}*.json").view()
+
+process merge {
+
+    publishDir "./results", mode: "copy"
+
+    input:
+    file 'merger.py' from Channel.value(python_merger.text)
+    file freqs_file from freqs_files.collect()
+    file kmers_file from kmers_files.collect()
+
+    output:
+    file 'result.json' into result
+    
+
+    """
+     #!/usr/bin/env python3
+    
+    from merger import merger
+
+    merger(".")
+
+    """
 }
 

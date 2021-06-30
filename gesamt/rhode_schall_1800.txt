@@ -1,0 +1,292 @@
+Theorie der Verbreitung des Schalles für Baukünſtler von J. G. Rhode.
+Berlin 1800. bei Heinrich Frölich.
+Theorie der Verbreitung des Schalles.
+Einleitung
+Der Baukünſtler braucht von der Theorie des Schalles überhaupt, nur die Geſetze zu wiſſen, nach welchen ſich derſelbe verbreitet, um die Mittel auffinden zu können, welche in der Anlage und Einrichtung eines Gebäudes in welchem der Schall ſich verbreiten ſoll, zu dieſem Zwecke förderlich ſind, oder die Hinderniſſe zu entdecken welche derſelben im Wege ſtehn.
+Weiſs er dieſes, ſo iſt ihm die Unterſuchung über die Natur des Schalles gleichgültig, ſo wie die ſchwierige Lehre von den Modificationen, welche er von der zufälligen Beſchaffenheit der Luft erhält, überflüſsig.
+Der Architect hält ſich bloſs an jene Geſetze der Verbreitung, und vermag bei einer richtigen Anwendung derſelben auf den Zweck ſeines Gebäudes, auch die ſchwierigſte Aufgabe aufzulöſen.
+Ich weiſs wohl, daſs man gewöhnlich glaubt, jene Geſetze wären noch zu wenig bekannt, und zu unbeſtimmt, um ſie mit Sicherheit anwenden zu können, und unſere neueſten Schauſpielhäuſer Muſikſäle u. ſ. w. beweiſen in der That, daſs ihre Erbauer jene Geſetze entweder gar nicht kannten, oder wenigſtens keine richtige Anwendung davon zu machen wuſsten.
+Die Phyſiker behaupten zwar, daſs ſie jene Geſetze hinlänglich kennen, aber der Baukünſtler bezweifelt es.
+Den Grund dieſes Zweifels nimmt er aus der Erfahrung.
+Er glaubt ſeine Gebäude, z. B. die Schauſpielhäuſer ganz nach jenen, von dem Phyſiker aufgeſtellten Geſetzen, einzurichten, und dennoch entſpricht der gewöhnliche Erfolg ſeinen Erwartungen ſo wenig, daſs oft das Gegentheil von dem eintrift, was er beabſichtigte.
+Da er nun in die Richtigkeit ſeiner Anwendung jener Geſetze keinen Zweifel ſetzt, ſo bezweifelt er die Geſetze ſelbſt und behauptet: der Schall müſse ſich auf eine noch unbekannte Art, und nach noch unentdeckten Geſetzen verbreiten.
+Es iſt der Zweck gegenwärtiger Schrift, das Gegentheil dieſer Behauptung zu beweiſen, und darzuthuen: daſs der ſchlechte Erfolg bei den Abſichten unſrer Baumeiſter nicht in jenen Geſetzen ſelbſt, ſondern allein in einer verkehrten Anwendung derſelben ſeinen Grund habe.
+Erſter Theil.
+Geſetze nach welchen der Schall ſich verbreitet.
+Der Schall verbreitet ſich
+I. in gerader Richtung wie das Licht, und wird
+II. von Widerſtand leiſtenden Körpern unter eben dem Winkel zurückgebrochen in welchem er auffällt.
+Ich könnte hier dieſe beiden Geſetze als angenommen vorausſetzen, da ſowohl alle unſre Phyſiker, als auch die beſten Baukünſtler ſie als erwieſen betrachten.
+Ja ich kann zugeben daſs der Satz: der Schall verbreitet ſich wie das Licht, nur eine Hypotheſe ſei, und doch jene beiden aus ihm. herflieſsenden Geſetze zur Grundlage dieſer Theorie machen, indem ſtreng erweislich iſt, daſs alle auch noch ſo ſonderbar ſcheinende Wahrnehmungen bei der Verbreitung des Schalles, nicht allein befriedigend aus ihnen erklärt werden können, ſondern auch gerade hin darauf leiten.
+Ich will indeſs die Hauptgründe, worauf ſie ruhen, hier kurz anführen.
+Die Erfahrung lehrt, daſs der Schall ſich von dem Orte wo er entſteht nach allen Seiten zu, wie von dem Mittelpunct einer Kugel nach der Oberfläche hin, verbreitet, und daſs dieſe Verbreitung mittelſt einer Erſchütterung der Luft geſchiehet.
+Dieſe Erſchütterung iſt ſehr bemerklich, vorzüglich wenn der Schall heftig iſt, als bei ſtarken Donnerſchlägen wo die Häuſer beben und die Fenſter zerſpringen.
+Bei geringerm Schall, wenn er zum Beiſpiel durch Bewegung harter Körper hervorgebracht wird, iſt dieſe Erſchütterung in den ſchallenden Körpern ſelbſt ſichtbar, z. B. auf dem Reſonanzboden eines Klaviers, wenn man ihn mit farbigem Sande beſtreut, und an der tönenden Saite ſelbſt.
+Daſs dieſe Bewegung nun ſich der Luft mittheilt und dadurch den hervorgebrachten Schall verbreitet, iſt dadurch erweislich, daſs eine tönende Saite z. B. eine andre die mit ihr gleich geſtimmt iſt, durch bloſse Erſchütterung der Luft in Bewegung ſetzen und mittönen machen kann; und was endlich die Sache auſser Zweifel ſetzt, iſt, daſs in einem luftleeren Raume der Schall ſich überall nicht verbreitet.
+Es iſt alſo erwieſen, daſs die Verbreitung des Schalles in einer Bewegung der Luft beſteht, welche ſie durch einen Stoſs des ſchallenden Körpers empfängt.
+Die Frage iſt nun noch, ob dieſe Bewegung ſich in gerader Richtung fortſetzt?
+Daſs die Bewegung nach empfangenem Stoſs in gerader Richtung fortgeſetzt wird, bis ein zweiter nach einer andern Direction wirkender Stoſs ſie verändert, iſt ein allgemeines Geſetz der Bewegung überhaupt, und keine Erfahrung, von der Bombe an bis zu den Schwingungen der Lichttheile, hat einen Zweifel dagegen erregen können.
+Man iſt alſo gezwungen dies Geſetz bei der Fortbewegung des Schalles durch die Luft im voraus anzunehmen; und mit ihm zugleich die Brechung nach dem Einfallswinkel, weil ſie ein nothwendiges Reſultat aus jenem iſt.
+Es frägt ſich nun: ob alle Wahrnehmungen bei der Erſcheinung der Verbreitung des Schalles aus jenen Geſetzen erklärlich ſind oder nicht?
+Ob ſie nicht — wenigſtens gewiſse Modificationen leiden, die uns noch unbekannt ſind, und folglich die Anwendung derſelben noch nicht ſicher iſt?
+Ich geſtehe, daſs mir keine Wahrnehmung bekannt iſt, die dergleichen beweiſen könnte.
+Doch will ich einige ſcheinbare Einwürfe zu heben ſuchen.
+Das Licht, ſagt man, verbreitet ſich in geraden Strahlen, und eine nothwendige Folge davon iſt, daſs man keinen Gegenſtand ſehen kann, von dem nicht ein gerader Lichtſtrahl in unſer Auge fällt; den Schall aber hört man überall. wenn es gleich unmöglich iſt, daſs irgend ein gerader Schallſtrahl von dem ſchallenden Körper in unſer Ohr trift.
+Der Einwurf iſt ſcheinbar, aber überaus leicht zu heben.
+Das Licht am Tage hat offenbar ſeinen Urſprung in den Sonnenſtrahlen, welche ſich von einem Mittelpunkt aus in gerader Richtung nach der Erde bewegen — (wie die Strahlen des Schalles von dem ſchallenden Körper).
+Nun kann man gleichwohl am Tage überall, auch da ſehen, wo es unmöglich iſt, daſs ein Sonnenſtrahl in gerader Richtung hindringen könnte; allein die nach unendlichen Richtungen geſchehene Brechung der Sonnenſtrahlen verbreiten ſich überall: und wenn wir in einem Zimmer nicht alles auf einmal ſehen was darin iſt, ſo liegt die Schuld nicht, an dem allenthalben verbreiteten Lichte, ſondern an dem Bau unſres Auges, welches einem kleinen Tubus gleicht, und nur diejenigen Strahlen aufnimmt, welche in einer geraden Richtung einfallen.
+Ständen unſere Augen nicht an einer Seite des Kopfes ſondern gegen einanderüber, und wäre die äuſsere Haut des Auges (die Hornhaut) überall fähig die auffallenden Strahlen nach dem Mitelpunkte hin zu brechen; ſo würden wir um uns her alles eben ſo ſehen, wie wir hören.
+Unſere Ohren ſtehen an zwei ſich entgegengeſetzten Seiten des Kopfes, und ſind ſo gebaut, daſs ſie jeden einfallenden Schallſtrahl nach dem Empfindungspunkte des Gehörs hinbrechen.
+Wir müſsen alſo von allen Seiten her hören, weil von den nach unendlichen Richtungen zerbrochnen Schallſtrahlen nothwendig immer einige unſere Ohren treffen müſsen.
+In freiem Felde, wo kein merklich hervorragender Gegenſtand befindlich iſt, an welchem der Schall gebrochen werden könnte, ſind die nach allen Richtungen erfolgten Reflectionen von der Erde ſelbſt dazu hinreichend; woraus zugleich erklärlich iſt, warum man im Freien einen fernen Schall deutlicher hört, wenn man das Ohr nahe gegen die Erde richtet.
+Der Unterſchied zwiſchen Hören und Sehen gründet ſich alſo nicht auf verſchiedene Geſetze in der Verbreitung des Lichtes und des Schalles, ſondern auf die Verſchiedenheit der Einrichtung unſerer Sinnenwerkzeuge, wodurch wir beide empfinden.
+Man ſagt ferner das Licht durchdringt nur ſehr wenige Körper, (die Glasartigen) der Schall auſserdem noch ſehr viele, als Metall, Holz, Steine u. ſ. w. und ſollte dies nicht eine Verſchiedenheit in den Verbreitungsgeſetzen beiden andeuten? Keineswegs; ſondern nur eine Verſchiedenheit des Mediums durch welches die Verbreitung eines jeden geſchieht.
+Das Licht ſcheint eine eigne Materie vorauszuſetzen, der Schall bloſs die Luft.
+Das Weſentliche in der Verbreitung beider iſt Bewegung, und auf dieſe allein gründen ſich die oben angegebenen Geſetze.
+Die Unterſuchung über die Aehnlichkeit und Verſchiedenheit der Materie des Lichts und der Luft, und der daraus entſpringenden Verſchiedenheit der Fortpflanzung beider, liegt auſser dem Zwecke dieſer Schrift, indem durch ſie in jenen Geſetzen ſelbſt nichts weſentlich geändert wird.
+Ich will hier nur noch einige Erfahrungsſätze folgen laſſen, welche die Anwendung jener Geſetze dem Baukünſtler ſehr erleichtern.
+Erſter Erfahrungsſatz.
+Jeder Schall durchdringt‚ nach Verhältniſs der Stärke welche ihn hervorbringt, einen beſtimmten Raum, wird dann immer ſchwächer, und endlich unvernehmbar.
+Nach genauen Beobachtungen hat man bemerkt, daſs eine deutlich geſprochene Rede im Freien, wo der Verbreitung nichts im Wege ſteht auf 70 Fuſs verſtändlich bleibt.
+Dies iſt für den Baukünſtler eine wichtige Beobachtung, indem er bis zu dieſer Weite auf die natürliche Verbreitung des Schalles rechnen kann.
+Zweiter Erfahrungsſatz.
+Wenn der Schall in dem Raume wo er noch vernehmlich iſt, auf eine ihm gerade entgegengeſetzte Fläche trift, ſo wird er zurückgebrochen und es entſteht ein Wiederhall, oder Echo.
+Man hat durch genaue Beobachtungen herausgebracht, daſs der Wiederhall nicht eher als in einer Entfernung über 60 Fuſs bemerkbar wird; indem die Rückwirkung in einer kleinern Entfernung ſo ſchnell erfolgt, daſs ſie von dem erſten Schalle nicht zu unterſcheiden iſt.
+Auch dieſe Beobachtung iſt, wie wir in der Folge ſehen werden, für den Baukünſtler von der äuſserſten Wichtigkeit.
+Dritter Erfahrungsſatz.
+Wenn der Schall in dem Raume wo er noch vernehmlich iſt, auf eine ſchiefe Fläche trift, ſo wird der unter den Einfallswinkel von dem ſchallenden Körper weggebrochen, und da er von dem brechenden Körper einen neuen Stoſs erhält, durch einen gröſsern Raum verbreitet, als den er ohne die Brechung hätte durchdringen können.
+Beweiſe zu dieſem Satze liefert die Kommunicationsröhre und das Sprachrohr.
+Vierter Erfahrungsſatz.
+Wenn der Schall ſich zwiſchen zwei Parallellinien fortbewegt, ſo wird er durch einen ſehr groſsen Raum, in derſelben Stärke verbreitet, die er anfangs hatte.
+Den Beweis liefert die Communikationsröhre.
+Wenn man auch noch ſo leiſe zu dem einen Ende hineinſpricht, ſo verſteht man am andern alles ſo genau, als ob man das Ohr an den Mund des Sprechenden legte.
+Fünfter Erfahrungsſatz.
+Wenn der Schall ſich zwiſchen zwei Linien fort bewegt, die an dem Orte wo er entſteht unter einem ſpitzigen Winkel zuſammen laufen; ſo wird er nicht allein durch einen gröſsern Raum verbreitet ſondern auch verſtärkt.
+Den Beweis liefert das, jedermann bekannte Sprachrohr; welches umgekehrt als Höhrrohr, dieſelbe Wirkung hervorbringt, wenn das Ohr ſich nehmlich in dem Punkte befindet, wo die beiden Seiten ſich durchſchneiden würden, welche dem Scheine nach ſich widerſprechende Wahrnehmungen, ſich jedoch aus dem Brechungsgeſetze befriedigend erklären laſſen.
+Sechſter Erfahrungsſatz.
+Wenn ein ſchallender Körper ſich in der Nähe eines andern Körpers befindet, welcher, wenn er in Bewegung geſetzt iſt, einen gleichen Schall hervorbringt; ſo iſt die bloſse Erſchütterung der Luft hinreichend, ihn in Bewegung zu ſetzen und mitſchallend zu machen.
+Den Beweis liefern zwei gleichgeſtimmte Saiten in einer Entfernung von einander, weil, wenn eine angeſchlagen wird, die andre von ſelbſt mittönt.
+Die Erfahrung iſt für den Baukünſtler ſehr wichtig, weil die Alten die Erfindung ihrer Schallgefäſse darauf gründeten, und in unſern Schauſpielhäuſern zum Theil mit der Nachhall, welcher oft Rede und Muſik undeutlich macht, aus ähnlichen Urſachen entſpringt.
+Ob die Alten die wahre Theorie des Schalles gekannt haben, iſt zweifelhaft.
+Man kann wohl als gewiſs annehmen, daſs Vitruv alles gekannt habe, was ſie über dieſen Gegenſtand wuſsten.
+Vitruv aber nimmt an: der Schall verbreite ſich auf eben die Weiſe, wie die Kreiſe auf einer ruhigen Waſſerfläche, wenn man etwas hineingeworfen hat; nur daſs dieſe Verbreitung nach allen Seiten, wie gegen die Oberfläche einer Kugel zu, erfolge.
+Steht, fährt Vitruv fort, einem Kreiſe auf der Waſſerfläche etwas entgegen, ſo entſteht durch den Anſchlag ein neuer Kreis, der dem erſten entgegenſtrebt und beide gerathen in Unordnung; ſo iſt es auch mit dem Schalle.“
+Er kannte alſo offenbar die Verbreitung des Schalles, durch eine Erſchütterung der Luft nach gerader Richtung, ſo wie die Rückwirkung derſelben, den Wiederhall; ſo wohl nach ſeinen nachtheiligen Folgen, wie das eben angeführte Beiſpiel beweiſt, als nach ſeinen Vortheilen, wie aus der Vorſchrift erhellt, welche er an einem andern Orte giebt, in zu hohen Gebäuden einen Kranz umher zu bauen, damit der Schall ſich nicht zu ſehr nach oben hin verliere.
+Dagegen ſcheint es ziemlich gewiſs zu ſeyn daſs er die Brechung des Schalles nach dem Auffallswinkel nicht gekannt habe, weil er ſonſt unfehlbar die groſsen Vortheile berührt haben würde, welche der Baukünſtler aus dieſer Lehre ziehen kann.
+Auch beweiſt die Form der Theater der Alten, wie ich in der Folge zeigen werde, daſs ſie auf die Brechung des Schalles nichts rechneten, ſondern bloſs auf die natürliche Verbreitung deſſelben ſahen.
+In ihren Baſiliken fand allerdings eine vortheilhafte Brechung ſtatt; dieſe Gebäude haben ihre Form offenbar der Bequemlichkeit in Rückſicht ihres Zweckes zu danken‚ und das Vortheilhafte dieſer Form für die Verbreitung des Schalles ſcheint bloſs zufällig zu ſeyn, indem Vitruv dieſes Vortheils gar nicht erwähnt.
+Ich gehe jetzt zur Anwendung jener Geſetze über, und beſchränke mich, um nicht zu weitläuftig zu werden, allein auf den Schauſpielhausbau ein, theils weil man es von Schauſpielhäuſern vorzüglich verlangt, daſs ſie zur Verbreitung des Schalles zweckmäſsig eingerichtet ſein ſollen, theils weil der Baukünſtler die Anwendung der Geſetze, wenn ſie einmahl gezeigt iſt, überall leicht finden wird.
+Zweiter Theil.
+Anwendung dieſer Geſetze auf den Schauſpielhausbau.
+Die Aufgabe beim Bau eines Schauſpielhauſes iſt: es ſo einzurichten, daſs
+I) die Stimme der Schauſpieler auf den Sitzen der Zuſchauer überall deutlich gehört werden könne.
+II) daſs man von allen Sitzen die Bühne ganz überſehen könne.
+III) daſs die Sitze bequem, d. i. ſo angelegt werden, daſs die Zuſchauer beim Herein- und Hinausgehen ſich nicht hindern, und kein Gedränge entſteht, und
+IV) daſs bei dem allen die architectoniſche Schönheit beobachtet wird, und dem Auge eine gefällige Form darbietet.
+Eigentlich habe ich es hier bloſs mit dem erſten Punkte dieſer Forderungen zu thun, und werde auf die andern nur ſo viel Rückſicht nehmen, als nöthig iſt zu zeigen daſs die Beobachtung der Geſetze des Schalles beim Bau ihnen nicht nur nicht ſchädlich, ſondern ſehr vortheilhaft iſt.
+In Rückſicht dieſer Geſetze ſind die Schauſpielhäuser eingerichtet
+1. auf natürliche Verbreitung des Schalles, und 2. auf künſtliche Verbreitung deſſelben.
+Die künſtliche Verbreitung ſucht man hervorzubringen.
+A) durch Verſtärkung und
+B) durch Brechung des Schalles.
+Die Brechung des Schalles geſchieht wieder.
+a) nach der Bühne zurück, oder
+b) von der Bühne weg.
+Ob nun ein Schauſpielhaus zu dieſer oder jener Abtheilung gehört, hängt von ſeiner innern Form und Einrichtung ab.
+Ich werde daher die Form und Einrichtung der verſchiedenen Klasſen, nach dem hier angegebenen Charakter beſtimmen, und die Tauglichkeit derſelben, der Aufgabe gemäſs, nach dem Zwecke der Schauſpielhäuſer überhaupt unterſuchen.
+Erſter Abſchnitt.
+Von Schauſpielhäuſern, welche bloſs auf natürliche Verbreitung des Schalles berechnet ſind.
+Der Werth dieſer Maxime beim Schauſpielhausbau iſt einleuchtend, weil ſie die ſicherſte von allen, und keinem Miſslingen unterworfen iſt.
+Sie iſt indeſs auf Gebäude nicht anwendbar, welche eine groſse Anzahl Zuhörer faſsen ſollen, da der Schall ohne Verſtärkungsmittel ſich nicht ſehr weit fortpflanzt, mithin der Raum, welchen eine gewöhnliche Stimme durchdringt‚ nicht ſehr groſs iſt.
+Da indeſs‚ nach Saunders ſorgfältigen Beobachtungen, eine gewöhnliche Stimme geradehin noch auf 70 Fuſs verſtändlich bleibt, ſo könnte man Theater für zweitauſend Zuſchauer noch füglich nach dieſer Maxime einrichten.
+Die einzig paſſende Form für dieſe Einrichtung iſt der Halbkreis.
+Wenn ein Theater ſo klein iſt, daſs der Zuſchauer überall unter 60 Fuſs von dem Sprechenden entfernt iſt, ſo iſt die innere Form im Grunde für den Schall gleichgültig, weil er den Raum ſo ſchnell durchdringt, daſs man das falſche Brechen und den nachtheiligen Wiederhall nicht gewahr wird.
+Iſt der Raum aber über 60 Fuſs, ſo wird die Rückbrechung ſchon ſo bemerklich, daſs ſie fähig iſt einen Wiederhall zu bilden, oder wenigſtens durch Verlängerung der Töne das Nachhallen — die Rede undeutlich zu machen.
+Der Umſtand, daſs man auch in Theatern, welche viel kleiner ſind‚ bald beſſer oder ſchlechter hört, rührt von den Hinderniſſen her, welche man der natürlichen Verbreitung des Schalles minder in den Weg ſetzt. z. B. durch den Bau der Seitenlogen, oder ein zu niedriges Parterre u. ſ. w.
+Alle Regeln welche Vitruv für den Bau der Theater giebt, beziehen ſich bloſs auf die Vermeidung dieſer Hinderniſſe; wie denn die Theater der Alten bloſs auf natürliche Verbreitung des Schalles berechnet waren.
+Dies mögte bei der ungeheuern Gröſse ihrer Schauplätze auffallend ſcheinen, allein es iſt ſo wohl aus der bekannten Einrichtung derſelben, als aus dem was Vitruv darüber ſagt, durchaus erweislich.
+Die Verſtärkungsmittel, welche ſie durch ihre Schallgefäſse aufſtellten, gehören unter die Ausnahmen:
+man weiſs in wie wenig Theatern ſie zu finden waren, und ich werde in der Folge mehr darüber ſagen.
+Daſs man bei der Gröſse der alten Schauplätze doch überall auf den Sitzen der Zuſchauer hören konnte, wird weniger auffallen, wenn man bedenkt: daſs die Alten den eigendlichen Converſationston auf ihren Bühnen gar nicht kannten, daſs zu ihrer künſtlichen, faſt an Geſang grenzenden Deklamation eine gröſsere Anſtrengung der Stimme erfordert wurde, und die Schauspieler nur auf einer kleinen etwas erhöhten Stelle der Bühne ihre Rollen recitirten, folglich ſich nicht weit vom Mittelpunkt des Zirkels entfernen konnten.
+Ueberdem ſprach in groſsen Theatern der darſtellende Schauſpieler nicht einmal ſelbſt, ſondern ein andrer, der ſich in dem eigentlichen Schallpunkte befand, alle ſeine Aufmerkſamkeit auf die Stimme und Deutlichkeit der Ausſprache wandte, und den Mund gerade gegen den vollen Halbkreis gewandt hatte.
+Und bei dem allen iſt es ſo ausgemacht noch nicht einmal, daſs man überall in ihren Theatern, und vorzüglich auf den obern Sitzen deutlich gehört habe; viel mehr ſcheinen die künſtlichen Mittel welche ſie anwandten den Schall zu verſtärken — ihre Schallgefäſse — das Gegentheil anzudeuten. —
+In dem Maſs nun, da unſere darſtellende Kunſt in dem genannten Umſtänden von der Kunſt der Alten abweicht, da wir von dem Schauſpieler Converſationston, und keine erzwungene Anſtrengung fordern; da er überall auf der Bühne ſprechen darf wo es die Situation erfordert — muſs ſich auch der Raum der Theater verkleinern, in welchen die Stimmen hörbar ſind, und man hat Unrecht, wenn man dem Bau der Häuſer zuſchreibt, was in der Art der Kunſtübung ſelbſt liegt.
+Man könnte einwenden: daſs es unmöglich ſei, in einem Theater auf die Rückwirkung, und dadurch erfolgte Verſtärkung des Schalles nicht zu rechnen, indem dieſe nothwendig von ſelbſt erfolgt. — Dieſem ſcheinbaren Einwurf hab' ich folgendes entgegen zu ſetzen:
+Der Wiederhall könnte nur in einem Falle den Ton verſtärken, wenn nehmlich der wiederhallende Körper ſo nahe iſt, daſs der Wiederhall in Rückſicht der Zeit ſo ſchnell auf den erſten Ton folgt, daſs er durch das Gehör nicht davon zu unterſcheiden iſt.
+Iſt dies nicht der Fall, iſt die Zeit der Rückwirkung bemerklich, ſollte es auch nur in der Verlängerung des Tons beſtehen, ſo iſt ſie nachtheilig, weil ſie den Schall, ſtatt ihn zu verſtärken, verwirrt, einen Ton in den andern überzieht, und die Rede undeutlich macht.
+Es iſt hier indeſs vorzüglich zu unterſuchen: ob in einem Kreisförmigen Theater, in welchem die Sitze ſtufenweiſe über einander angelegt ſind, überhaupt eine Rückwirkung des Schalles bemerklich ſein könne? welches ich geradezu leugne.
+Der Schall findet in demſelben nirgens in einem Zeitmoment eine Widerſtandsmaſſe, von der eine ſo ſtarke Rückwirkung möglich wäre, daſs ſie dem Gehör bemerklich würde.
+Er ſchlägt früher an die erſte Sitzreihe, als an die zweite, und die Rückwirkung der erſtern iſt verloren, ehe die der zweiten Reihe entſteht, und ſo bis oben hin.
+Die Alten konnten dieſem zufolge; da ihre Theater alle dieſe Einrichtung hatten, auf die Rückwirkung des Schalles nichts rechnen.
+Wenn ich nun für Schauſpielhäuſer dieſer Art den Halbkreis als die beſte Form empfehle, ſo geſchieht es bloſs unter der Bedingung daſs die Sizze der Zuhörer amphitheatraliſch: d. i. Stufenweiſe über einander angelegt werden.
+Geſchieht dies nicht ſo hat der Halbkreis auch nichts Unterſcheidendes, von jeder andern runden oder eckigen Form.
+Denn bei der gewöhnlichen Einrichtung der Logen, findet der Schall überall Maſſen, welche eine ſehr bemerkbare Rückwirkung hervorbringen können.
+Nun geſchieht dieſe entweder ſo ſchnell, daſs ſie von dem erſten Tone nicht zu unterſcheiden iſt; dann hat der Zirkel keinen Vorzug; oder ſie iſt zu unterſcheiden, ſo verwirrt der Zirkel die Töne ſo gut wie jede andre Form.
+Der Umſtand, daſs im Zirkel alle Strahlen welche aus dem Mittelpunkt auf die Peripherie fallen, nach dem Mittelpunkt zurück gebrochen werden, verdient hier gar keiner Erwähnung, indem die Töne — bei der Rede der Schauſpieler nicht aus dem Mittelpunkt kommen können, und wenn dies auch der Fall wäre der entſtehende Wiederhall, ſo bald er bemerklich würde, die Tönne nur verwirrt.
+Es entſteht indeſs bei der Kreisform in Rückſicht der Bequemlichkeit und Zweckmäſsigkeit der Einrichtung eine Schwierigkeit, welche eigendlich die Urſach zu ſeyn ſcheint, warum die neuern Baumeiſter dieſe Form, welche von den Alten überall gebraucht wurde mit der ovalen Form vertauſcht haben.
+Soll das Theater eine auch nur etwas groſse Anzahl Zuhörer faſsen, ſo wird der Durchmeſſer des Zirkels ſo groſs, daſs die, dieſem Durchmeſſer entſprechende Scene, für unſere Decorationsart der Bühne, und die ganze Oeconomie unſrer Schauſpiele, zweckwidrig wird.
+Es ſcheint, daſs man die Oefnung der Bühne, ohne der Beleuchtung zu ſchaden, und eine Menge Unbequemlichkeiten hervorzubringen, nicht wohl über 50 Fuſs groſs machen dürfe.
+Wie klein iſt aber der Halbkreis der ſich vor dieſer Linie beſchreiben läſst, und wie wenig Zuſchauer könnte er faſſen!
+Um mehr Raum zu gewinnen, zog man nun den Zirkel in die Länge und ſo entſtand die jetzt allgemein übliche ovale Form.
+Hätte man indeſs die Geſetze des Schalles, oder auch nur die Monumente der Alten genauer ſtudirt, ſo würde dieſe Schwierigkeit ſich auf eine weit zweckmäſsigere Weiſe haben heben laſsen.
+Die Alten, vorzüglich die Römer, fanden zu vielen ihrer Spiele die weiten Oeffnungen der Scene eher vortheilhaft als nachtheilig, und wo ſie auch die Scene zuſammenzogen, kümmerten ſie ſich nicht um den Umſtand, daſs von einer Menge Sitzen an beiden Seiten der Bühne weder geſehn noch gehört werden konnte.
+In Athen findet ſich indeſs die Ruine eines nicht gar groſsen griechiſchen Theaters, in welchem dieſe Schwierigkeit ungemein glücklich gehoben iſt.
+Man hat nehmlich das eigentliche Theater, die Sitze der Zuſchauer nach einem weit gröſsern Zirkel angelegt, als die Oefnung der Bühne giebt, denſelben indeſs nach der Richtung der Seitenwände der Bühne, an beiden Seiten abgeſchnitten.
+(Siehe Fig. 1.)
+Da durch dieſe zweckmäſsige Form an beiden Seiten der Scene gerade leere Wände entſtehen, und dieſe, wie ich in der Folge zeigen werde, die vorzüglichſten Mittel zur Verſtärkung des Schal les überhaupt ſind, ſo kann in dieſer Form der Raum ungemein vergröſsert werden, ohne daſs man fürchten dürfe dem Schall nachtheilig zu werden.
+Es wäre mithin dieſe Form für alle Schauſpielhäuſer, welche nach dieſer Maxime aufgeführt werden, die beſte von allen; da auſserdem auch die Bequemlichkeit der Sitze und die architectoniſche Schönheit des Ganzen ſehr zu empfehlen iſt.
+Zweiter Abſchnitt.
+Von Schauſpielhäuſern welche auf künſtliche Verbreitung des Schalles berechnet ſind.
+Unter künſtlicher Verbreitung des Schalles verſteht man, wenn der Schall durch künſtliche Hülfsmittel da noch hörbar und verſtändlich gemacht wird, wo er nach ſeiner natürlichen Verbreitung nicht mehr hörbar oder verſtändlich ſeyn würde.
+Die Hülfsmittel, welche man dazu anwendet ſind 1)
+Verſtärkung des Schalles, und 2)
+Brechung des Schalles.
+Ich will hier der Deutlichkeit wegen den Unterſchied zwiſchen beiden, ob er gleich aus der Theorie ſchon verſtändlich iſt, genau auseinander ſetzen.
+Der Schall wird durch Schwingungen des ſchallenden Körpers hervorgebracht.
+Dieſe Schwingungen theilen der Luft eine Erſchütterung mit, welche den Schall verbreitet.
+Treffen dieſe Erſchütterungen auf elaſtiſche Körper, welche in Bewegung geſetzt, eben ſolche Schwingungen hervorbringen, als der Körper welcher der Luft die Erſchütterung mittheilte, ſo gerathen ſie bloſs durch dieſe Erſchütterung der Luft in Bewegung, und bringen einen ähnlichen, obgleich ſchwächern Ton hervor, wodurch der erſte verſtärkt und weiter verbreitet wird.
+Treffen die Erſchütterungen der Luft indeſs auf andre elaſtiſche Körper, welche in ihren Schwingungen von jenem der den Schall hervorbrachte verſchieden ſind, ſo prallt die Erſchütterung, ohne einen Ton hervor zu bringen, zurück, wird gebrochen.
+Die Alten ſuchten in ihren Theatern den Schall durch die erſt genannte Eigenſchaft ſchallender Körper, durch ihre Schallgefäſse, zu verſtärken, welches bei der amphitheatraliſchen Einrichtung ihrer Schauplätze das einzige Mittel war, in dem wie wir geſehen haben, auf Brechung des Schalls in denſelben eigendlich nichts zu rechnen iſt.
+Sie machten Gefäſse von dünnen Kupfer, welche einen reinen Klang gaben und ſo eingerichtet wurden, daſs ſie zu der Tonleiter, in welcher der Schauſpieler ſprach, gerade paſsten, und jeder Ton den er ſprach wenigſtens eins oder zwei Gefäſse fand, welche die Erſchütterung der Luft auffingen, und ihn durch Hervorbringung eines ähnlichen Tons verſtärkten.
+Man hat ſich über die Art wie dieſe Schallgefäſse zur Verſtärkung des Tons mitwirkten, häufig geſtritten, und den Nutzen derſelben bald behauptet, bald verworfen.
+Man ſagt gewöhnlich, daſs die Alten, wenn ihr Nutzen ſo entſchieden geweſen wäre, als Vitruv ihn angiebt, ſie unſtreitig häufiger gebraucht haben würden — allein dieſer Einwurf ſagt nichts.
+Einmahl entſcheidet ein ſolcher, aus dem Gebrauch hergenommener Grund in wisſenſchaftlichen Dingen gar nichts, und zweitens haben wir geſehen, daſs die Alten ihre Schauplätze eigendlich auf natürliche Fortpflanzung des Schalles berechneten, und folglich dergleichen künſtliche Mittel nicht immer bedurften.
+Die übrigen Einwürfe entſpringen faſt. ſämmtlich aus einem unrichtigen Erklärungsgrunde, indem man ihren Nutzen aus der Brechung des Schalles herleiten, oder beſtreiten will, und ſelbſt Vitruv ſcheint in dieſem Irrthum zu ſtehen, indem er zum Beweiſe ihrer Nutzbarkeit das Beiſpiel einer Wand anführt, welche den Ton durch Wiederhall verſtärkt.
+Bei unſrer jetzigen Einrichtung der Schauſpielhäuſer und der Gewohnheit der Seitenlogen würden dieſe Gefäſse offenbar mehr ſchaden als nutzen, und das wirklich hervorbringen, was Bartelemy vielleicht mit Unrecht von ihnen in den griechiſchen Theatern befürchtet, ein Nachſummen welches der Deutlichkeit der Töne ſchadet.
+Ich komme jetzt auf
+die Brechung des Schalles
+als eines künſtlichen Mittels zur Verbreitung deſſelben.
+Ich habe ſchon geſagt, daſs der Schall entweder nach der Bühne zurück, oder von ihr weg gebrochen wird.
+Ich werde alſo zuerſt von den Schauſpielhäuſern handeln, in welchen der Schall gegen die Buhne zurück gebrochen wird.
+Es iſt dabei in der That eine der ſonderbarſten Erſcheinungen, in dem Gebiete der Wiſſenſchaften überhaupt, daſs alle Erbauer von Theatern und alle mir bekannte Schriftſteller, welche dieſen Gegenſtand abhandeln, (Saunders ausgenommen, welcher nur von der natürlichen Fortpflanzung des Schalles in ſeinem Plane ausgeht, aber nichts durch ſeinen Grundſatz gewinnt, weil er in der Form von der gewöhnlichen nicht abgeht.) glauben: der Ton in einem Schauſpielhauſe müſse dadurch verſtärkt werden, daſs die Rückwirkung deſſelben, die Brechung, gegen die Bühne hin geſchehe; wie dieſs in allen runden, eliptiſchen und paraboliſchen Formen der Fall iſt; da doch klar zu beweiſen ſteht;
+„Daſs alles Zurückbrechen, des Schalles gegen die Bühne hin, nachtheilig iſt, und das Gegentheil von dem bewirkt was man beabſichtigt, mithin alle runden Formen verwerflich ſind (verſteht ſich ohne ſtufenförmige Einrichtung der Sitze, da bei dieſer, wie ſchon gezeigt iſt, die Rückwirkung unbemerklich iſt).
+Die Gründe ſind evident; denn 1) iſt der Raum des Theaters unter 60 Fuſs in der weiteſten Entfernung von der Bühne, ſo braucht auf die Rückwirkung gar nicht gerechnet zu werden, weil 1) die natürliche Fortpflanzung des Schalles auf 75 Fuſs hinreicht 2) die Rückwirkung ſo ſchnell erfolgt, daſs ſie unmerklich iſt.
+2) Der Raum iſt über 60 Fuſs ausgedehnt, und die Rückwirkung wird bemerklich; es entſteht Wiederhall und Nachhall zugleicher Zeit:
+Verſtärkt kann der Ton dadurch nicht werden, weil die Wirkung des erſten wirklichen Tons im Ohr ſchon vorüber iſt; wenn die Rückwirkung es erreicht.
+Der Ton wird alſo nur verlängert, und ſchwindet, da auch die Rückwirkungen des Wiederhalls und Nachhalls wieder bemerklich werden, nach und nach hin.
+Die Rede der Schauſpieler muſs durch dieſen Umſtand nothwendig unverſtändlich werden, da die Rückwirkung des erſten Tons mit dem zweiten Tone zu gleicher Zeit das Ohr erreicht, und ſich folglich unter einander verwirren.
+Die Beobachtung, daſs das hier Geſagte ſich wirklich in der Natur ſo verhalte, kann man in jedem groſsen Theater von runder, oder ovaler Form machen.
+Man hört auf entfernten Sitzen nichts als einen unverſtändlichen Hall, weil die natürliche Fortpflanzung des Schalls der Rede entweder nicht bis dahin reicht, oder ſie von dem ſich immer durchkreuzenden Wiederhall und Nachhall in Unordnung gebracht oder gar verſchlungen wird:
+Da indeſs unter der Menge von Theatern, in Europa nur wenige ſo groſs ſind daſs dieſe nachtheilige Wirkung des Wiederhalls in Ihnen bemerklich werden könnte, und man doch in ſehr vielen kleinern Theatern faſt eben jene Nachtheile verſpührt, muſs es noch andere Gründe geben, woraus ein Theil derſelben herzuleiten iſt, die ich auch in einem beſondern Abſchnitt erläutern werde.
+Stieglitz giebt in ſeiner Encyklopädie der bürgerlichen Baukunſt, fünf verſchiedene Plane an, nach welchen alle ihm bekannten Schauſpielhäuſer erbaut, und die von Bauverſtändigen vorgeſchlagen ſind.
+Zwei davon gehören der eigentlichen Anlage nach nicht unter dieſe Klaſſe, als der Halbzirkel, welcher unter die vorige gehört, und der Halbzirkel mit verlängerten Seiten, welcher unter die folgende Klaſſe gehört; da aber bei beiden der Seitenlogenbau empfohlen, und die ſtufenförmigen Sitze verworfen werden; ſo haben ſie den Vortheil nicht der aus ihrer Form entſpringt; und zwar verliehrt der Halbzirkel dadurch alles, und die zweite Form, wo dem Halbzirkel noch gerade fortlaufende Seitenwände gegeben werden, vieles.
+Die übrigen Formen, als
+1) Der Plan, welchen Stieglitz Cochin zuſchreibt.
+Er beſteht in einem Oval deſſen längerer Durchmeſſer mit der Bühne paralel läuft (Fig. 2).
+Der erſte welcher dieſe Form angab war unſtreitig Palladio, welcher das ſogenannte Olympiſche Theater in Vicenza in derſelben erbaute.
+Der bekannte Le Roi machte von dieſer Form des Pallidio Gebrauch, und gründete darauf ſeinen Vorſchlag zu einem Schauſpielhauſe, welches den Anmerkungen des Abts Laugier über die Baukunſt, angehangen iſt.
+Der Plan hat allerdings Vorzüge vor dem Oval, deſſen kleinerer Durchmeſſer mit der Bühne paralel läuft, in Rückſicht des Hörens weil die Zuſchauer nicht ſo weit von der Scene entfernt ſind.
+Allein 1) wird die Form der Scene dadurch äuſserſt unbequem, indem ſie faſt in einem Halbkreiſe vorſpringt, und die Schauſpieler ganz an die Peripherie deſſelben vortreten müſsen, wenn ſie aus den Seitenlogen geſehen werden ſollen.
+Die Decoration der eigendlichen Scene geht dadurch für die mehreſten Zuſchauer gänzlich verloren.
+2) iſt die Form auch nur in kleinen Häuſern anwendbar, wo noch kein Wiederhall möglich iſt; denn findet dieſer ſtatt, ſo muſs dieſe Form nachtheiliger als die übrigen ſeyn.
+2) Der Plan des Pattes, welcher in einem Oval beſteht deſſen kürzerer Durchmeſſer mit der Bühne paralel läuft (Fig. 3).
+Dieſe Bauart iſt, wegen der Bequehmlichkeit in der Anlage, faſt allgemein befolgt, da man in derſelben aber, ſo bald das Theater groſs iſt, die nachtheiligen Folgen des Wiederhalls bemerkte, oder überall nicht deutlich hören konnte, ſo künſtelte man an dieſer Form nach Möglichkeit.
+Einige wählten die Elypſe, und legten den einen Brennpunkt derſelben auf die Scene, andere zogen die Parabel vor, weil alle Schallſtrahlen welche in derſelben auffallen gerade nach der Bühne zurückgebrochen werden.
+Beide Formen, auch wenn der Baumeiſter ein Oval wählt das von beiden Linien abweicht, ſind wegen des Zurückbrechens des Schalles nach der Bühne in groſsen Häuſern verwerflich.
+3) Der Plan des Saunders.
+Dieſer Architect gab ſich viele Mühe die beſte Form eines Theaters aus Verſuchen zu beſtimmen.
+Er zog daher in freien Felde einen Kreis, deſſen Durchmeſſer 100 Fuſs betrug.
+Auf dieſem Kreiſe ſtellte er allenthalben Menſchen umher, und lieſs im Mittelpunkt jemanden reden.
+Man verſtand ihn in dem ganzen vordern Halbkreiſe.
+Nun lieſs er den Sprecher zurückgehn, und fand, wenn derſelbe 25 Fuſs vom Mittelpunkt entfernt, und gegen die Peripherie rückwärts gegangen war, man ihm auf dem ganzen Kreiſe des Zirkels ſehr gut verſtehen konnte.
+Er gab nun ſeinem Theater die Form eines Kreiſes, der in der Hälfte des Radius von der Scene durchſchnitten wird.
+(Fig. 4).
+Allein nicht zu erwähnen, daſs alle Zuſchauer welche in den Seitenlogen ſind, von der Bühne faſt gar nichts ſehen können, brachte Sanders den Wiederhall gar nicht in Anſchlag, welcher ſich in dieſer Form ſtärker als in allen übrigen erzeugt.
+Alle dieſe vorgeſchlagene Formen ſind alſo ſchlechthin verwerflich, weil ſie entweder auf die Geſetze des Schalles entweder gar nicht Rückſicht nehmen wie Saunders, oder ſie verkehrt anwenden, wie le Roi und Pattes; und folglich in ihren Gebäuden eine Wirkung hervorgebracht wird, welche das Gegentheil von dem enthält was ſie beabſichtigten.
+Ich komme jetzt auf
+Die Schauſpielhäuſer in welchen der Schall von der Bühne weggebrochen wird.
+Wenn der Schall von dem Orte wo er entſteht weggebrochen wird, ſo lehrt die Erfahrung daſs er dadurch auf eine groſse Weite fortgeflanzt werden kann, wohin er bei natürlicher Verbreitung nicht gekommen ſein würde, ja daſs er durch dieſe Mittel ſich ſehr verſtärken läſst.
+Die Beweiſe liefern die Kommunikationsröhre und das Sprachrohr.
+Durch erſtere wird der Schall in eben der Stärke fortgepflanzt wie er entſteht, durch das zweite wird er verſtärkt.
+Der Grund des Unterſchiedes von beiden Wirkungen liegt wie in der Theorie angezeigt iſt, in der Richtung der Wände zwiſchen welchen der Ton fortgebrochen wird.
+Es iſt faſt unbegreiflich wie man dieſen ſo allgemein bekannten Erfahrungen nicht auf den Bau der Schauſpielhäuſer angewandt hat, da das Vortheilhafte dieſer Anwendung nicht allein aus dem bloſsen Grundſatze von ſelbſt einleuchtet, ſondern auch die Erfahrung und Verſuche welche zu machen faſt in jedermanns Gewalt ſtehn, beweiſen, daſs man nicht unrichtig geſchloſsen habe.
+Jeder bewundert die deutliche und klare Verbreitung des Schalles in den Baſiliken der Alten, in welchen man überall jedes Wort hört, das an einem Ende, wo die Richter ſich aufhielten, geſprochen wird; und doch iſt die Erſcheinung ſo leicht und beſtimmt zu erklären: indem der Schall in denſelben von dem Sprechenden weg, (nach den Geſetzen der Kommunikationsröhre) gebrochen wird.
+In dieſer verbreitet ſich der Schall nicht allein in gerader Richtung wie er einfällt, ſondern auch alle an die Seiten anſchlagende Schallſtrahlen werden unter den Einfallwinkel von dem Sprechenden weggebrochen, ſo daſs jeder Strahl das andere Ende der Röhre erreicht.
+Daher kommt es, daſs, wenn z. B. in eine 20 bis 30 Fuſs lange Röhre noch ſo leiſe geſprochen wird, man am andern Ende alles eben ſo deutlich vernimmt, als ob man das Ohr unmittelbar an den Mund des Sprechenden legte.
+Nach eben dieſen Geſetzen wird in den Baſiliken der Schall an den Seitenwänden und der Decke weggebrochen, und bis ans Ende des Gebäudes fortgetragen.
+Eben dieſe Erſcheinung gewähren alle gut gebauten Kirchen, wenn ſie nicht zu breit, oder zu hoch, oder durch unzweckmäſsige Logen verbaut ſind.
+Was indeſs die Baukünſtler noch eher hätte auf dieſe Bauart aufmerkſam machen ſollen, iſt das Schauſpielhaus in Parma.
+Es wird faſt in allen Schriften, in welchen über den Schauſpielhausbau geſprochen wird, als eine merkwürdige Erſcheinung angeführt, indem man in demſelben überall auf allen Sitzen, jedes Wort der Schauſpieler deutlich hören kann.
+Es iſt ſonderbar, aus welchen Gründen ſelbſt ſcharfſinnige Baukünſtler dieſe Eigenſchaft haben erklären wollen, da der wahre unleugbare Grund ſo nahe liegt.
+Es hat nehmlich paralel fortlaufende Seitenwände, welche unten mit einen Halbzirkel geſchloſſen ſind.
+(Fig. 5).
+Der Schall pflanzt ſich alſo in denſelben nach dem Geſetze der Kommunikationsröhre fort, und muſs nothwendig die Eigenſchaft hervorbringen welche man davon rühmt.
+Ein ſonderbarer Erklärungsgrund der ſchönen Verbreitung des Schalles in dieſem Hauſe, iſt der welchen Stieglitz (Encyklop: 614 im 4. Theil) wenn ich nicht irre aus Saunders anführt daſs das mehrſte dazu die Bretter beitrügen mit welchen überall die Wände getäfelt ſind.
+Die Bretter können nicht mehr wirken als jede glatte Kalkwand, nehmlich den Schall fortbrechen, und wenn ſie mehr thun, wenn ſie ſelbſt in Schwingung gerathen und — gleich einem Reſonanzboden mittönen, ſchaden ſie, wie ich in der Folge zeigen werde, offenbar der Deutlichkeit.
+Es iſt alſo der Bau mit paralelen Wänden, und einer nicht zu hohen, mit den Boden paralel laufenden Decke, ohne alle Beſorgniſs des Miſslingens zu empfehlen, da der Erfolg dem Zweck durchaus entſprechen muſs.
+Das einzige wovor der Baukünſtler ſich hüten muſs, iſt: daſs nicht von der, der Bühne gegenüberliegenden Wand eine Rückwirkung des Schalles ein Brechen nach der Bühne zurück, entſtehe.
+Das einzige Mittel dies zu verhüten iſt: ſie ſo anzulegen, daſs der Schall in keinen Zeitmoment eine ſo groſse Wiederſtands-Maſſe finde, von welcher die Rückwirkung bemerklich werden könnte Dies erreicht der Baumeiſter, wenn er die Schluſswand in einen halben Zirkel verwandelt, und die Sitze ſtufenförmig über einander anlegt; wie im erſten Abſchnitt erwieſen worden.
+Was man gegen dieſe Bauart einwerfen könnte iſt die Unbequemlichkeit der Seitenſitze, wie ſie in Parma wirklich ſtatt findet, weil die Zuſchauer ſich ganz auf die Seite wenden müſsen, um nach der Bühne zu ſehen.
+Allein dem allen iſt abgeholfen, wenn man nach den Beiſpiel des Serlio in Vicenza gar keine Seitenſitze anlegt, ſondern die geſammten Sitze von der Bühne an, mit der hintern Schluſswand paralel in Halbkreiſen, und ſtuffenförmig erbaut.
+Es wird dadurch nicht allein kein Platz velohrnern ſondern vielmehr gewonnen und jeder Zuſchauer hat die Bühne rade vor ſich.
+Auch in Hinſicht der Architectoniſchen Schönheit der Einrichtung verdient dieſe Bauart den Vorzug, indem die leeren Seitenwände, wie dies in Parma der Fall iſt, vortrefflich decorirt werden können.
+Dieſe Decorationen dürfen indeſs nicht in ſtarken Erhöhungen oder Vertiefungen der Wand beſtehen, wenn ſie den vortheilhaften Wirkungen derſelben nicht ſchädlich werden ſollen.
+Jede ſtarke Hervorſpringung hemmt das Wegbrechen der Schallſtrahlen von der Bühne, und wenn ſie auch nicht im Stande iſt Wiederhall hervorzubringen, ſo ſteht ſie doch der freien Verbreitung im Wege; eben ſo verſchluckt jede Vertiefung die Strahlen welche hineinfallen, ohne ſie weiter zu brechen.
+Je ebner die Wand iſt, je vortheilhafter wirkt ſie für den Schall' und die Decoration derſelben müſste alſo vorzüglich in Mahlerei beſtehen.
+Ich komme jetzt auf Schauſpielhäuſer, in welchen der Schall
+nach den Geſetzen des Sprachrohrs verbreitet wird, und deren Seitenwände folglich nach der Bühne zu in einen ſpitzigen Winkel zuſammenlaufen.
+Von allen mir bekannten Theatern ſind die Ruinen des alten Theaters zu Athen, deren ich ſchon im erſten Abſchnitt erwähnt habe, der einzige Beweis von einem Baue nach dieſen Geſetzen.
+Da der Schall in einem Gebäude dieſer Art nicht allein fortgebrochen, ſondern überdies auch verſtärkt wird; ſo iſt es in die Augen fallend, wie vortheilhaft für groſse Schauplätze dieſe Form ſeyn müſse.
+Je mehr indeſs auf die Fortpflanzung des Schalles durch Wegbrechung von den Sprechenden gerechnet wird, je ſorgfältiger muſs alles vermieden werden was irgend eine Rückwirkung, oder Wiederhall hervorbringen könnte: weil dadurch aller Vortheil wieder vernichtet würde, der aus der Wahl der Form entſpringt.
+Es bleibt alſo für die, nach einem ſpitzigen Winkel auseinander laufenden Seitenwände eines Hauſes nichts übrig, als ſie — nach dem Beiſpiel jenes griechiſchen Theaters — mit einem Halbzirkel zu ſchlieſsen, und die Sitze der Zuſchauer in demſelben ſtufenförmig über einander anzulegen.
+Die Beweiſe für das Vortheilhafte dieſer Einrichtung ſind bereits in den vorigen Abſchnitten angeführt worden.
+Zum Schluſs bemerke ich nun noch, daſs für groſse Theater dieſe Form allen übrigen vorzuziehen ſei, indem eine gewöhnliche Stimme in derſelben für zwanzigtauſend und mehrere Zuhörer verſtändlich bleiben muſs.
+Dritter Abſchnitt.
+Von den Hinderniſſen insbeſondere, welche in Schauspielhäuſern der Verbreitung des Schalles im Wege ſtehn.
+Dieſe Hinderniſſe finden ſich theils im Theater (dem Raume, welchen die Zuſchauer einnehmen) theils auf der Bühne.
+Ich werde von beiden beſonders reden.
+Im Theater rühren ſie entweder von der Form der Einrichtung, oder von dem Mittönen ſchallender Körper her.
+Die erſtern ſind in den vorigen Abſchnitten deutlich gezeigt, ich will hier noch auf einiges aufmerkſam machen, was ich vorhin nur andeuten konnte.
+Es darf 1) der natürlichen Verbreitung des Schalles nichts in den Weg geſetzt werden, wodurch ſie aufgehalten wird.
+Aus dieſem Fehler wird erklärlich, wie man im Parterre, auch in kleinen Schauſpielhäuſern nicht wohl hört, wenn der Boden eine zu horizontale Richtung hat, und ſich hinten nicht genug hebt.
+Die vordern Zuſchauer ſtehn der Verbreitung des Schalles nach hinten zu im Wege, der Schall kann nur durch Brechung von den Seiten und von oben dahin gelangen und muſs folglich ſchwach und unverſtändlich ſeyn.
+Man ſieht auch hieraus, wie zweckmäſsig die ſtufenförmige Einrichtung der Sitze, nach Art der alten Theater ſei.
+Die nachtheilige Wirkung der Querwände in den Seitenlogen, iſt gleichfalls hieraus deutlich.
+Sie hemmen überall die natürliche Verbreitung des Schalles und befördern überdies auch den Wiederhall, und in der Vermeidung desſelben beſteht die 2te Hauptregel.
+Es iſt bereits erwieſen worden, daſs die gänzliche Vermeidung des Wiederhalls nur durch die Einrichtung der Stufenförmigen Sitze für die Zuſchauer möglich iſt, indem die Seitenlogen überall dem Schalle ſo groſse Maſsen entgegen ſetzen, welche nothwendig eine Rückwirkung hervorbringen müſsen.
+Die Seitenlogen wären mithin ganz verwerflich; wenn die Erſpahrung des Raumes an manchen Orten ſie nicht durchaus nothwendig machte; indem bei der Einrichtung der ſtufenförmigen Sitze das ganze Haus nur ſo viel Zuſchauer faſst, als bei der Logeneinrichtung — der untere Raum, Parket und Parterre faſst.
+Man müſste ſie alſo nur ſo unſchädlich als möglich zu machen ſuchen.
+Dies müſste durch ihre Einrichtung erreicht werden, wobei ich zugleich auf das zweite Haupthinderniſs, das Mittſchallen gewiſser Körper, Rückſicht nehmen werde.
+Die Erfahrung lehrt, daſs faſst unter allen Körpern dünne Bretter an leichteſten durch die Erſchütterung der Luft beim Schalle in Bewegung, und folglich zum Mittönen gebracht werden können.
+Nun ſind die Logen faſst überall mit dergleichen Brettern bekleidet, und dieſem Umſtande iſt allein das Nachhallen und Summen des Tons in kleinen Schauſpielhäuſern zu zuſchreiben, da ſie zur Entſtehung des Wiederhalls nicht Raum genug haben.
+Um dieſem Uebel abzuhelfen, müſsten die Logen an der Rückſeite eine Steinwand haben, der Boden müſste von ſtarkem Holz, und die Bruſtlehne, wenn ſie ja von Holz ſeyn ſoll, nicht von zuſammenhangenden Brettern, ſondern unterbrochen, von Docken erbaut werden.
+Am zweckmäſsigſten würde ſie aus Eiſen, nach der Art wie die Geländer an Balkons u. ſ. w. gemacht werden können.
+Die Abſonderungswände der Logen müſsen ganz wegfallen, oder dürfen nur wie die Bruſtlehne, angelegt werden.
+Die Sitze auf den Logen ſelbſt müſsten ſtufenförmig über einander gebaut ſeyn, welches auch das bequeme Sehen ſehr befördern würde.
+Einen Einwurf, welchen man oft der Stuffenförmigen Einrichtung der Sitze im Theater überhaupt entgegenſetzt, muſs ich kurz berühren.
+Man ſagt es lieſsen ſich bei derſelben nicht wohl ausgezeichnete Plätze, z. B. für fürſtliche Familien u. ſ. w. anbringen.
+Allein der Bau einer oder etlicher Logen in der Mitte des Hauſes, hindert den Vortheilen der Einrichtung im Ganzen durchaus nicht, und hat was die Plätze ſelbſt betrift, ungemein viel vor der jetzigen Einrichtung voraus.
+Denn 1) kämen dieſe Logen der Bühne viel näher welches bei etwas groſsen Häuſern ein bedeutender Vortheil wäre, und 2) gewährte der freie Ueberblick der geſammten Zuſchauer ein neues Vergnügen.
+Um dieſe Idee noch anſchaulicher zu machen, füge ich in Fig: 6 den Aufriſs einer ſolchen Einrichtung bei.
+Es verſteht ſich übrigens von ſelbſt, daſs dieſer Logen nicht viel ſein, und daſs ſie, was ihren Bau und vorzüglich die Bruſtlehne betrift, eben ſo eingerichtet ſeyn müſsten, wie vorher angegeben worden, nur daſs die ſttufenförmigen Sitze wegfielen.
+Ich komme jetzt auf die Hinderniſse, welche der Verbreitung des Schalles ſchon auf der Bühne im Wege ſtehen.
+Nach der gewöhnlichen Einrichtung der Bühne haben die Seitenwände derſelben eine ganz andere Richtung äls die Wände des Theaters; ja die Richtung der Couliſſen iſt ſo, daſs überall kein Schall von ihnen nach dem Theater hin gebrochen werden kann; ſie verſchlucken ihn vielmehr, wenn der Schauſpieler etwas von der Oefnung der Scene zurück ſpricht, und laſsen nichts von ihm übrig als was gerade in das Theater hineinſchallt.
+Es früge ſich nun, ob dieſe durchbrochene Seitenwände auf der Bühne nothwendig ſind, ob ſie ſich nicht mit einer andern, der Verbreitung des Schalles vortheilhaftern Einrichtung vertauſchen lieſsen?
+Die Gründe welche man für die Einrichtung mit Couliſsen anführen kann, ſind folgende:
+1)
+Die gröſsere Bequemlichkeit bei Verwandlung der Scenen.
+Eine ganze feſte Wand mit einer andern zu vertauſchen, iſt ſchwieriger, als wenn dieſe Wand in kleinere Theile zerlegt wird.
+Jeder Theil kann dann beſonders gewechſelt, und ſo das Ganze ohne viel Umſtände verändert werden.
+Ich werde in der Folge einen Vorſchlag zur Einrichtung der Bühnen thun, welcher dieſen Vortheil in einen viel höhern Grade gewährt, ohne den Nachtheil für die Verbreitung des Schalles zu haben, der von den Couliſsen unzertrennlich iſt.
+2) Die Beleuchtung der Bühne.
+Es iſt in der That mit groſsen Schwierigkeiten verbunden, die Bühne gehörig zu erhellen, wenn die Seitenwände nicht durchbrochen ſind.
+Allein dieſe Schwierigkeiten vermindern ſich, wenn man annimmt, daſs gerade die ganzen Seitenwände nicht feſt zu ſeyn brauchen, ſondern nur längſt dem Raume in welchem gewöhnlich gehandelt wird.
+Man ſucht dies zwar durch die Proſcenien zu bewirken, aber dieſe ſind theils zu klein, um dieſem Zwecke zu entſprechen, theils werden ſie wieder durch die in ihnen angebrachten Logen unwirkſam gemacht.
+Es ſcheint dem nach, daſs man an die Stelle der Couliſsen die bekannten Drehmaſchinen der Alten mit ſichtbarem Vortheil ſetzen könnte.
+Dieſe Maſchinen waren dreieckig, und die Seiten derſelben, wie die Couliſſen bemahlt.
+Sie bildeten die Seitenwände der Bühne, und da ſie mit der gröſsten Leichtigkeit herum gedreht werden konnten, war die Veränderung der Scene mit der möglichſten Geſchwindigkeit ausgeführt; wobei noch der Vortheil ſtatt findet, daſs keine Irrung in den Decorationen entſtehen kann, wie bei den beſten Maſchinerien nach der jetzigen Einrichtung ſo oft der Fall iſt, da ein Baum in einem Zimmer oder ein Stück Wand in einem Walde ſichtbar wird.
+Dieſe Drehmaſchinen, welche unten und oben mit einer eiſernen Angel verſehen ſind, müſsen zwiſchen zwei drei bis ſechs Fuſs breit, bis ſo eingerichtet ſein, daſs man auf die Seiten die auf Rahmen geſpannte und bemahlte Leinewand leicht wegnehmen, und eine andre an die Stelle ſetzen kann.
+Soll die Scene ein Zimmer vorſtellen, ſo können ſie gedreht werden, daſs ſie eine feſte Wand bilden, in welcher ordentliche Thüren angebracht werden können.
+Stellt die Scene eine freie Gegend vor; ſo können wenigſtens die der Oefnung der Scene am nächſten ſtehenden Maſchinen eine feſte Wand bilden, (Siehe Fig: 7) und die hinteren, der Beleuchtung oder andrer Urſachen wegen, Durchgänge zwiſchen ſich laſſen.
+In dieſem letztern Falle würde von der Beleuchtung kein Grund gegen den Vorſchlag herzunehmen ſeyn, wohl aber wenn die Wände ganz feſt ſeyn ſollten.
+Es würde dann ſchwer werden die Bühne ganz zu erhellen; doch auch dies wäre, wenn man etwas Koſten nicht ſcheute, durch mehrere mit Spiegeln verſehene Lampen über der Oefnung der Scene zu bewerkſtelligen.
+Dieſe Beleuchtungsart würde noch den Vortheil haben, daſs das Licht den Schauſpieler hebt, und der Umſtand nicht eintritt, der bei der jetzigen Einrichtung ihm oft ſo nachtheilig wird, daſs nehmlich die Bühne hinten ungleich heller iſt als vorne, und er als eine dunkle Figur ſich vor dem leichten Hintergrunde bewegt.
+Erforderte auch die Decoration z. B. in einer freien Gegend hinten ein ſtarkes Licht, ſo wird ihn doch die von vorn einfallende ſtarke Beleuchtung nicht ſinken laſsen, und wenigſtens ſein Minenſpiel und ſeine feinere Mimik immer ſichtbar erhalten.
+Sollten groſse Säle u. s. w. vorgeſtellt werden, ſo würde ja auch die Illuſion nicht geſtöhrt werden, wenn die Beleuchtung durch Kronenleuchter, und Lichte auf der Bühne ſelbſt verſtärkt würde.
+Ueberhaupt bekäme man dadurch das Licht mehr in ſeine Gewalt, und es würde eine Art von Schatten bilden, welches die mahleriſche Wirkung einer Gruppe ungemein erhöhn müſste
+Ich habe indeſs dieſe Einrichtung der Bühne hier nur in Rückſicht des Vortheils für die Verbreitung des Schalles angegeben, und einige der Hauptſchwierigkeiten zu heben geſucht, welche man ihm entgegenſetzen könnte.
+Es liegt alſo auſser meinem Zwecke, hier die mannigfaltigen Modificationen dieſer Einrichtung, in Betref der Schönheit und des Täuſchenden der Decorationen, die ſchnellere Verwandlung der Bühne welche dadurch möglich wird, und endlich die groſse Erſpahrung der Koſten in Betref des Maſchinenweſens überhaupt auszuführen.
+Der, für die Verbreitung des Schalles aus dieſer Einrichtung entſpringende, Vortheil iſt, alles zuſammengenommen, folgender:
+„Man kann den Seitenwänden der Scene eine Richtung geben, welche der Richtung der Seitenwände des Theaters entſpricht, und durch die feſte Einrichtung derſelben es möglich machen, daſs der Schall ſchon von der Bühne weg in das Theater hin gebrochen, und dadurch die Verbreitung deſſelben ungemein befördert wird.
+Ich habe dieſen nicht unwichtigen Theil der, dem Baukünſtler nöthigen Wiſſenſchaft, in einem ſo kurzen Grundriſse vorgelegt, um ihm die Ueberſicht des Ganzen zu erleichtern.
+Er wird ſich nach einer aufmerkſamen Durchleſung in Stand geſezt finden, den Gegenſtand richtig zu beurtheilen, und die angegebenen Regeln auf hundert Fälle anwenden können, die ich nicht anführen durfte, ohne weitläuftig zu werden; ſich auch bei der Klarheit der Sache ſelbſt manchen Einwurf beantworten, den ich überging, und übergehen muſste, wenn ich die mir einmahl vorgeſchriebenen Grenzen nicht überſchreiten wollte.
