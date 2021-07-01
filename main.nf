@@ -1,6 +1,7 @@
 
 
-Channel.fromPath("./gesamt/*.txt").set { text_channel }
+/* Channel.fromPath("./gesamt/*.txt").set { text_channel } */
+Channel.fromPath("./workflows/raeuber.txt").set { text_channel }
 
 /* Read in content of python modules*/
 python_tokenizer = file("./lib/tokenizer.py")
