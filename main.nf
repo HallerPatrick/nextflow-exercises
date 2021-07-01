@@ -1,13 +1,13 @@
 
 
 /* Channel.fromPath("./gesamt/*.txt").set { text_channel } */
-Channel.fromPath("./workflows/raeuber.txt").set { text_channel }
+Channel.fromPath("workflows/raeuber.txt").set { text_channel }
 
 /* Read in content of python modules*/
-python_tokenizer = file("./lib/tokenizer.py")
-python_freqs = file("./lib/freqs.py")
-python_kmers = file("./lib/kmers.py")
-python_merger = file("./lib/merger.py")
+python_tokenizer = file("lib/tokenizer.py")
+python_freqs = file("lib/freqs.py")
+python_kmers = file("lib/kmers.py")
+python_merger = file("lib/merger.py")
 
 
 process tokenize {
@@ -77,7 +77,7 @@ process kmers {
 
 process merge {
 
-    publishDir "./results", mode: "copy"
+    publishDir "results", mode: "copy"
 
     input:
     file 'merger.py' from Channel.value(python_merger.text)
