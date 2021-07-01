@@ -1,8 +1,9 @@
+
+
 Channel.fromPath("./gesamt/*.txt").set { text_channel }
 
-
-/* Read content of python module into */
-python_common = file("./lib/common.py")
+/* Read in content of python modules*/
+python_tokenizer = file("./lib/tokenizer.py")
 python_freqs = file("./lib/freqs.py")
 python_kmers = file("./lib/kmers.py")
 python_merger = file("./lib/merger.py")
@@ -13,8 +14,8 @@ process tokenize {
     input:
     file some_file from text_channel
 
-    /* Pass python content into workspace file common.py */
-    file 'common.py' from Channel.value(python_common.text)
+    /* Pass python content into workspace file tokenize.py */
+    file 'tokenize.py' from Channel.value(python_tokenizer.text)
 
     output:
     file 'tokenized_*' into tokenized_files
@@ -22,17 +23,14 @@ process tokenize {
     """
     #!/usr/bin/env python3
 
-    from common import tokenize
-    
-    
+    from tokenize import tokenize
 
     tokens = tokenize("$some_file")
 
     with open("tokenized_$some_file", "w") as f:
-        f.write(" ".join(tokens))
-    
+       f.write(" ".join(tokens))
+        
     """
-
 }
 
 tokenized_files.into { freqs_tokens; kmers_tokens }
@@ -76,14 +74,13 @@ process kmers {
     """
 }
 
-Channel.fromFilePairs("./{kmers_, freqs_}*.json").view()
-
 process merge {
 
     publishDir "./results", mode: "copy"
 
     input:
     file 'merger.py' from Channel.value(python_merger.text)
+
     file freqs_file from freqs_files.collect()
     file kmers_file from kmers_files.collect()
 
@@ -92,7 +89,7 @@ process merge {
     
 
     """
-     #!/usr/bin/env python3
+    #!/usr/bin/env python3
     
     from merger import merger
 
