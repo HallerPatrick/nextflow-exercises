@@ -16,7 +16,7 @@ process tokenize {
     file some_file from text_channel
 
     /* Pass python content into workspace file tokenize.py */
-    file 'tokenize.py' from Channel.value(python_tokenizer.text)
+    file 'tokenizer.py' from Channel.value(python_tokenizer.text)
 
     output:
     file 'tokenized_*' into tokenized_files
@@ -24,7 +24,7 @@ process tokenize {
     """
     #!/usr/bin/env python3
 
-    from tokenize import tokenize
+    from tokenizer import tokenize
 
     tokens = tokenize("$some_file")
 
